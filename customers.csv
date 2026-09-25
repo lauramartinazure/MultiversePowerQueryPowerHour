@@ -1,0 +1,1351 @@
+CustomerID,CustomerName,Segment,Region,SignupDate,LoyaltyTier
+C00001,Alex Patel,Small Business,West,2019-12-14,None
+C00002,Daniel Brown,Consumer,North,2025-09-12,Bronze
+C00003,Noah Ali,Consumer,Central,2020-07-10,Silver
+C00004,Sofia Martin,Small Business,North,2024-06-27,Bronze
+C00005,Amira Davies,Small Business,Central,2019-01-25,None
+C00006,Emily Evans,Small Business,South,2024-07-24,None
+C00007,Oliver Thomas,Enterprise,South,2024-07-26,Silver
+C00008,Liam Wilson,Enterprise,East,2020-04-20,Bronze
+C00009,Sam Singh,Enterprise,West,2023-07-24,None
+C00010,Liam Wilson,Consumer,West,2023-12-09,Silver
+C00011,Liam Ali,Enterprise,South,2019-02-23,Gold
+C00012,Sam Walker,Consumer,West,2023-03-17,Bronze
+C00013,Noah Wilson,Enterprise,South,2023-08-20,Gold
+C00014,Morgan Wilson,Consumer,Central,2025-06-25,Silver
+C00015,Sam Johnson,Enterprise,East,2023-08-06,Gold
+C00016,Amira Chen,Small Business,South,2025-12-24,Bronze
+C00017,Aisha Taylor,Consumer,West,2021-03-27,None
+C00018,Aisha Ali,Small Business,Central,2024-06-15,None
+C00019,Oliver Walker,Enterprise,North,2025-08-14,Gold
+C00020,Maya Walker,Small Business,Central,2021-02-15,None
+C00021,Emily Walker,Consumer,North,2023-04-12,Gold
+C00022,Sofia Evans,Consumer,South,2022-02-27,Gold
+C00023,Robin Khan,Enterprise,South,2025-03-11,Gold
+C00024,Fatima Brown,Small Business,Central,2025-12-15,Gold
+C00025,Daniel Brown,Enterprise,East,2020-04-05,Bronze
+C00026,Amira Wright,Small Business,Central,2025-07-17,Silver
+C00027,Emily Martin,Enterprise,East,2020-08-23,Silver
+C00028,Liam Thomas,Enterprise,Central,2021-09-09,None
+C00029,Sofia Wright,Consumer,South,2020-11-16,None
+C00030,Noah Taylor,Consumer,West,2024-06-18,Gold
+C00031,Alex Wright,Small Business,South,2021-07-01,None
+C00032,Amira Chen,Enterprise,West,2024-06-10,Bronze
+C00033,Noah Taylor,Small Business,East,2022-03-06,None
+C00034,Amira Martin,Enterprise,East,2023-10-04,Gold
+C00035,Alex Wright,Consumer,South,2019-12-15,Silver
+C00036,Alex Patel,Enterprise,North,2021-12-19,Gold
+C00037,Alex Davies,Small Business,South,2024-07-26,None
+C00038,Maya Ahmed,Small Business,South,2023-11-22,Bronze
+C00039,Alex Evans,Consumer,Central,2025-01-01,Silver
+C00040,Oliver Walker,Enterprise,South,2021-01-06,None
+C00041,Priya Khan,Consumer,North,2025-09-26,Silver
+C00042,Sam Ali,Small Business,South,2024-02-03,Bronze
+C00043,Amira Ali,Small Business,Central,2021-07-16,None
+C00044,Robin Evans,Consumer,South,2019-02-17,Silver
+C00045,Daniel Patel,Enterprise,South,2025-08-16,Silver
+C00046,Fatima Ali,Consumer,Central,2023-10-10,Gold
+C00047,Oliver Chen,Small Business,Central,2019-05-12,Bronze
+C00048,Alex Martin,Enterprise,North,2021-08-08,Gold
+C00049,Priya Wilson,Enterprise,Central,2020-09-14,Silver
+C00050,Robin Chen,Consumer,East,2020-09-19,Bronze
+C00051,Noah Wilson,Small Business,West,2022-10-05,Silver
+C00052,Alex Thomas,Consumer,South,2025-08-11,Silver
+C00053,Sam Singh,Enterprise,West,2023-09-20,Gold
+C00054,Robin Davies,Small Business,East,2022-11-22,Silver
+C00055,Grace Patel,Enterprise,Central,2019-05-17,Bronze
+C00056,Sofia Wright,Small Business,West,2021-03-24,Bronze
+C00057,Alex Martin,Small Business,North,2020-07-10,Bronze
+C00058,Sam Wright,Small Business,East,2024-12-08,Silver
+C00059,Priya Khan,Enterprise,East,2020-02-22,Bronze
+C00060,Grace Patel,Small Business,South,2019-03-13,None
+C00061,Maya Wright,Consumer,South,2020-08-26,Bronze
+C00062,Amira Singh,Enterprise,North,2020-04-16,None
+C00063,Grace Ahmed,Consumer,Central,2023-04-03,Gold
+C00064,Alex Singh,Enterprise,Central,2024-02-18,Gold
+C00065,Emily Davies,Enterprise,West,2023-08-04,Bronze
+C00066,Maya Evans,Enterprise,South,2022-05-19,None
+C00067,Grace Ahmed,Consumer,South,2021-06-05,Bronze
+C00068,Robin Chen,Enterprise,West,2020-08-17,Bronze
+C00069,Sam Johnson,Consumer,East,2019-06-28,Gold
+C00070,Sam Singh,Small Business,Central,2025-03-14,Silver
+C00071,Alex Ahmed,Consumer,West,2019-06-24,Bronze
+C00072,Aisha Brown,Consumer,West,2022-12-12,Bronze
+C00073,Emily Thomas,Enterprise,East,2024-08-21,None
+C00074,Sofia Ahmed,Consumer,Central,2023-11-20,None
+C00075,Sofia Johnson,Enterprise,East,2025-09-08,Gold
+C00076,Priya Thomas,Consumer,West,2020-04-24,Gold
+C00077,Aisha Davies,Small Business,West,2023-08-26,None
+C00078,Oliver Wright,Consumer,South,2020-03-20,None
+C00079,Morgan Patel,Small Business,North,2020-08-25,Bronze
+C00080,Sam Taylor,Consumer,West,2021-07-12,Bronze
+C00081,Liam Singh,Enterprise,West,2021-07-09,Bronze
+C00082,Aisha Walker,Enterprise,South,2025-09-18,Gold
+C00083,Grace Patel,Small Business,West,2022-03-10,None
+C00084,Grace Ali,Enterprise,South,2021-07-12,Bronze
+C00085,Emily Brown,Enterprise,North,2019-09-01,Bronze
+C00086,Sam Khan,Consumer,East,2023-11-13,Gold
+C00087,Fatima Walker,Enterprise,East,2025-08-16,None
+C00088,Sam Davies,Small Business,North,2023-11-27,Silver
+C00089,Daniel Wright,Enterprise,West,2023-09-09,Silver
+C00090,Priya Evans,Consumer,South,2019-02-24,Bronze
+C00091,Priya Thomas,Small Business,South,2022-07-23,Silver
+C00092,Amira Ali,Small Business,East,2019-01-24,Gold
+C00093,Fatima Wilson,Consumer,East,2023-06-23,Gold
+C00094,Daniel Martin,Enterprise,Central,2021-05-10,Gold
+C00095,Maya Wright,Consumer,North,2023-09-14,Silver
+C00096,Noah Wright,Enterprise,Central,2025-04-19,Bronze
+C00097,Liam Ahmed,Small Business,East,2025-06-10,Gold
+C00098,Alex Chen,Consumer,Central,2021-09-03,None
+C00099,Liam Patel,Enterprise,West,2024-05-11,Bronze
+C00100,Grace Davies,Small Business,North,2024-10-23,Silver
+C00101,Sam Singh,Consumer,East,2022-02-03,Bronze
+C00102,Noah Khan,Enterprise,North,2021-12-04,Gold
+C00103,Amira Chen,Small Business,West,2023-03-14,Silver
+C00104,Daniel Davies,Small Business,Central,2020-05-12,None
+C00105,Priya Johnson,Small Business,West,2023-07-10,None
+C00106,Emily Singh,Small Business,West,2024-07-07,Gold
+C00107,Daniel Khan,Small Business,North,2023-11-03,Bronze
+C00108,Sofia Martin,Consumer,East,2023-12-11,None
+C00109,Emily Wright,Consumer,North,2022-12-24,None
+C00110,Maya Khan,Consumer,South,2020-12-27,Silver
+C00111,Sofia Taylor,Small Business,Central,2025-10-20,Silver
+C00112,Maya Patel,Consumer,Central,2019-01-11,None
+C00113,Daniel Martin,Enterprise,Central,2023-01-14,Gold
+C00114,Amira Evans,Small Business,Central,2020-07-15,Silver
+C00115,Sam Chen,Small Business,Central,2021-04-03,None
+C00116,Robin Brown,Enterprise,Central,2023-12-23,None
+C00117,Daniel Martin,Enterprise,North,2022-08-12,Gold
+C00118,Grace Thomas,Enterprise,West,2023-05-02,Bronze
+C00119,Sofia Taylor,Small Business,South,2019-05-11,Gold
+C00120,Fatima Martin,Small Business,Central,2020-02-25,Silver
+C00121,Liam Martin,Enterprise,North,2019-01-04,None
+C00122,Aisha Johnson,Small Business,Central,2022-04-11,Bronze
+C00123,Robin Davies,Small Business,North,2021-02-26,None
+C00124,Robin Wright,Enterprise,North,2020-07-15,Gold
+C00125,Grace Wright,Small Business,West,2024-11-09,None
+C00126,Maya Wright,Small Business,Central,2023-01-02,Gold
+C00127,Priya Wilson,Consumer,Central,2025-02-07,Bronze
+C00128,Aisha Evans,Consumer,South,2025-03-16,Silver
+C00129,Aisha Walker,Enterprise,East,2019-01-27,Gold
+C00130,Daniel Thomas,Enterprise,East,2022-03-14,Gold
+C00131,Priya Johnson,Consumer,East,2025-03-07,Bronze
+C00132,Morgan Thomas,Consumer,Central,2025-08-11,Bronze
+C00133,Fatima Patel,Small Business,Central,2024-11-09,Gold
+C00134,Oliver Davies,Small Business,East,2021-04-21,Silver
+C00135,Robin Patel,Consumer,East,2021-06-01,Bronze
+C00136,Daniel Johnson,Consumer,East,2025-08-08,Silver
+C00137,Morgan Patel,Consumer,West,2021-10-25,Silver
+C00138,Alex Singh,Small Business,North,2024-05-22,Bronze
+C00139,Daniel Singh,Enterprise,South,2024-06-01,Gold
+C00140,Aisha Wilson,Enterprise,West,2024-06-08,None
+C00141,Alex Evans,Enterprise,West,2025-12-12,Silver
+C00142,Priya Wright,Consumer,East,2021-07-06,Gold
+C00143,Emily Wright,Consumer,North,2023-01-25,None
+C00144,Sam Thomas,Consumer,East,2022-05-06,None
+C00145,Maya Taylor,Consumer,South,2022-05-01,Bronze
+C00146,Liam Davies,Consumer,South,2024-10-12,Bronze
+C00147,Priya Davies,Consumer,South,2022-04-15,Gold
+C00148,Robin Patel,Enterprise,Central,2025-05-15,Gold
+C00149,Grace Thomas,Small Business,South,2022-09-28,Silver
+C00150,Noah Ali,Small Business,South,2020-08-20,Gold
+C00151,Daniel Ali,Small Business,Central,2020-10-04,Bronze
+C00152,Liam Ali,Small Business,North,2023-05-19,None
+C00153,Emily Taylor,Consumer,North,2025-10-24,Bronze
+C00154,Fatima Wilson,Small Business,North,2022-10-26,Silver
+C00155,Robin Ali,Small Business,South,2023-03-05,None
+C00156,Sofia Patel,Enterprise,North,2024-02-18,Gold
+C00157,Emily Davies,Small Business,West,2022-12-14,Bronze
+C00158,Liam Davies,Small Business,South,2025-08-23,Bronze
+C00159,Alex Wright,Small Business,Central,2025-10-11,Bronze
+C00160,Aisha Brown,Enterprise,Central,2019-01-09,Silver
+C00161,Noah Chen,Consumer,West,2022-09-28,Silver
+C00162,Sofia Thomas,Enterprise,West,2024-03-25,Gold
+C00163,Alex Ahmed,Consumer,North,2020-01-21,Bronze
+C00164,Aisha Wright,Consumer,North,2025-08-09,None
+C00165,Aisha Wright,Enterprise,East,2020-11-20,Silver
+C00166,Alex Ali,Small Business,North,2023-08-11,None
+C00167,Robin Martin,Consumer,South,2023-08-14,Silver
+C00168,Noah Patel,Small Business,South,2022-12-01,None
+C00169,Amira Brown,Small Business,North,2020-10-09,Bronze
+C00170,Maya Khan,Small Business,North,2019-09-09,Silver
+C00171,Morgan Chen,Small Business,North,2019-09-05,Gold
+C00172,Liam Walker,Enterprise,South,2021-02-17,Bronze
+C00173,Priya Singh,Enterprise,West,2023-10-20,None
+C00174,Robin Brown,Consumer,Central,2025-02-13,Silver
+C00175,Alex Ahmed,Consumer,East,2024-10-15,Silver
+C00176,Sam Ali,Enterprise,North,2024-11-26,None
+C00177,Oliver Wright,Consumer,East,2022-12-01,None
+C00178,Sam Brown,Small Business,South,2019-07-11,Gold
+C00179,Noah Ali,Small Business,West,2024-07-18,Gold
+C00180,Morgan Brown,Small Business,North,2019-12-20,Bronze
+C00181,Alex Brown,Consumer,Central,2022-04-21,None
+C00182,Grace Taylor,Enterprise,Central,2023-01-10,None
+C00183,Morgan Thomas,Consumer,North,2023-03-24,Silver
+C00184,Sam Wright,Enterprise,East,2022-11-11,Gold
+C00185,Oliver Wilson,Enterprise,East,2023-06-15,Silver
+C00186,Robin Patel,Consumer,Central,2023-01-14,Gold
+C00187,Sofia Singh,Small Business,Central,2025-03-19,Gold
+C00188,Alex Davies,Small Business,North,2023-12-05,Gold
+C00189,Aisha Martin,Small Business,South,2019-03-11,None
+C00190,Fatima Walker,Consumer,East,2021-04-18,None
+C00191,Alex Walker,Consumer,North,2020-02-01,Gold
+C00192,Alex Wright,Small Business,West,2019-04-01,None
+C00193,Grace Johnson,Enterprise,East,2025-10-14,Gold
+C00194,Emily Wilson,Small Business,South,2023-10-11,Gold
+C00195,Liam Brown,Small Business,West,2020-04-28,None
+C00196,Priya Patel,Consumer,South,2023-12-21,Bronze
+C00197,Sofia Wilson,Small Business,South,2023-08-10,Silver
+C00198,Liam Taylor,Consumer,East,2023-03-04,Silver
+C00199,Daniel Thomas,Enterprise,East,2020-12-27,Silver
+C00200,Noah Ahmed,Small Business,North,2020-09-21,Bronze
+C00201,Priya Ali,Enterprise,Central,2025-08-22,Bronze
+C00202,Robin Patel,Small Business,East,2022-11-27,Gold
+C00203,Maya Singh,Consumer,North,2019-12-15,Bronze
+C00204,Daniel Wright,Enterprise,West,2024-03-11,None
+C00205,Oliver Martin,Consumer,East,2019-12-21,Silver
+C00206,Sofia Johnson,Small Business,North,2024-02-24,None
+C00207,Alex Davies,Small Business,Central,2019-04-19,Gold
+C00208,Oliver Thomas,Consumer,Central,2025-11-19,None
+C00209,Priya Brown,Enterprise,East,2020-01-16,Silver
+C00210,Maya Wright,Consumer,East,2024-02-13,Gold
+C00211,Emily Davies,Consumer,Central,2022-05-15,Gold
+C00212,Sofia Brown,Consumer,North,2023-02-11,None
+C00213,Alex Chen,Small Business,South,2020-09-23,Bronze
+C00214,Priya Khan,Enterprise,South,2023-12-05,None
+C00215,Maya Wright,Enterprise,West,2020-01-16,Bronze
+C00216,Fatima Brown,Small Business,Central,2022-12-04,Gold
+C00217,Liam Patel,Consumer,North,2020-03-08,None
+C00218,Fatima Johnson,Enterprise,North,2022-03-07,Silver
+C00219,Robin Martin,Small Business,Central,2022-03-13,Silver
+C00220,Fatima Walker,Small Business,Central,2020-05-06,Bronze
+C00221,Daniel Walker,Enterprise,East,2020-11-02,None
+C00222,Maya Khan,Enterprise,East,2025-08-17,Bronze
+C00223,Grace Evans,Enterprise,South,2021-05-06,Silver
+C00224,Aisha Singh,Enterprise,South,2022-03-22,Gold
+C00225,Liam Thomas,Small Business,North,2025-07-15,Bronze
+C00226,Fatima Taylor,Enterprise,North,2022-07-01,None
+C00227,Sofia Ahmed,Small Business,Central,2023-03-02,Bronze
+C00228,Grace Johnson,Consumer,South,2021-12-19,None
+C00229,Fatima Brown,Enterprise,Central,2022-05-09,Gold
+C00230,Alex Wright,Enterprise,West,2019-05-28,None
+C00231,Robin Chen,Consumer,North,2023-10-13,Gold
+C00232,Liam Johnson,Small Business,Central,2023-03-14,None
+C00233,Priya Davies,Consumer,Central,2025-10-08,Bronze
+C00234,Morgan Evans,Consumer,South,2021-02-22,Silver
+C00235,Morgan Chen,Small Business,South,2020-06-07,None
+C00236,Noah Davies,Enterprise,North,2024-02-20,Gold
+C00237,Sofia Martin,Small Business,East,2024-09-17,None
+C00238,Maya Singh,Enterprise,Central,2021-10-12,Gold
+C00239,Amira Wright,Consumer,South,2019-11-12,Silver
+C00240,Maya Ali,Enterprise,South,2019-10-12,Gold
+C00241,Liam Singh,Enterprise,North,2020-01-19,Silver
+C00242,Noah Thomas,Enterprise,Central,2021-01-19,Bronze
+C00243,Daniel Martin,Small Business,West,2022-02-08,None
+C00244,Sofia Martin,Enterprise,Central,2025-02-17,Bronze
+C00245,Noah Chen,Enterprise,East,2019-04-05,None
+C00246,Liam Davies,Consumer,South,2023-07-04,Silver
+C00247,Morgan Patel,Enterprise,Central,2021-07-11,Bronze
+C00248,Alex Khan,Small Business,Central,2025-12-26,Silver
+C00249,Morgan Wilson,Consumer,Central,2024-05-03,None
+C00250,Robin Singh,Consumer,South,2023-08-04,None
+C00251,Alex Singh,Consumer,West,2019-10-17,None
+C00252,Sofia Walker,Small Business,West,2025-10-24,Silver
+C00253,Oliver Ali,Small Business,Central,2022-03-17,Silver
+C00254,Priya Wright,Consumer,North,2025-09-22,Silver
+C00255,Grace Johnson,Consumer,North,2019-11-01,Bronze
+C00256,Maya Evans,Small Business,West,2025-01-17,Silver
+C00257,Daniel Evans,Enterprise,North,2024-04-06,Gold
+C00258,Fatima Chen,Small Business,North,2020-08-25,None
+C00259,Oliver Brown,Enterprise,East,2025-04-28,Gold
+C00260,Priya Taylor,Consumer,Central,2023-01-05,Gold
+C00261,Amira Singh,Small Business,South,2021-05-18,Gold
+C00262,Grace Walker,Small Business,East,2020-06-03,Gold
+C00263,Maya Davies,Enterprise,North,2020-06-03,Silver
+C00264,Sofia Walker,Consumer,South,2022-09-10,None
+C00265,Daniel Wilson,Enterprise,West,2025-07-26,Gold
+C00266,Grace Evans,Consumer,Central,2020-11-23,None
+C00267,Robin Patel,Small Business,South,2020-07-10,Gold
+C00268,Priya Ali,Consumer,North,2024-01-18,Silver
+C00269,Maya Chen,Small Business,West,2022-04-10,Gold
+C00270,Emily Wright,Enterprise,South,2020-05-06,Silver
+C00271,Sofia Davies,Consumer,South,2020-11-22,Gold
+C00272,Maya Singh,Enterprise,East,2019-09-09,None
+C00273,Oliver Johnson,Enterprise,North,2019-02-12,None
+C00274,Priya Brown,Small Business,East,2022-05-05,Gold
+C00275,Robin Singh,Consumer,West,2019-12-26,Gold
+C00276,Daniel Chen,Consumer,East,2023-04-12,Silver
+C00277,Grace Davies,Consumer,East,2024-05-27,None
+C00278,Grace Evans,Small Business,West,2022-03-11,Bronze
+C00279,Grace Chen,Consumer,Central,2022-12-11,Silver
+C00280,Priya Wright,Enterprise,East,2023-02-24,None
+C00281,Robin Ali,Small Business,South,2019-04-02,None
+C00282,Oliver Walker,Small Business,South,2024-09-09,None
+C00283,Daniel Brown,Enterprise,South,2020-01-05,Gold
+C00284,Amira Chen,Consumer,Central,2023-06-03,None
+C00285,Alex Thomas,Consumer,South,2021-08-02,Gold
+C00286,Maya Thomas,Consumer,South,2025-11-06,None
+C00287,Oliver Wright,Enterprise,West,2023-12-14,Gold
+C00288,Maya Wright,Consumer,East,2024-03-16,Silver
+C00289,Noah Johnson,Consumer,East,2021-05-16,None
+C00290,Amira Chen,Consumer,Central,2019-05-28,Silver
+C00291,Sofia Walker,Enterprise,East,2023-08-23,Silver
+C00292,Amira Evans,Enterprise,North,2020-05-10,None
+C00293,Grace Patel,Enterprise,North,2024-01-12,Silver
+C00294,Alex Evans,Small Business,West,2025-09-14,None
+C00295,Fatima Singh,Small Business,Central,2025-04-27,Gold
+C00296,Aisha Wright,Enterprise,North,2021-08-10,Bronze
+C00297,Priya Thomas,Small Business,South,2022-03-22,None
+C00298,Robin Singh,Enterprise,East,2024-04-04,Silver
+C00299,Liam Johnson,Small Business,North,2022-08-24,Bronze
+C00300,Noah Johnson,Enterprise,East,2022-06-06,None
+C00301,Sam Ahmed,Consumer,Central,2022-01-01,Bronze
+C00302,Fatima Khan,Enterprise,Central,2025-04-08,None
+C00303,Emily Davies,Consumer,West,2020-07-24,Bronze
+C00304,Alex Walker,Enterprise,North,2021-02-10,Gold
+C00305,Fatima Singh,Small Business,South,2020-10-25,None
+C00306,Daniel Walker,Enterprise,West,2023-08-26,Silver
+C00307,Oliver Brown,Enterprise,Central,2025-05-14,Bronze
+C00308,Noah Wright,Enterprise,South,2022-12-27,None
+C00309,Fatima Martin,Small Business,Central,2024-03-06,Bronze
+C00310,Amira Ahmed,Consumer,East,2022-03-26,Bronze
+C00311,Amira Brown,Small Business,North,2021-09-16,Gold
+C00312,Sofia Ali,Small Business,East,2025-10-27,None
+C00313,Robin Wright,Enterprise,East,2023-04-08,Bronze
+C00314,Priya Evans,Consumer,South,2020-09-23,Bronze
+C00315,Fatima Taylor,Consumer,West,2023-06-06,None
+C00316,Emily Singh,Small Business,East,2023-08-01,Gold
+C00317,Oliver Evans,Consumer,West,2022-05-14,None
+C00318,Sofia Evans,Consumer,East,2023-07-27,None
+C00319,Aisha Wilson,Consumer,East,2025-11-19,Gold
+C00320,Morgan Evans,Consumer,West,2024-12-20,None
+C00321,Sam Patel,Small Business,North,2019-02-18,None
+C00322,Sofia Brown,Small Business,East,2024-02-13,Silver
+C00323,Noah Wilson,Small Business,East,2022-08-19,Bronze
+C00324,Robin Wilson,Consumer,West,2023-05-07,Silver
+C00325,Morgan Singh,Small Business,South,2020-08-19,Gold
+C00326,Noah Walker,Consumer,Central,2023-07-06,Gold
+C00327,Sam Thomas,Consumer,East,2025-07-01,Bronze
+C00328,Sofia Taylor,Small Business,South,2023-03-17,Silver
+C00329,Morgan Ahmed,Small Business,East,2019-02-24,Gold
+C00330,Priya Thomas,Enterprise,West,2023-11-23,Gold
+C00331,Amira Ahmed,Consumer,East,2023-11-26,Silver
+C00332,Aisha Wright,Consumer,North,2021-07-15,None
+C00333,Grace Khan,Enterprise,West,2023-04-21,None
+C00334,Robin Thomas,Small Business,Central,2025-10-20,Silver
+C00335,Grace Martin,Enterprise,South,2023-04-20,Gold
+C00336,Grace Brown,Enterprise,Central,2022-04-18,Silver
+C00337,Sofia Thomas,Enterprise,East,2022-03-03,Gold
+C00338,Fatima Patel,Consumer,East,2021-12-02,None
+C00339,Priya Ahmed,Small Business,South,2022-07-03,None
+C00340,Noah Taylor,Small Business,East,2025-05-06,None
+C00341,Emily Walker,Consumer,South,2023-02-28,Silver
+C00342,Grace Johnson,Enterprise,South,2020-12-23,None
+C00343,Sofia Thomas,Consumer,Central,2022-01-02,Silver
+C00344,Robin Wright,Enterprise,West,2023-05-09,Silver
+C00345,Daniel Khan,Small Business,North,2020-08-21,None
+C00346,Liam Khan,Small Business,West,2023-11-19,Silver
+C00347,Robin Patel,Enterprise,East,2023-03-21,Bronze
+C00348,Alex Taylor,Enterprise,North,2023-09-21,Bronze
+C00349,Aisha Ali,Small Business,West,2022-09-28,Gold
+C00350,Robin Wright,Consumer,Central,2022-12-03,Bronze
+C00351,Alex Thomas,Consumer,East,2021-12-19,Bronze
+C00352,Oliver Patel,Small Business,North,2022-08-04,Bronze
+C00353,Liam Wright,Small Business,East,2023-10-15,Silver
+C00354,Aisha Walker,Enterprise,East,2025-03-09,Silver
+C00355,Oliver Martin,Enterprise,East,2025-07-16,None
+C00356,Priya Davies,Consumer,South,2021-05-25,Bronze
+C00357,Amira Wright,Consumer,West,2022-05-13,Silver
+C00358,Fatima Walker,Small Business,South,2025-04-09,Gold
+C00359,Emily Ahmed,Consumer,Central,2019-07-12,None
+C00360,Fatima Khan,Consumer,East,2025-10-03,Bronze
+C00361,Fatima Thomas,Small Business,North,2021-07-07,Silver
+C00362,Morgan Wright,Small Business,South,2020-10-25,Bronze
+C00363,Grace Patel,Enterprise,South,2021-09-15,Silver
+C00364,Robin Ali,Small Business,Central,2025-08-18,Silver
+C00365,Morgan Wright,Small Business,South,2021-06-14,Silver
+C00366,Sam Taylor,Small Business,East,2019-03-16,Silver
+C00367,Noah Khan,Enterprise,North,2025-04-11,Bronze
+C00368,Grace Thomas,Consumer,West,2019-07-07,Bronze
+C00369,Oliver Martin,Small Business,East,2019-09-04,Silver
+C00370,Priya Patel,Enterprise,West,2020-10-18,None
+C00371,Emily Wright,Small Business,South,2022-11-23,None
+C00372,Morgan Davies,Small Business,East,2021-11-08,Silver
+C00373,Aisha Davies,Enterprise,North,2019-05-10,Bronze
+C00374,Emily Chen,Enterprise,Central,2021-08-05,Gold
+C00375,Sam Thomas,Consumer,North,2022-04-25,Gold
+C00376,Fatima Wright,Small Business,Central,2019-01-27,None
+C00377,Maya Wright,Small Business,North,2019-08-17,Silver
+C00378,Fatima Martin,Consumer,East,2024-08-28,Silver
+C00379,Fatima Ali,Consumer,West,2025-09-26,Bronze
+C00380,Oliver Johnson,Consumer,Central,2020-11-08,Silver
+C00381,Liam Taylor,Small Business,South,2024-02-16,None
+C00382,Priya Ali,Consumer,North,2019-06-19,Bronze
+C00383,Grace Khan,Small Business,East,2022-07-15,Bronze
+C00384,Emily Evans,Enterprise,South,2021-07-26,Gold
+C00385,Oliver Evans,Consumer,West,2021-09-07,Bronze
+C00386,Priya Patel,Enterprise,Central,2025-11-17,Gold
+C00387,Fatima Evans,Enterprise,North,2021-10-17,None
+C00388,Sofia Wright,Enterprise,Central,2019-07-11,None
+C00389,Aisha Johnson,Small Business,North,2025-10-26,Bronze
+C00390,Robin Ali,Enterprise,South,2021-01-25,Bronze
+C00391,Grace Wilson,Small Business,West,2024-08-06,Gold
+C00392,Alex Chen,Enterprise,West,2025-08-27,Gold
+C00393,Noah Johnson,Consumer,Central,2024-10-01,Silver
+C00394,Sofia Ahmed,Enterprise,South,2019-05-13,None
+C00395,Maya Singh,Enterprise,North,2019-05-21,Silver
+C00396,Priya Wilson,Small Business,East,2024-01-17,None
+C00397,Emily Khan,Consumer,South,2020-08-12,None
+C00398,Grace Wilson,Consumer,North,2023-11-26,Gold
+C00399,Robin Davies,Consumer,West,2024-01-26,Bronze
+C00400,Fatima Ali,Small Business,East,2023-02-05,Gold
+C00401,Aisha Wilson,Enterprise,South,2025-08-03,Bronze
+C00402,Emily Wright,Consumer,North,2024-05-20,Silver
+C00403,Grace Singh,Consumer,North,2022-08-19,None
+C00404,Emily Ali,Enterprise,East,2023-11-06,Silver
+C00405,Emily Davies,Enterprise,East,2022-05-11,Gold
+C00406,Oliver Walker,Enterprise,East,2022-08-01,Gold
+C00407,Amira Walker,Enterprise,Central,2024-10-03,Silver
+C00408,Amira Wright,Enterprise,Central,2025-02-01,Gold
+C00409,Priya Brown,Consumer,North,2025-09-24,Silver
+C00410,Morgan Wilson,Enterprise,East,2025-03-23,Bronze
+C00411,Maya Wilson,Enterprise,Central,2019-02-21,None
+C00412,Daniel Wright,Small Business,East,2025-08-19,Silver
+C00413,Sofia Johnson,Consumer,North,2025-10-09,Silver
+C00414,Morgan Wright,Consumer,Central,2019-05-22,None
+C00415,Sofia Johnson,Enterprise,South,2024-12-09,None
+C00416,Morgan Walker,Enterprise,East,2019-12-02,Silver
+C00417,Fatima Wright,Small Business,South,2019-04-26,Bronze
+C00418,Liam Taylor,Consumer,East,2022-06-12,None
+C00419,Robin Johnson,Enterprise,East,2023-09-22,Gold
+C00420,Daniel Walker,Consumer,North,2020-05-22,Silver
+C00421,Maya Wilson,Small Business,North,2020-12-01,None
+C00422,Alex Patel,Enterprise,North,2022-05-01,Silver
+C00423,Maya Johnson,Enterprise,West,2023-01-11,Bronze
+C00424,Grace Patel,Enterprise,East,2019-01-06,Gold
+C00425,Sofia Wright,Consumer,East,2025-02-07,None
+C00426,Robin Brown,Enterprise,South,2024-01-15,Gold
+C00427,Priya Evans,Enterprise,North,2022-03-19,Gold
+C00428,Morgan Chen,Enterprise,Central,2023-02-14,Silver
+C00429,Fatima Walker,Small Business,East,2023-04-15,Bronze
+C00430,Liam Evans,Small Business,North,2020-02-22,Bronze
+C00431,Grace Davies,Small Business,North,2022-09-13,Gold
+C00432,Sofia Taylor,Enterprise,Central,2024-06-16,Gold
+C00433,Maya Ali,Enterprise,East,2021-04-28,Bronze
+C00434,Oliver Thomas,Enterprise,West,2023-01-09,Silver
+C00435,Grace Thomas,Enterprise,South,2025-02-20,Gold
+C00436,Fatima Johnson,Consumer,North,2019-07-02,Gold
+C00437,Grace Thomas,Consumer,West,2022-05-03,Silver
+C00438,Aisha Singh,Small Business,South,2019-04-12,Silver
+C00439,Amira Martin,Enterprise,West,2019-10-23,Silver
+C00440,Sam Brown,Consumer,West,2023-01-14,None
+C00441,Alex Ali,Small Business,Central,2021-01-16,Silver
+C00442,Sam Thomas,Consumer,East,2023-12-05,Bronze
+C00443,Daniel Wright,Consumer,Central,2022-12-09,Silver
+C00444,Robin Thomas,Consumer,East,2019-03-01,None
+C00445,Liam Taylor,Consumer,North,2023-01-09,None
+C00446,Fatima Taylor,Small Business,North,2025-12-13,Silver
+C00447,Sam Walker,Enterprise,West,2025-06-02,None
+C00448,Aisha Ahmed,Small Business,North,2019-03-19,None
+C00449,Oliver Johnson,Consumer,South,2019-08-16,Bronze
+C00450,Daniel Chen,Consumer,Central,2019-04-24,Gold
+C00451,Morgan Walker,Enterprise,Central,2020-06-06,Silver
+C00452,Maya Wright,Small Business,North,2021-12-04,Silver
+C00453,Sam Ali,Consumer,Central,2024-05-25,Silver
+C00454,Fatima Khan,Enterprise,South,2025-06-20,Silver
+C00455,Liam Taylor,Enterprise,Central,2020-03-03,Bronze
+C00456,Liam Evans,Enterprise,Central,2025-06-26,Gold
+C00457,Daniel Chen,Small Business,North,2021-01-28,Bronze
+C00458,Oliver Khan,Enterprise,South,2019-12-07,Silver
+C00459,Amira Khan,Enterprise,West,2025-07-11,None
+C00460,Sofia Thomas,Consumer,Central,2024-03-10,Gold
+C00461,Liam Khan,Small Business,Central,2022-09-25,None
+C00462,Emily Khan,Consumer,West,2023-02-08,Gold
+C00463,Fatima Walker,Small Business,North,2025-08-27,Silver
+C00464,Grace Khan,Consumer,West,2019-09-12,Bronze
+C00465,Sofia Wilson,Small Business,Central,2025-01-26,Silver
+C00466,Liam Khan,Consumer,North,2021-02-15,Silver
+C00467,Amira Singh,Consumer,West,2021-09-01,Bronze
+C00468,Sam Taylor,Consumer,South,2021-04-26,Gold
+C00469,Emily Chen,Enterprise,South,2023-09-17,Silver
+C00470,Grace Ali,Enterprise,West,2023-11-13,None
+C00471,Oliver Singh,Small Business,East,2025-08-01,Silver
+C00472,Liam Martin,Consumer,West,2025-12-14,None
+C00473,Maya Martin,Consumer,West,2024-12-23,Gold
+C00474,Grace Thomas,Small Business,South,2024-02-06,Gold
+C00475,Liam Patel,Small Business,West,2025-05-18,Bronze
+C00476,Daniel Thomas,Small Business,North,2023-10-12,Silver
+C00477,Maya Martin,Enterprise,North,2021-03-16,Silver
+C00478,Oliver Martin,Enterprise,West,2019-08-22,Bronze
+C00479,Aisha Wilson,Small Business,East,2022-05-25,Bronze
+C00480,Fatima Thomas,Consumer,South,2019-07-22,Silver
+C00481,Emily Wilson,Consumer,West,2020-04-08,Gold
+C00482,Alex Davies,Small Business,North,2021-08-25,None
+C00483,Sam Khan,Small Business,West,2022-05-27,Bronze
+C00484,Alex Patel,Enterprise,South,2020-11-14,None
+C00485,Robin Evans,Enterprise,Central,2021-03-16,Gold
+C00486,Alex Martin,Enterprise,West,2019-08-03,None
+C00487,Sofia Brown,Consumer,Central,2019-05-10,Gold
+C00488,Priya Taylor,Consumer,West,2019-02-06,None
+C00489,Sam Walker,Small Business,South,2024-08-08,None
+C00490,Liam Patel,Small Business,Central,2021-07-17,Gold
+C00491,Sam Khan,Consumer,North,2020-09-25,None
+C00492,Alex Johnson,Enterprise,North,2025-07-07,Gold
+C00493,Emily Davies,Consumer,Central,2019-03-17,None
+C00494,Oliver Thomas,Enterprise,South,2019-05-12,None
+C00495,Aisha Ahmed,Small Business,South,2023-02-16,Bronze
+C00496,Morgan Walker,Small Business,Central,2019-04-23,None
+C00497,Liam Ahmed,Consumer,South,2021-02-26,None
+C00498,Morgan Brown,Consumer,North,2022-11-13,Bronze
+C00499,Priya Walker,Enterprise,South,2022-09-20,Bronze
+C00500,Grace Wright,Small Business,West,2019-04-24,Gold
+C00501,Robin Ali,Enterprise,South,2022-09-27,Silver
+C00502,Robin Davies,Consumer,North,2025-09-04,Gold
+C00503,Morgan Khan,Enterprise,North,2023-08-24,Bronze
+C00504,Amira Evans,Enterprise,North,2021-05-01,Silver
+C00505,Fatima Ali,Enterprise,Central,2025-11-18,Gold
+C00506,Daniel Martin,Consumer,West,2023-02-26,Bronze
+C00507,Emily Wilson,Consumer,North,2024-10-24,None
+C00508,Daniel Brown,Small Business,Central,2025-11-24,None
+C00509,Alex Ahmed,Consumer,Central,2024-08-06,Gold
+C00510,Maya Wilson,Small Business,East,2021-07-22,None
+C00511,Liam Ali,Consumer,West,2019-02-22,Bronze
+C00512,Alex Davies,Enterprise,East,2022-06-14,Gold
+C00513,Oliver Walker,Enterprise,Central,2024-05-03,None
+C00514,Daniel Chen,Enterprise,Central,2024-11-19,Silver
+C00515,Sam Patel,Small Business,East,2020-11-02,None
+C00516,Emily Davies,Enterprise,West,2020-03-28,Gold
+C00517,Grace Chen,Small Business,South,2021-12-03,Bronze
+C00518,Maya Johnson,Enterprise,North,2023-03-05,None
+C00519,Liam Wright,Small Business,West,2024-11-07,Silver
+C00520,Maya Martin,Consumer,West,2019-04-02,Gold
+C00521,Fatima Johnson,Consumer,Central,2023-05-06,None
+C00522,Oliver Wilson,Consumer,North,2020-01-19,Gold
+C00523,Maya Ali,Enterprise,Central,2024-12-08,Bronze
+C00524,Aisha Walker,Consumer,South,2023-06-07,Bronze
+C00525,Priya Chen,Small Business,West,2019-02-19,None
+C00526,Liam Ali,Small Business,Central,2022-02-09,None
+C00527,Sam Ahmed,Consumer,Central,2025-07-09,Bronze
+C00528,Robin Singh,Consumer,South,2021-07-24,Gold
+C00529,Oliver Martin,Small Business,West,2019-10-02,Silver
+C00530,Robin Evans,Enterprise,West,2023-09-02,Gold
+C00531,Daniel Singh,Consumer,West,2024-04-22,Silver
+C00532,Alex Johnson,Consumer,North,2023-01-25,Silver
+C00533,Grace Thomas,Small Business,East,2023-08-06,Bronze
+C00534,Aisha Martin,Small Business,East,2020-01-17,Bronze
+C00535,Sofia Taylor,Small Business,East,2020-03-09,Silver
+C00536,Alex Johnson,Small Business,East,2022-05-06,None
+C00537,Liam Wright,Enterprise,South,2020-12-05,Silver
+C00538,Noah Chen,Small Business,West,2025-04-10,Gold
+C00539,Fatima Martin,Enterprise,West,2024-06-27,Gold
+C00540,Noah Singh,Small Business,Central,2022-09-12,Silver
+C00541,Priya Wilson,Consumer,North,2021-07-07,Silver
+C00542,Morgan Johnson,Small Business,North,2019-02-16,None
+C00543,Sam Singh,Enterprise,Central,2019-10-25,Gold
+C00544,Robin Martin,Consumer,Central,2025-02-24,Bronze
+C00545,Sofia Brown,Small Business,Central,2022-04-03,Silver
+C00546,Emily Johnson,Small Business,North,2025-05-06,Bronze
+C00547,Grace Evans,Consumer,Central,2025-03-17,Silver
+C00548,Daniel Singh,Consumer,South,2024-05-17,Silver
+C00549,Liam Patel,Small Business,West,2022-09-16,None
+C00550,Maya Chen,Enterprise,South,2020-06-01,Bronze
+C00551,Amira Wilson,Small Business,Central,2025-12-23,None
+C00552,Morgan Davies,Consumer,East,2022-04-16,Bronze
+C00553,Emily Evans,Small Business,Central,2021-06-23,None
+C00554,Alex Chen,Enterprise,East,2020-10-15,None
+C00555,Alex Wright,Enterprise,Central,2019-08-18,Bronze
+C00556,Daniel Thomas,Small Business,West,2022-04-11,Gold
+C00557,Liam Brown,Enterprise,Central,2025-08-06,None
+C00558,Liam Thomas,Enterprise,East,2019-08-28,Bronze
+C00559,Sam Ahmed,Consumer,South,2023-03-07,Gold
+C00560,Amira Patel,Enterprise,East,2021-09-15,Silver
+C00561,Alex Ali,Enterprise,Central,2023-07-12,Gold
+C00562,Aisha Ahmed,Consumer,East,2021-11-15,Gold
+C00563,Sam Davies,Enterprise,West,2024-12-08,Gold
+C00564,Fatima Johnson,Small Business,East,2024-10-03,Silver
+C00565,Sofia Walker,Small Business,East,2023-11-12,Gold
+C00566,Amira Singh,Consumer,West,2021-05-25,Silver
+C00567,Liam Taylor,Small Business,North,2024-06-15,Bronze
+C00568,Daniel Johnson,Enterprise,Central,2023-06-03,Gold
+C00569,Maya Evans,Enterprise,North,2022-09-11,Silver
+C00570,Sofia Evans,Consumer,West,2019-10-18,None
+C00571,Priya Taylor,Small Business,East,2022-09-01,Silver
+C00572,Fatima Walker,Enterprise,East,2019-08-05,Silver
+C00573,Maya Brown,Consumer,Central,2022-04-22,Silver
+C00574,Amira Evans,Enterprise,South,2019-08-05,Gold
+C00575,Robin Ahmed,Small Business,Central,2020-12-06,None
+C00576,Sofia Walker,Enterprise,Central,2025-11-25,Bronze
+C00577,Amira Davies,Small Business,East,2025-05-09,Bronze
+C00578,Sofia Ali,Consumer,East,2022-04-16,None
+C00579,Sofia Davies,Small Business,North,2020-09-17,Bronze
+C00580,Noah Brown,Small Business,East,2024-09-12,None
+C00581,Sam Ali,Consumer,Central,2020-12-01,Gold
+C00582,Sofia Chen,Enterprise,South,2021-10-20,Silver
+C00583,Morgan Martin,Consumer,East,2025-01-04,Gold
+C00584,Fatima Patel,Enterprise,South,2025-07-23,Silver
+C00585,Emily Taylor,Small Business,West,2024-04-05,None
+C00586,Amira Khan,Small Business,South,2025-02-07,Bronze
+C00587,Maya Brown,Small Business,Central,2025-01-27,Bronze
+C00588,Sam Chen,Enterprise,West,2019-04-22,Silver
+C00589,Emily Martin,Small Business,East,2022-03-07,Gold
+C00590,Amira Thomas,Consumer,East,2023-03-16,Gold
+C00591,Morgan Khan,Enterprise,South,2019-05-13,Gold
+C00592,Fatima Chen,Small Business,East,2024-02-27,Gold
+C00593,Sam Wilson,Consumer,East,2024-07-02,Gold
+C00594,Fatima Wilson,Consumer,South,2019-08-23,Bronze
+C00595,Amira Taylor,Small Business,South,2019-11-09,Gold
+C00596,Daniel Khan,Small Business,West,2019-10-16,Gold
+C00597,Amira Brown,Small Business,South,2025-09-19,Gold
+C00598,Priya Wilson,Small Business,South,2024-10-01,None
+C00599,Grace Johnson,Enterprise,North,2020-11-14,Bronze
+C00600,Grace Walker,Small Business,Central,2023-11-20,Bronze
+C00601,Maya Singh,Enterprise,West,2025-03-11,None
+C00602,Aisha Walker,Small Business,Central,2023-01-23,Gold
+C00603,Amira Singh,Consumer,South,2021-11-05,Silver
+C00604,Fatima Wilson,Small Business,Central,2025-11-06,None
+C00605,Maya Walker,Consumer,West,2019-03-24,Gold
+C00606,Maya Davies,Enterprise,North,2023-06-19,Bronze
+C00607,Amira Martin,Consumer,West,2019-09-23,Silver
+C00608,Grace Walker,Small Business,West,2020-01-20,None
+C00609,Oliver Johnson,Small Business,East,2023-11-24,None
+C00610,Alex Wright,Small Business,Central,2024-12-23,Bronze
+C00611,Liam Johnson,Enterprise,East,2022-09-05,Silver
+C00612,Morgan Brown,Enterprise,East,2023-07-15,Bronze
+C00613,Aisha Johnson,Consumer,West,2020-11-16,Silver
+C00614,Noah Taylor,Small Business,West,2022-06-09,Silver
+C00615,Sofia Chen,Small Business,North,2022-04-08,Gold
+C00616,Emily Wilson,Consumer,East,2025-03-23,Gold
+C00617,Alex Thomas,Consumer,East,2021-03-10,Gold
+C00618,Noah Thomas,Consumer,Central,2025-05-24,Silver
+C00619,Emily Patel,Consumer,West,2023-06-11,Bronze
+C00620,Grace Ali,Enterprise,East,2025-11-13,None
+C00621,Robin Brown,Enterprise,North,2025-01-24,Bronze
+C00622,Sam Wright,Consumer,North,2024-04-28,Bronze
+C00623,Priya Taylor,Enterprise,North,2019-04-28,None
+C00624,Oliver Wright,Enterprise,North,2020-02-05,Bronze
+C00625,Oliver Brown,Small Business,East,2025-02-28,None
+C00626,Sofia Martin,Consumer,South,2022-05-02,Gold
+C00627,Sam Khan,Enterprise,South,2021-06-27,Gold
+C00628,Priya Davies,Consumer,South,2025-05-09,Bronze
+C00629,Sofia Wilson,Enterprise,West,2021-05-28,Gold
+C00630,Aisha Chen,Enterprise,East,2019-09-03,Gold
+C00631,Sofia Brown,Consumer,Central,2025-08-09,Bronze
+C00632,Sofia Johnson,Consumer,East,2019-12-04,Silver
+C00633,Robin Evans,Small Business,North,2021-12-07,Silver
+C00634,Fatima Davies,Small Business,Central,2021-04-25,Gold
+C00635,Sofia Ahmed,Small Business,West,2025-03-11,Bronze
+C00636,Maya Brown,Enterprise,West,2025-10-16,Gold
+C00637,Sofia Singh,Enterprise,West,2022-08-14,Gold
+C00638,Emily Evans,Consumer,South,2022-10-03,Bronze
+C00639,Liam Ahmed,Consumer,Central,2025-06-22,Silver
+C00640,Alex Ali,Consumer,North,2019-12-10,Gold
+C00641,Sofia Taylor,Enterprise,Central,2019-02-21,Silver
+C00642,Amira Thomas,Consumer,North,2023-10-02,None
+C00643,Liam Brown,Consumer,South,2022-06-11,Gold
+C00644,Oliver Chen,Small Business,West,2025-01-27,None
+C00645,Robin Johnson,Small Business,Central,2025-11-06,Gold
+C00646,Alex Thomas,Consumer,East,2020-09-24,Bronze
+C00647,Sofia Thomas,Small Business,West,2020-03-08,Silver
+C00648,Noah Wilson,Consumer,South,2019-09-19,None
+C00649,Aisha Khan,Enterprise,North,2022-05-11,Gold
+C00650,Sofia Ahmed,Consumer,South,2024-10-13,Silver
+C00651,Grace Ali,Enterprise,South,2025-04-26,Bronze
+C00652,Amira Wright,Enterprise,East,2022-04-14,Bronze
+C00653,Noah Evans,Small Business,West,2019-07-03,Gold
+C00654,Sam Evans,Small Business,Central,2024-01-13,Gold
+C00655,Emily Chen,Enterprise,South,2025-06-26,Silver
+C00656,Alex Chen,Small Business,North,2019-12-07,Bronze
+C00657,Robin Khan,Consumer,East,2022-09-10,Silver
+C00658,Grace Thomas,Consumer,Central,2020-05-08,Bronze
+C00659,Grace Davies,Enterprise,South,2025-12-07,None
+C00660,Oliver Ahmed,Enterprise,South,2025-12-13,Silver
+C00661,Aisha Davies,Consumer,South,2020-04-13,None
+C00662,Fatima Walker,Enterprise,Central,2024-06-05,Gold
+C00663,Noah Patel,Small Business,West,2022-03-01,Bronze
+C00664,Maya Evans,Enterprise,South,2020-12-12,Bronze
+C00665,Morgan Davies,Small Business,North,2020-03-01,None
+C00666,Liam Walker,Consumer,West,2023-11-28,None
+C00667,Fatima Thomas,Consumer,Central,2024-01-22,None
+C00668,Liam Singh,Small Business,Central,2022-09-09,Gold
+C00669,Sofia Khan,Enterprise,South,2021-10-24,Gold
+C00670,Alex Brown,Consumer,West,2020-01-16,Bronze
+C00671,Sam Wilson,Consumer,East,2024-07-05,Bronze
+C00672,Grace Wilson,Small Business,East,2021-11-25,Bronze
+C00673,Grace Wright,Enterprise,South,2024-07-02,Silver
+C00674,Liam Johnson,Consumer,North,2022-01-08,Bronze
+C00675,Morgan Walker,Consumer,North,2023-04-07,Gold
+C00676,Sam Taylor,Small Business,South,2019-08-23,None
+C00677,Aisha Thomas,Consumer,East,2024-04-01,Silver
+C00678,Robin Davies,Consumer,East,2020-12-13,Silver
+C00679,Robin Johnson,Small Business,North,2023-12-07,Bronze
+C00680,Priya Martin,Small Business,North,2024-04-13,Bronze
+C00681,Noah Evans,Small Business,North,2025-04-11,Bronze
+C00682,Sam Thomas,Consumer,South,2025-09-02,Bronze
+C00683,Daniel Khan,Enterprise,East,2021-09-19,Silver
+C00684,Grace Chen,Consumer,West,2022-10-27,None
+C00685,Oliver Patel,Enterprise,North,2022-01-01,Gold
+C00686,Oliver Davies,Enterprise,Central,2022-11-26,Gold
+C00687,Noah Chen,Small Business,West,2021-01-09,Bronze
+C00688,Liam Ali,Small Business,North,2025-01-07,Silver
+C00689,Oliver Martin,Enterprise,West,2021-06-04,None
+C00690,Emily Ahmed,Consumer,Central,2023-12-16,Silver
+C00691,Sofia Khan,Enterprise,South,2022-09-06,Gold
+C00692,Emily Wright,Enterprise,East,2023-09-01,Silver
+C00693,Morgan Chen,Consumer,South,2020-09-05,None
+C00694,Grace Ahmed,Enterprise,South,2022-05-08,Silver
+C00695,Aisha Singh,Enterprise,South,2022-10-20,Gold
+C00696,Morgan Wright,Enterprise,South,2025-03-19,Bronze
+C00697,Daniel Patel,Enterprise,West,2020-04-21,Bronze
+C00698,Grace Wilson,Small Business,Central,2020-03-05,None
+C00699,Sam Singh,Consumer,South,2023-09-11,Gold
+C00700,Liam Thomas,Enterprise,South,2021-12-14,Silver
+C00701,Fatima Patel,Enterprise,West,2019-01-26,None
+C00702,Emily Davies,Small Business,North,2020-06-03,Silver
+C00703,Sam Khan,Enterprise,North,2024-03-02,Bronze
+C00704,Daniel Brown,Enterprise,North,2021-02-11,Bronze
+C00705,Sofia Walker,Small Business,East,2023-03-24,None
+C00706,Emily Wright,Small Business,South,2025-01-17,Gold
+C00707,Sofia Ahmed,Small Business,West,2023-07-24,Gold
+C00708,Liam Evans,Enterprise,Central,2025-08-03,Bronze
+C00709,Emily Singh,Enterprise,North,2023-04-03,Silver
+C00710,Sofia Evans,Enterprise,South,2019-07-04,None
+C00711,Maya Thomas,Small Business,North,2020-11-05,Bronze
+C00712,Morgan Patel,Enterprise,North,2025-04-05,Bronze
+C00713,Emily Chen,Enterprise,East,2020-01-11,None
+C00714,Sofia Thomas,Small Business,West,2020-06-23,Bronze
+C00715,Grace Wilson,Small Business,Central,2022-03-19,Silver
+C00716,Morgan Walker,Small Business,Central,2021-10-25,None
+C00717,Robin Davies,Small Business,Central,2023-09-21,Silver
+C00718,Alex Johnson,Small Business,East,2020-01-15,Bronze
+C00719,Alex Brown,Enterprise,North,2025-06-06,Silver
+C00720,Alex Wright,Enterprise,North,2022-08-07,Silver
+C00721,Morgan Wright,Enterprise,East,2025-09-13,Bronze
+C00722,Amira Ahmed,Consumer,East,2021-06-27,Bronze
+C00723,Priya Walker,Enterprise,Central,2023-01-27,Silver
+C00724,Sam Davies,Consumer,East,2024-12-02,None
+C00725,Noah Wilson,Consumer,North,2024-12-04,Gold
+C00726,Sam Wilson,Small Business,East,2023-08-15,Gold
+C00727,Priya Ali,Small Business,South,2022-09-12,Gold
+C00728,Priya Ali,Consumer,South,2023-01-26,Bronze
+C00729,Grace Davies,Enterprise,South,2023-06-15,None
+C00730,Noah Evans,Enterprise,East,2022-06-14,None
+C00731,Priya Taylor,Enterprise,North,2025-07-08,Silver
+C00732,Fatima Thomas,Enterprise,South,2024-10-05,None
+C00733,Robin Singh,Enterprise,East,2022-10-22,None
+C00734,Alex Singh,Enterprise,South,2020-06-21,Silver
+C00735,Aisha Singh,Small Business,Central,2024-11-14,Silver
+C00736,Liam Evans,Consumer,West,2024-01-25,Silver
+C00737,Grace Evans,Enterprise,South,2024-09-06,Gold
+C00738,Robin Ali,Enterprise,Central,2022-02-03,Bronze
+C00739,Sam Ali,Small Business,North,2025-06-08,Bronze
+C00740,Aisha Khan,Small Business,East,2024-04-26,Bronze
+C00741,Maya Wright,Consumer,West,2025-04-14,Gold
+C00742,Aisha Johnson,Enterprise,West,2019-09-28,Silver
+C00743,Emily Singh,Enterprise,East,2022-05-06,None
+C00744,Sam Walker,Enterprise,North,2023-01-27,Gold
+C00745,Priya Walker,Small Business,Central,2025-02-13,Silver
+C00746,Sofia Brown,Small Business,South,2024-04-20,Bronze
+C00747,Noah Chen,Consumer,South,2024-12-28,Gold
+C00748,Sam Walker,Enterprise,North,2024-08-10,Bronze
+C00749,Robin Wilson,Consumer,North,2019-12-08,None
+C00750,Alex Khan,Small Business,North,2024-11-08,None
+C00751,Fatima Walker,Consumer,East,2020-11-19,Bronze
+C00752,Daniel Chen,Enterprise,North,2021-12-08,Bronze
+C00753,Noah Brown,Enterprise,Central,2024-11-11,Bronze
+C00754,Emily Brown,Consumer,North,2019-02-15,Silver
+C00755,Sam Ahmed,Enterprise,South,2019-03-16,Bronze
+C00756,Fatima Brown,Consumer,East,2024-02-19,Gold
+C00757,Amira Ahmed,Enterprise,Central,2023-04-12,None
+C00758,Morgan Davies,Small Business,South,2025-09-27,Gold
+C00759,Morgan Taylor,Enterprise,East,2019-04-07,Bronze
+C00760,Priya Thomas,Small Business,Central,2025-10-07,Bronze
+C00761,Alex Patel,Consumer,North,2021-01-11,None
+C00762,Robin Chen,Enterprise,North,2019-12-28,Silver
+C00763,Morgan Taylor,Consumer,West,2019-10-15,Gold
+C00764,Liam Chen,Small Business,South,2022-08-12,None
+C00765,Priya Ali,Consumer,East,2025-03-14,None
+C00766,Fatima Evans,Consumer,Central,2023-03-18,Silver
+C00767,Aisha Khan,Small Business,North,2020-09-15,Gold
+C00768,Priya Wright,Enterprise,Central,2020-12-13,Gold
+C00769,Daniel Johnson,Consumer,West,2019-02-05,Gold
+C00770,Morgan Brown,Enterprise,West,2024-07-22,Silver
+C00771,Sam Taylor,Enterprise,Central,2019-06-16,None
+C00772,Priya Johnson,Enterprise,West,2021-12-10,None
+C00773,Sam Singh,Enterprise,North,2020-08-07,Gold
+C00774,Alex Wright,Consumer,Central,2019-09-01,None
+C00775,Daniel Wright,Enterprise,North,2020-08-09,Gold
+C00776,Noah Brown,Small Business,East,2024-11-23,Silver
+C00777,Fatima Khan,Consumer,South,2022-11-18,Gold
+C00778,Daniel Evans,Enterprise,Central,2023-08-23,Silver
+C00779,Noah Evans,Consumer,West,2025-04-19,Gold
+C00780,Alex Khan,Small Business,West,2020-06-12,Bronze
+C00781,Sam Wilson,Small Business,East,2021-02-19,Bronze
+C00782,Sam Evans,Small Business,Central,2023-09-08,None
+C00783,Sofia Taylor,Small Business,South,2023-09-22,Gold
+C00784,Maya Ali,Small Business,West,2024-06-12,Silver
+C00785,Grace Chen,Small Business,West,2021-03-26,Gold
+C00786,Maya Patel,Small Business,West,2020-05-09,Gold
+C00787,Maya Ali,Enterprise,Central,2025-07-02,Gold
+C00788,Alex Evans,Consumer,Central,2021-06-26,Gold
+C00789,Oliver Walker,Enterprise,North,2020-02-04,Silver
+C00790,Sofia Martin,Small Business,East,2025-10-19,None
+C00791,Fatima Thomas,Small Business,Central,2024-11-06,Silver
+C00792,Maya Thomas,Small Business,South,2021-10-19,None
+C00793,Alex Patel,Small Business,East,2024-05-12,Bronze
+C00794,Daniel Davies,Consumer,West,2021-02-21,Silver
+C00795,Aisha Walker,Enterprise,South,2025-10-05,Silver
+C00796,Emily Wright,Enterprise,Central,2019-08-09,Bronze
+C00797,Amira Wright,Small Business,West,2019-08-04,None
+C00798,Noah Walker,Enterprise,North,2020-03-21,Gold
+C00799,Daniel Chen,Consumer,North,2023-02-06,Gold
+C00800,Maya Taylor,Small Business,West,2020-02-05,None
+C00801,Alex Chen,Small Business,South,2025-11-23,Silver
+C00802,Amira Wilson,Consumer,North,2020-08-20,Bronze
+C00803,Emily Martin,Enterprise,Central,2023-10-22,None
+C00804,Maya Brown,Small Business,East,2019-01-11,Bronze
+C00805,Oliver Singh,Consumer,Central,2019-08-12,Silver
+C00806,Grace Khan,Small Business,South,2022-12-10,Bronze
+C00807,Fatima Singh,Small Business,West,2025-01-18,Gold
+C00808,Daniel Singh,Small Business,East,2025-01-24,Bronze
+C00809,Aisha Wright,Consumer,East,2023-06-01,Silver
+C00810,Noah Walker,Small Business,East,2019-08-06,Silver
+C00811,Priya Brown,Small Business,Central,2021-08-23,None
+C00812,Noah Johnson,Small Business,Central,2020-09-04,None
+C00813,Morgan Ahmed,Small Business,Central,2020-06-02,None
+C00814,Alex Davies,Enterprise,South,2020-10-16,None
+C00815,Aisha Taylor,Small Business,West,2025-04-17,Bronze
+C00816,Morgan Thomas,Enterprise,East,2023-05-21,None
+C00817,Grace Johnson,Small Business,West,2021-12-05,Bronze
+C00818,Morgan Thomas,Consumer,North,2022-05-12,Bronze
+C00819,Priya Wright,Enterprise,Central,2020-06-14,None
+C00820,Sam Brown,Consumer,West,2024-03-23,Silver
+C00821,Fatima Brown,Enterprise,Central,2020-10-09,Bronze
+C00822,Robin Ahmed,Small Business,North,2020-04-18,Bronze
+C00823,Oliver Singh,Small Business,North,2020-09-11,None
+C00824,Robin Ahmed,Enterprise,Central,2022-03-09,Bronze
+C00825,Morgan Chen,Consumer,West,2022-10-19,Silver
+C00826,Noah Ahmed,Consumer,North,2020-03-22,Gold
+C00827,Noah Wilson,Enterprise,East,2025-12-09,Gold
+C00828,Liam Davies,Consumer,West,2019-03-26,Gold
+C00829,Amira Davies,Small Business,West,2021-05-21,None
+C00830,Emily Singh,Enterprise,East,2021-07-06,Bronze
+C00831,Robin Evans,Consumer,East,2023-06-18,Silver
+C00832,Amira Taylor,Consumer,West,2020-11-03,Bronze
+C00833,Morgan Wright,Small Business,North,2019-04-06,Gold
+C00834,Alex Davies,Small Business,East,2022-09-28,Silver
+C00835,Liam Ahmed,Consumer,North,2021-10-28,Gold
+C00836,Sofia Khan,Enterprise,East,2023-08-05,Gold
+C00837,Grace Wilson,Enterprise,Central,2019-06-03,None
+C00838,Sofia Ahmed,Consumer,Central,2025-10-01,None
+C00839,Emily Davies,Enterprise,North,2025-12-06,Bronze
+C00840,Fatima Evans,Consumer,West,2022-11-02,Bronze
+C00841,Daniel Ahmed,Consumer,North,2024-03-19,None
+C00842,Liam Wilson,Small Business,East,2023-10-27,None
+C00843,Liam Chen,Small Business,West,2023-02-13,Gold
+C00844,Alex Martin,Small Business,East,2022-09-17,Silver
+C00845,Grace Thomas,Small Business,Central,2019-04-12,Gold
+C00846,Sam Thomas,Enterprise,West,2021-07-06,Silver
+C00847,Daniel Johnson,Enterprise,South,2022-11-05,Gold
+C00848,Liam Walker,Consumer,West,2021-01-09,Gold
+C00849,Robin Martin,Consumer,West,2021-08-06,Bronze
+C00850,Maya Johnson,Enterprise,North,2020-07-25,Silver
+C00851,Noah Wilson,Consumer,West,2020-02-28,Silver
+C00852,Fatima Patel,Small Business,Central,2024-10-13,Bronze
+C00853,Fatima Martin,Enterprise,Central,2019-06-01,None
+C00854,Fatima Ali,Enterprise,West,2020-06-01,Silver
+C00855,Robin Khan,Enterprise,North,2025-02-24,Bronze
+C00856,Daniel Davies,Enterprise,West,2025-07-05,None
+C00857,Noah Walker,Enterprise,East,2025-07-06,Silver
+C00858,Sofia Evans,Consumer,Central,2019-06-07,None
+C00859,Grace Ahmed,Consumer,South,2023-06-28,Gold
+C00860,Sofia Taylor,Consumer,West,2025-09-07,Bronze
+C00861,Daniel Ahmed,Enterprise,South,2022-11-11,Silver
+C00862,Aisha Khan,Small Business,Central,2024-09-02,None
+C00863,Sam Davies,Enterprise,Central,2024-11-25,Gold
+C00864,Sam Martin,Consumer,Central,2025-07-09,Gold
+C00865,Alex Evans,Enterprise,Central,2024-08-11,Gold
+C00866,Oliver Johnson,Enterprise,North,2020-01-19,None
+C00867,Fatima Khan,Small Business,North,2023-10-07,Silver
+C00868,Robin Thomas,Small Business,West,2022-03-20,Gold
+C00869,Morgan Ahmed,Small Business,South,2024-07-09,Silver
+C00870,Priya Singh,Small Business,East,2025-05-03,None
+C00871,Robin Brown,Small Business,South,2019-07-03,Gold
+C00872,Emily Evans,Enterprise,North,2019-09-17,Gold
+C00873,Grace Chen,Small Business,South,2022-07-17,Bronze
+C00874,Maya Martin,Small Business,North,2019-04-04,None
+C00875,Noah Khan,Small Business,West,2022-03-19,None
+C00876,Priya Singh,Small Business,Central,2022-09-24,Bronze
+C00877,Morgan Patel,Consumer,West,2021-12-25,Gold
+C00878,Amira Thomas,Consumer,Central,2021-02-07,Silver
+C00879,Robin Davies,Consumer,North,2019-10-16,Bronze
+C00880,Oliver Khan,Enterprise,Central,2022-10-05,Silver
+C00881,Robin Patel,Consumer,East,2025-04-01,Gold
+C00882,Noah Patel,Consumer,East,2020-03-23,Silver
+C00883,Liam Johnson,Enterprise,East,2023-12-15,Bronze
+C00884,Grace Brown,Enterprise,North,2025-06-26,Silver
+C00885,Sam Wilson,Consumer,Central,2021-07-09,Bronze
+C00886,Sam Chen,Consumer,South,2023-08-23,Silver
+C00887,Sam Evans,Enterprise,West,2021-06-19,Gold
+C00888,Aisha Thomas,Consumer,East,2020-12-10,Gold
+C00889,Alex Chen,Consumer,East,2025-01-03,None
+C00890,Robin Khan,Small Business,South,2022-04-04,None
+C00891,Morgan Martin,Consumer,South,2022-08-08,Gold
+C00892,Aisha Ali,Consumer,West,2021-04-12,Silver
+C00893,Sofia Martin,Small Business,West,2019-04-04,Silver
+C00894,Emily Wilson,Small Business,North,2024-11-10,Gold
+C00895,Aisha Martin,Consumer,South,2023-11-27,None
+C00896,Daniel Khan,Enterprise,North,2025-06-24,Gold
+C00897,Aisha Walker,Consumer,South,2025-04-12,None
+C00898,Morgan Patel,Enterprise,South,2025-01-23,Silver
+C00899,Oliver Martin,Small Business,Central,2019-12-18,None
+C00900,Priya Evans,Consumer,West,2021-02-03,Silver
+C00901,Sofia Patel,Enterprise,East,2023-03-05,Bronze
+C00902,Maya Taylor,Enterprise,Central,2019-03-18,Bronze
+C00903,Fatima Wilson,Small Business,West,2024-03-10,Bronze
+C00904,Maya Chen,Enterprise,East,2021-10-13,None
+C00905,Noah Ali,Consumer,East,2022-09-26,Gold
+C00906,Maya Singh,Consumer,North,2024-06-22,Silver
+C00907,Alex Wright,Small Business,Central,2021-02-15,Silver
+C00908,Sofia Singh,Small Business,South,2024-01-27,None
+C00909,Morgan Taylor,Consumer,Central,2025-09-13,Silver
+C00910,Emily Ali,Consumer,North,2025-01-23,None
+C00911,Aisha Johnson,Enterprise,Central,2020-05-24,Bronze
+C00912,Sofia Wilson,Enterprise,North,2023-12-11,None
+C00913,Priya Wilson,Consumer,Central,2022-05-22,Bronze
+C00914,Noah Brown,Enterprise,South,2025-08-05,Gold
+C00915,Morgan Chen,Enterprise,Central,2025-03-07,Gold
+C00916,Liam Patel,Small Business,North,2025-08-07,None
+C00917,Maya Ahmed,Small Business,Central,2024-05-07,Bronze
+C00918,Morgan Walker,Consumer,East,2025-02-03,Bronze
+C00919,Aisha Brown,Enterprise,West,2020-02-25,None
+C00920,Maya Wilson,Consumer,South,2024-11-26,Silver
+C00921,Fatima Walker,Small Business,East,2024-06-11,None
+C00922,Daniel Walker,Consumer,West,2025-12-15,Gold
+C00923,Fatima Ali,Small Business,South,2020-11-06,Gold
+C00924,Oliver Chen,Consumer,East,2025-06-14,Bronze
+C00925,Emily Wilson,Small Business,North,2022-01-02,Gold
+C00926,Sofia Johnson,Consumer,Central,2020-07-04,Bronze
+C00927,Daniel Brown,Consumer,West,2024-08-28,Silver
+C00928,Emily Ahmed,Small Business,North,2023-11-21,None
+C00929,Morgan Thomas,Small Business,South,2025-06-11,Bronze
+C00930,Daniel Ahmed,Enterprise,East,2019-01-13,None
+C00931,Amira Ali,Small Business,South,2020-10-05,Gold
+C00932,Sam Brown,Enterprise,East,2023-07-11,None
+C00933,Noah Wright,Enterprise,East,2021-09-21,None
+C00934,Oliver Ahmed,Enterprise,North,2025-06-20,Bronze
+C00935,Robin Evans,Enterprise,East,2023-04-01,Silver
+C00936,Grace Wright,Enterprise,East,2024-07-21,Gold
+C00937,Fatima Thomas,Small Business,Central,2020-01-20,None
+C00938,Grace Ahmed,Consumer,North,2022-09-26,Gold
+C00939,Sofia Wilson,Enterprise,South,2025-03-02,Bronze
+C00940,Aisha Davies,Consumer,East,2025-01-28,None
+C00941,Liam Ahmed,Consumer,South,2019-12-07,None
+C00942,Sofia Johnson,Enterprise,West,2022-06-25,Gold
+C00943,Priya Ali,Small Business,North,2020-11-03,Gold
+C00944,Alex Davies,Small Business,Central,2021-10-28,None
+C00945,Noah Thomas,Small Business,Central,2024-03-14,Bronze
+C00946,Fatima Walker,Consumer,Central,2025-02-04,Silver
+C00947,Robin Johnson,Enterprise,East,2024-03-05,Bronze
+C00948,Aisha Thomas,Small Business,West,2025-05-15,Gold
+C00949,Noah Patel,Small Business,East,2024-03-25,Silver
+C00950,Fatima Singh,Consumer,South,2024-03-27,None
+C00951,Fatima Khan,Small Business,West,2025-03-16,Bronze
+C00952,Fatima Thomas,Consumer,East,2022-07-26,Bronze
+C00953,Sofia Singh,Enterprise,East,2021-03-04,Bronze
+C00954,Daniel Ahmed,Enterprise,North,2019-10-14,None
+C00955,Sam Wilson,Small Business,North,2021-05-25,None
+C00956,Noah Ali,Small Business,Central,2019-05-14,Silver
+C00957,Fatima Walker,Small Business,Central,2021-04-06,Bronze
+C00958,Amira Patel,Consumer,South,2022-10-15,Bronze
+C00959,Sam Davies,Consumer,East,2023-06-28,None
+C00960,Daniel Wright,Enterprise,West,2024-02-04,None
+C00961,Maya Evans,Consumer,West,2021-07-10,Silver
+C00962,Noah Davies,Enterprise,West,2020-03-20,None
+C00963,Oliver Davies,Small Business,Central,2022-07-27,Gold
+C00964,Liam Johnson,Consumer,Central,2019-10-18,Bronze
+C00965,Liam Johnson,Small Business,South,2021-06-28,Gold
+C00966,Oliver Walker,Consumer,East,2019-06-11,Bronze
+C00967,Oliver Martin,Consumer,East,2020-01-06,Silver
+C00968,Liam Taylor,Consumer,North,2025-03-14,Silver
+C00969,Liam Ali,Consumer,Central,2021-11-28,None
+C00970,Amira Taylor,Consumer,Central,2023-03-20,None
+C00971,Aisha Khan,Consumer,South,2022-10-11,Gold
+C00972,Emily Taylor,Enterprise,North,2023-12-28,Silver
+C00973,Amira Khan,Consumer,West,2023-11-08,None
+C00974,Noah Brown,Enterprise,West,2024-09-16,Bronze
+C00975,Noah Walker,Small Business,North,2025-09-10,Gold
+C00976,Emily Thomas,Consumer,North,2019-07-04,Silver
+C00977,Sam Davies,Small Business,North,2020-02-06,Silver
+C00978,Sam Brown,Enterprise,East,2024-01-19,None
+C00979,Aisha Thomas,Small Business,West,2023-04-10,Silver
+C00980,Aisha Thomas,Enterprise,Central,2025-04-22,Silver
+C00981,Morgan Wright,Small Business,East,2024-04-09,None
+C00982,Emily Ali,Enterprise,East,2022-04-13,Bronze
+C00983,Aisha Singh,Enterprise,Central,2020-03-22,Bronze
+C00984,Priya Khan,Small Business,South,2022-03-12,Silver
+C00985,Robin Walker,Consumer,North,2024-08-13,Silver
+C00986,Noah Davies,Enterprise,South,2022-01-02,Silver
+C00987,Sofia Wilson,Small Business,Central,2021-07-10,Silver
+C00988,Robin Ali,Enterprise,West,2022-06-14,Gold
+C00989,Fatima Taylor,Enterprise,East,2020-07-19,Silver
+C00990,Liam Ali,Small Business,North,2020-02-16,Gold
+C00991,Robin Singh,Enterprise,Central,2025-10-01,None
+C00992,Priya Martin,Enterprise,West,2023-07-01,None
+C00993,Liam Walker,Consumer,North,2023-10-10,Silver
+C00994,Amira Khan,Consumer,East,2019-11-17,Silver
+C00995,Oliver Brown,Consumer,Central,2024-07-02,Gold
+C00996,Morgan Wilson,Consumer,West,2025-04-26,Gold
+C00997,Daniel Thomas,Small Business,South,2021-08-03,Gold
+C00998,Fatima Khan,Consumer,North,2025-08-20,Gold
+C00999,Amira Brown,Small Business,North,2019-11-27,Gold
+C01000,Priya Singh,Small Business,Central,2021-02-22,Bronze
+C01001,Oliver Singh,Consumer,West,2020-05-23,Bronze
+C01002,Emily Ahmed,Consumer,East,2024-05-04,None
+C01003,Morgan Davies,Small Business,Central,2025-02-14,Bronze
+C01004,Robin Martin,Enterprise,North,2020-03-01,None
+C01005,Amira Patel,Consumer,Central,2025-12-18,None
+C01006,Liam Ali,Enterprise,North,2021-02-27,Gold
+C01007,Priya Thomas,Consumer,South,2024-01-20,Silver
+C01008,Priya Brown,Enterprise,West,2023-09-23,None
+C01009,Robin Walker,Small Business,East,2021-05-01,Gold
+C01010,Robin Chen,Consumer,West,2019-09-26,Gold
+C01011,Oliver Singh,Enterprise,West,2019-09-25,Bronze
+C01012,Robin Singh,Enterprise,South,2021-07-02,None
+C01013,Maya Ali,Consumer,Central,2023-02-17,Silver
+C01014,Fatima Davies,Enterprise,West,2019-07-17,Bronze
+C01015,Morgan Evans,Small Business,West,2023-05-16,Silver
+C01016,Noah Walker,Enterprise,South,2024-05-14,None
+C01017,Grace Evans,Small Business,South,2019-12-10,Gold
+C01018,Noah Johnson,Small Business,South,2024-02-10,None
+C01019,Oliver Ahmed,Consumer,Central,2025-09-18,Bronze
+C01020,Fatima Taylor,Consumer,West,2024-11-16,Bronze
+C01021,Amira Johnson,Consumer,Central,2024-12-13,Bronze
+C01022,Maya Johnson,Enterprise,West,2025-10-08,Bronze
+C01023,Liam Evans,Consumer,East,2021-10-05,Silver
+C01024,Noah Walker,Consumer,Central,2020-06-14,Gold
+C01025,Alex Johnson,Consumer,West,2023-08-13,None
+C01026,Sam Martin,Consumer,North,2020-06-05,Bronze
+C01027,Sofia Wilson,Consumer,West,2021-01-15,Silver
+C01028,Oliver Johnson,Small Business,West,2019-05-08,Silver
+C01029,Morgan Walker,Consumer,East,2025-08-02,Bronze
+C01030,Robin Wilson,Consumer,Central,2021-02-20,Gold
+C01031,Amira Walker,Consumer,West,2024-12-10,Bronze
+C01032,Alex Davies,Small Business,Central,2024-07-18,None
+C01033,Grace Davies,Enterprise,Central,2023-01-08,None
+C01034,Priya Khan,Consumer,West,2022-06-08,Bronze
+C01035,Emily Brown,Small Business,North,2022-08-14,None
+C01036,Robin Ali,Small Business,North,2021-01-04,Gold
+C01037,Aisha Ahmed,Small Business,Central,2022-05-11,Silver
+C01038,Aisha Wilson,Enterprise,South,2023-01-01,Gold
+C01039,Amira Chen,Enterprise,West,2021-05-05,Silver
+C01040,Amira Wilson,Small Business,East,2021-06-03,Gold
+C01041,Priya Wilson,Small Business,West,2025-04-27,Bronze
+C01042,Liam Brown,Consumer,East,2020-04-25,None
+C01043,Daniel Wright,Small Business,West,2024-10-22,None
+C01044,Fatima Wright,Consumer,West,2023-05-14,Bronze
+C01045,Alex Johnson,Small Business,East,2024-11-22,Gold
+C01046,Emily Evans,Small Business,Central,2023-05-15,Bronze
+C01047,Emily Martin,Consumer,North,2023-12-01,None
+C01048,Maya Brown,Consumer,East,2022-03-06,None
+C01049,Robin Patel,Enterprise,Central,2022-07-25,Silver
+C01050,Liam Chen,Small Business,East,2021-05-12,Silver
+C01051,Oliver Ahmed,Small Business,East,2023-02-24,None
+C01052,Maya Patel,Consumer,Central,2020-02-22,Silver
+C01053,Sofia Taylor,Enterprise,Central,2022-12-20,Gold
+C01054,Fatima Davies,Enterprise,East,2020-01-21,None
+C01055,Priya Ali,Enterprise,South,2019-12-14,Bronze
+C01056,Amira Ahmed,Consumer,North,2023-02-17,Gold
+C01057,Sofia Patel,Enterprise,North,2023-03-21,Gold
+C01058,Sam Patel,Enterprise,North,2025-03-15,Bronze
+C01059,Noah Singh,Enterprise,South,2019-05-12,Bronze
+C01060,Grace Wright,Small Business,West,2025-03-22,Silver
+C01061,Fatima Khan,Enterprise,West,2022-09-27,Bronze
+C01062,Emily Johnson,Consumer,East,2023-05-15,Gold
+C01063,Alex Singh,Enterprise,East,2025-09-11,Gold
+C01064,Liam Walker,Enterprise,North,2022-11-05,Bronze
+C01065,Noah Khan,Small Business,South,2019-02-12,Silver
+C01066,Priya Ahmed,Enterprise,North,2021-10-07,None
+C01067,Robin Chen,Enterprise,East,2019-07-13,Bronze
+C01068,Robin Martin,Consumer,South,2023-09-13,Gold
+C01069,Robin Taylor,Consumer,South,2020-06-17,Gold
+C01070,Fatima Wilson,Small Business,South,2020-10-26,Bronze
+C01071,Fatima Johnson,Small Business,North,2021-11-24,None
+C01072,Oliver Thomas,Enterprise,North,2019-02-01,Silver
+C01073,Daniel Johnson,Consumer,East,2021-02-03,Bronze
+C01074,Amira Khan,Enterprise,East,2025-04-19,Gold
+C01075,Grace Singh,Enterprise,East,2020-12-05,None
+C01076,Emily Walker,Enterprise,North,2021-03-03,None
+C01077,Amira Martin,Consumer,Central,2023-11-25,Gold
+C01078,Oliver Singh,Enterprise,Central,2025-02-07,Gold
+C01079,Grace Walker,Small Business,North,2024-05-06,None
+C01080,Sam Davies,Small Business,South,2023-01-16,Gold
+C01081,Aisha Patel,Small Business,West,2024-08-05,Gold
+C01082,Oliver Taylor,Enterprise,North,2025-12-08,Gold
+C01083,Sam Evans,Enterprise,North,2025-02-02,Silver
+C01084,Daniel Khan,Consumer,Central,2023-05-06,Bronze
+C01085,Aisha Khan,Enterprise,North,2025-10-11,Silver
+C01086,Fatima Singh,Enterprise,Central,2023-04-02,Bronze
+C01087,Robin Davies,Consumer,West,2025-05-01,Bronze
+C01088,Oliver Chen,Enterprise,North,2024-12-12,None
+C01089,Sofia Patel,Consumer,Central,2021-12-08,None
+C01090,Daniel Ahmed,Small Business,North,2019-06-21,Bronze
+C01091,Noah Walker,Consumer,East,2019-10-23,Bronze
+C01092,Noah Wright,Enterprise,East,2019-02-14,None
+C01093,Amira Wilson,Enterprise,Central,2023-03-24,None
+C01094,Fatima Khan,Small Business,Central,2021-08-05,None
+C01095,Noah Martin,Enterprise,Central,2019-05-06,None
+C01096,Sofia Ahmed,Enterprise,Central,2020-05-12,None
+C01097,Morgan Chen,Small Business,Central,2019-11-10,Bronze
+C01098,Robin Davies,Enterprise,West,2024-09-01,None
+C01099,Priya Singh,Small Business,Central,2025-02-12,Gold
+C01100,Noah Johnson,Small Business,North,2023-08-28,Gold
+C01101,Robin Johnson,Small Business,North,2021-07-09,Gold
+C01102,Alex Wright,Enterprise,Central,2024-08-19,Gold
+C01103,Sam Thomas,Consumer,South,2019-11-23,None
+C01104,Priya Ali,Enterprise,East,2025-02-21,Silver
+C01105,Robin Singh,Enterprise,Central,2020-05-15,None
+C01106,Sofia Chen,Small Business,West,2024-11-08,None
+C01107,Liam Davies,Enterprise,West,2025-05-02,Gold
+C01108,Maya Chen,Small Business,South,2020-05-27,Gold
+C01109,Daniel Thomas,Small Business,North,2025-06-02,None
+C01110,Daniel Khan,Consumer,East,2023-12-24,Gold
+C01111,Maya Evans,Small Business,South,2023-11-05,Silver
+C01112,Daniel Johnson,Small Business,North,2021-03-20,Silver
+C01113,Sam Walker,Small Business,South,2021-08-07,Bronze
+C01114,Aisha Thomas,Enterprise,West,2025-04-28,Silver
+C01115,Robin Walker,Consumer,West,2021-12-08,Gold
+C01116,Liam Ali,Enterprise,East,2022-01-24,Gold
+C01117,Morgan Ali,Small Business,West,2024-09-18,Silver
+C01118,Oliver Thomas,Small Business,West,2023-10-07,Silver
+C01119,Sam Martin,Enterprise,North,2022-07-25,Bronze
+C01120,Oliver Martin,Small Business,West,2025-02-28,Bronze
+C01121,Daniel Ahmed,Enterprise,South,2021-02-03,None
+C01122,Noah Patel,Enterprise,South,2019-07-23,Gold
+C01123,Priya Thomas,Consumer,North,2021-10-21,Silver
+C01124,Amira Patel,Small Business,Central,2019-07-14,Silver
+C01125,Emily Walker,Enterprise,East,2019-06-22,Silver
+C01126,Grace Wright,Enterprise,West,2020-03-21,None
+C01127,Amira Singh,Small Business,South,2023-04-24,None
+C01128,Fatima Thomas,Consumer,South,2022-04-13,None
+C01129,Daniel Walker,Small Business,North,2019-08-02,Silver
+C01130,Aisha Brown,Small Business,South,2023-07-20,Gold
+C01131,Maya Davies,Small Business,North,2025-11-12,Bronze
+C01132,Morgan Patel,Enterprise,East,2024-02-23,Silver
+C01133,Liam Brown,Enterprise,Central,2023-01-17,Bronze
+C01134,Grace Johnson,Small Business,North,2024-11-09,Silver
+C01135,Oliver Ali,Enterprise,North,2020-09-02,Silver
+C01136,Sofia Thomas,Small Business,East,2025-08-06,Bronze
+C01137,Emily Chen,Enterprise,West,2020-02-08,Bronze
+C01138,Sofia Martin,Enterprise,West,2021-06-24,Bronze
+C01139,Maya Brown,Enterprise,North,2022-05-16,Bronze
+C01140,Robin Chen,Small Business,Central,2024-02-03,Gold
+C01141,Noah Davies,Small Business,Central,2020-12-09,Gold
+C01142,Morgan Chen,Enterprise,East,2019-05-10,None
+C01143,Oliver Wilson,Small Business,East,2025-10-27,Gold
+C01144,Sam Khan,Enterprise,South,2022-01-19,None
+C01145,Liam Taylor,Enterprise,Central,2024-10-04,None
+C01146,Oliver Evans,Small Business,South,2025-08-19,Silver
+C01147,Liam Wright,Consumer,North,2023-01-17,Bronze
+C01148,Emily Chen,Small Business,West,2022-05-24,Bronze
+C01149,Emily Ali,Enterprise,South,2021-03-13,Silver
+C01150,Priya Ahmed,Enterprise,North,2019-11-11,None
+C01151,Liam Evans,Enterprise,West,2020-09-03,Gold
+C01152,Fatima Taylor,Enterprise,Central,2025-01-12,Silver
+C01153,Liam Taylor,Enterprise,Central,2020-02-09,None
+C01154,Aisha Wright,Consumer,North,2022-09-25,None
+C01155,Liam Singh,Enterprise,Central,2020-07-09,None
+C01156,Emily Chen,Consumer,West,2022-09-23,Bronze
+C01157,Sam Wright,Consumer,Central,2020-10-24,None
+C01158,Aisha Khan,Enterprise,West,2024-07-07,Silver
+C01159,Liam Wilson,Consumer,West,2021-10-09,Silver
+C01160,Oliver Ali,Enterprise,North,2024-01-09,None
+C01161,Liam Ahmed,Consumer,South,2024-10-19,Bronze
+C01162,Oliver Davies,Enterprise,West,2021-07-11,Bronze
+C01163,Daniel Martin,Consumer,North,2021-11-17,Silver
+C01164,Grace Chen,Consumer,South,2024-05-28,Bronze
+C01165,Grace Ahmed,Enterprise,West,2022-01-15,Bronze
+C01166,Noah Ahmed,Consumer,East,2025-10-27,None
+C01167,Morgan Brown,Consumer,South,2021-09-21,None
+C01168,Liam Chen,Small Business,West,2021-12-16,Bronze
+C01169,Grace Ahmed,Small Business,East,2023-10-12,Silver
+C01170,Oliver Khan,Consumer,East,2019-04-12,Silver
+C01171,Priya Patel,Small Business,West,2022-05-20,Bronze
+C01172,Sofia Ahmed,Small Business,Central,2022-10-18,Gold
+C01173,Aisha Chen,Consumer,North,2019-08-20,Silver
+C01174,Robin Ali,Small Business,East,2019-08-25,Bronze
+C01175,Sam Patel,Small Business,East,2025-06-19,None
+C01176,Maya Khan,Consumer,West,2022-11-14,None
+C01177,Alex Walker,Consumer,Central,2024-06-27,Silver
+C01178,Noah Patel,Enterprise,East,2023-04-10,Gold
+C01179,Alex Walker,Enterprise,North,2019-08-03,None
+C01180,Noah Wright,Consumer,North,2025-09-06,None
+C01181,Aisha Singh,Small Business,West,2021-06-28,None
+C01182,Amira Patel,Small Business,East,2020-10-16,Gold
+C01183,Sam Ahmed,Small Business,West,2024-02-21,None
+C01184,Amira Taylor,Consumer,South,2020-12-20,Silver
+C01185,Alex Ali,Enterprise,East,2020-02-26,Silver
+C01186,Noah Ali,Consumer,West,2025-04-27,Silver
+C01187,Emily Thomas,Enterprise,Central,2020-05-15,Bronze
+C01188,Grace Khan,Enterprise,Central,2025-12-15,Bronze
+C01189,Aisha Evans,Enterprise,South,2023-06-03,Gold
+C01190,Sam Evans,Enterprise,Central,2022-09-22,Gold
+C01191,Aisha Johnson,Small Business,Central,2023-02-21,None
+C01192,Emily Ali,Small Business,South,2025-12-03,None
+C01193,Grace Patel,Enterprise,West,2025-07-06,Bronze
+C01194,Grace Walker,Consumer,West,2022-01-03,Silver
+C01195,Alex Khan,Small Business,East,2025-08-26,Silver
+C01196,Fatima Patel,Small Business,South,2020-11-16,Bronze
+C01197,Aisha Khan,Small Business,North,2022-01-04,Bronze
+C01198,Oliver Thomas,Enterprise,Central,2022-11-19,Bronze
+C01199,Aisha Wilson,Consumer,East,2019-03-24,Gold
+C01200,Robin Johnson,Enterprise,South,2024-07-24,Bronze
+C01201,Fatima Brown,Enterprise,East,2021-10-01,Gold
+C01202,Alex Johnson,Enterprise,Central,2023-09-01,Silver
+C01203,Daniel Martin,Enterprise,South,2022-08-16,Gold
+C01204,Aisha Walker,Consumer,North,2025-09-16,Bronze
+C01205,Emily Thomas,Enterprise,South,2019-11-09,None
+C01206,Sam Taylor,Enterprise,West,2025-12-13,Bronze
+C01207,Priya Walker,Small Business,North,2022-02-10,Gold
+C01208,Aisha Taylor,Enterprise,South,2019-11-07,None
+C01209,Grace Ali,Small Business,East,2024-12-21,Gold
+C01210,Alex Brown,Enterprise,North,2022-09-03,None
+C01211,Fatima Ahmed,Consumer,East,2022-01-23,Gold
+C01212,Amira Khan,Consumer,East,2023-05-01,Gold
+C01213,Sam Singh,Consumer,West,2021-10-06,Bronze
+C01214,Sofia Ali,Consumer,Central,2023-12-22,Silver
+C01215,Sam Singh,Enterprise,Central,2022-02-24,Gold
+C01216,Grace Chen,Small Business,Central,2020-04-27,None
+C01217,Noah Taylor,Small Business,North,2021-07-01,Bronze
+C01218,Aisha Johnson,Enterprise,West,2025-08-03,Bronze
+C01219,Maya Khan,Consumer,West,2019-07-14,Silver
+C01220,Robin Thomas,Consumer,Central,2024-08-21,Silver
+C01221,Alex Evans,Small Business,Central,2025-10-17,Gold
+C01222,Emily Chen,Small Business,North,2025-03-12,None
+C01223,Sam Singh,Small Business,East,2021-09-06,None
+C01224,Noah Khan,Enterprise,South,2020-03-25,Silver
+C01225,Fatima Singh,Small Business,West,2024-04-22,Silver
+C01226,Aisha Johnson,Enterprise,Central,2022-05-26,None
+C01227,Noah Singh,Small Business,North,2019-04-15,Gold
+C01228,Priya Brown,Enterprise,South,2022-09-18,Silver
+C01229,Amira Brown,Small Business,North,2021-04-15,Bronze
+C01230,Grace Chen,Enterprise,South,2021-03-13,None
+C01231,Robin Walker,Enterprise,North,2025-05-14,None
+C01232,Aisha Taylor,Enterprise,West,2025-08-03,Bronze
+C01233,Priya Patel,Consumer,North,2023-03-04,None
+C01234,Fatima Wilson,Consumer,East,2022-01-21,Bronze
+C01235,Robin Khan,Consumer,West,2019-06-05,Bronze
+C01236,Amira Wright,Enterprise,North,2024-03-01,Bronze
+C01237,Aisha Patel,Consumer,West,2023-12-06,Bronze
+C01238,Noah Khan,Consumer,West,2021-09-05,Bronze
+C01239,Emily Ahmed,Small Business,South,2019-02-02,Bronze
+C01240,Morgan Patel,Enterprise,Central,2022-07-28,Silver
+C01241,Sam Walker,Enterprise,North,2021-07-16,Gold
+C01242,Grace Khan,Enterprise,North,2019-01-28,None
+C01243,Noah Martin,Enterprise,Central,2022-08-24,Bronze
+C01244,Robin Wilson,Enterprise,North,2025-08-11,None
+C01245,Robin Wright,Consumer,North,2025-06-07,Gold
+C01246,Fatima Thomas,Consumer,North,2019-08-05,Bronze
+C01247,Aisha Wilson,Small Business,North,2020-02-14,Silver
+C01248,Priya Singh,Enterprise,South,2024-03-07,Silver
+C01249,Sam Walker,Enterprise,South,2025-08-19,Silver
+C01250,Sofia Martin,Enterprise,North,2019-12-11,None
+C01251,Fatima Ahmed,Enterprise,North,2020-07-08,None
+C01252,Liam Chen,Enterprise,North,2025-12-13,Gold
+C01253,Morgan Wilson,Enterprise,South,2023-02-12,Gold
+C01254,Alex Ali,Small Business,Central,2024-05-06,Silver
+C01255,Grace Chen,Enterprise,West,2023-10-19,Silver
+C01256,Emily Walker,Consumer,South,2021-04-19,Gold
+C01257,Sam Khan,Small Business,West,2025-05-11,Gold
+C01258,Emily Khan,Enterprise,East,2019-10-25,Gold
+C01259,Fatima Martin,Consumer,North,2022-04-13,Bronze
+C01260,Morgan Chen,Small Business,North,2021-05-07,None
+C01261,Alex Singh,Small Business,East,2022-02-20,Bronze
+C01262,Noah Patel,Enterprise,South,2024-04-12,None
+C01263,Robin Chen,Small Business,South,2022-09-19,None
+C01264,Aisha Ahmed,Consumer,North,2020-07-11,None
+C01265,Noah Johnson,Enterprise,South,2021-07-24,None
+C01266,Daniel Chen,Enterprise,South,2021-07-18,Bronze
+C01267,Noah Wilson,Small Business,West,2023-02-18,Gold
+C01268,Aisha Martin,Small Business,North,2021-06-01,Gold
+C01269,Oliver Chen,Small Business,West,2021-02-13,None
+C01270,Oliver Walker,Enterprise,East,2025-03-02,Silver
+C01271,Sam Singh,Small Business,Central,2019-11-24,Gold
+C01272,Aisha Walker,Enterprise,South,2023-01-23,Gold
+C01273,Daniel Walker,Consumer,Central,2019-07-14,None
+C01274,Liam Khan,Enterprise,South,2025-08-02,Silver
+C01275,Emily Patel,Enterprise,East,2021-08-06,Silver
+C01276,Emily Taylor,Consumer,South,2023-10-08,Gold
+C01277,Sofia Wilson,Consumer,Central,2022-12-04,Gold
+C01278,Priya Ahmed,Consumer,Central,2019-02-21,Gold
+C01279,Aisha Brown,Small Business,Central,2022-05-22,Bronze
+C01280,Aisha Davies,Consumer,South,2020-02-17,Silver
+C01281,Oliver Walker,Consumer,Central,2022-10-26,Gold
+C01282,Liam Wright,Enterprise,South,2025-09-26,Silver
+C01283,Sofia Martin,Consumer,Central,2021-07-26,None
+C01284,Oliver Davies,Consumer,West,2022-04-21,Silver
+C01285,Sam Patel,Small Business,East,2021-09-17,None
+C01286,Sofia Martin,Consumer,South,2022-05-07,Gold
+C01287,Liam Thomas,Enterprise,North,2021-09-09,None
+C01288,Daniel Patel,Consumer,North,2024-05-15,Bronze
+C01289,Priya Chen,Consumer,West,2019-12-03,Silver
+C01290,Amira Davies,Consumer,North,2023-09-02,Bronze
+C01291,Robin Brown,Small Business,Central,2024-11-22,None
+C01292,Morgan Thomas,Small Business,West,2020-03-13,Silver
+C01293,Priya Wilson,Enterprise,Central,2022-10-23,Gold
+C01294,Liam Ahmed,Consumer,Central,2023-04-17,None
+C01295,Noah Khan,Consumer,North,2020-06-15,Silver
+C01296,Liam Ahmed,Consumer,Central,2020-07-23,Bronze
+C01297,Aisha Singh,Enterprise,Central,2024-01-05,Bronze
+C01298,Amira Taylor,Small Business,North,2023-08-21,Bronze
+C01299,Robin Martin,Consumer,Central,2019-12-27,None
+C01300,Daniel Khan,Consumer,East,2022-12-18,Bronze
+C01301,Morgan Khan,Consumer,East,2025-10-02,None
+C01302,Robin Evans,Consumer,East,2020-10-06,None
+C01303,Sam Davies,Enterprise,East,2021-07-23,Gold
+C01304,Amira Wright,Small Business,North,2025-09-22,Silver
+C01305,Alex Taylor,Enterprise,East,2022-04-16,Bronze
+C01306,Priya Walker,Small Business,South,2024-11-11,Silver
+C01307,Aisha Singh,Consumer,North,2024-05-27,Bronze
+C01308,Amira Patel,Small Business,Central,2019-03-23,None
+C01309,Maya Davies,Small Business,West,2024-06-27,Silver
+C01310,Emily Singh,Enterprise,North,2019-10-16,Gold
+C01311,Sofia Khan,Enterprise,South,2023-02-20,None
+C01312,Liam Wilson,Small Business,North,2020-04-02,Bronze
+C01313,Noah Evans,Consumer,Central,2023-03-25,Gold
+C01314,Fatima Walker,Consumer,West,2019-03-19,Silver
+C01315,Maya Johnson,Consumer,North,2024-11-14,Bronze
+C01316,Priya Brown,Enterprise,Central,2022-12-20,None
+C01317,Morgan Evans,Enterprise,South,2023-12-06,Gold
+C01318,Robin Wilson,Consumer,North,2023-07-14,None
+C01319,Emily Patel,Enterprise,South,2025-09-03,Gold
+C01320,Maya Taylor,Enterprise,North,2020-10-16,Gold
+C01321,Liam Singh,Consumer,South,2024-06-01,None
+C01322,Emily Thomas,Consumer,East,2025-04-16,Gold
+C01323,Alex Singh,Enterprise,South,2021-05-15,Silver
+C01324,Robin Johnson,Enterprise,West,2023-05-10,Silver
+C01325,Morgan Davies,Consumer,East,2025-09-24,Silver
+C01326,Robin Thomas,Consumer,West,2020-08-03,None
+C01327,Priya Taylor,Small Business,East,2023-11-02,None
+C01328,Maya Wilson,Enterprise,South,2022-12-11,Gold
+C01329,Aisha Walker,Consumer,West,2023-01-07,Gold
+C01330,Morgan Patel,Small Business,West,2025-06-06,Silver
+C01331,Grace Khan,Enterprise,East,2023-05-08,Gold
+C01332,Priya Johnson,Small Business,East,2023-11-27,Gold
+C01333,Emily Chen,Small Business,West,2024-03-05,Bronze
+C01334,Sam Taylor,Enterprise,Central,2023-09-18,Gold
+C01335,Maya Brown,Small Business,Central,2020-06-27,Silver
+C01336,Fatima Martin,Small Business,East,2024-12-26,None
+C01337,Oliver Khan,Small Business,West,2021-02-24,Silver
+C01338,Alex Ali,Consumer,North,2025-01-02,Gold
+C01339,Liam Thomas,Enterprise,North,2021-03-06,Bronze
+C01340,Sofia Ali,Small Business,North,2025-03-01,Bronze
+C01341,Emily Brown,Consumer,South,2021-04-21,Bronze
+C01342,Fatima Davies,Small Business,East,2024-11-21,None
+C01343,Robin Brown,Enterprise,North,2021-10-11,Bronze
+C01344,Morgan Chen,Consumer,North,2021-02-22,Gold
+C01345,Morgan Khan,Consumer,Central,2019-04-16,Silver
+C01346,Grace Wright,Small Business,East,2025-07-22,None
+C01347,Alex Evans,Small Business,South,2021-10-02,Bronze
+C01348,Aisha Evans,Consumer,East,2020-03-11,Gold
+C01349,Amira Singh,Enterprise,South,2019-02-08,None
+C01350,Priya Evans,Consumer,North,2024-04-04,Silver

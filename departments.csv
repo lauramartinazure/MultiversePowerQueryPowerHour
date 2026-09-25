@@ -1,0 +1,121 @@
+DepartmentID,DepartmentName,Function,Region,CostCentre,DepartmentStatus
+D001,Retail Operations - North 01,Retail Operations,North,CC-1100,Active
+D002,Retail Operations - South 01,Retail Operations,South,CC-1101,Active
+D003,Retail Operations - East 01,Retail Operations,East,CC-1102,Active
+D004,Retail Operations - West 01,Retail Operations,West,CC-1103,Active
+D005,Retail Operations - Central 01,Retail Operations,Central,CC-1104,Active
+D006,Retail Operations - North 02,Retail Operations,North,CC-1105,Active
+D007,Retail Operations - South 02,Retail Operations,South,CC-1106,Active
+D008,Retail Operations - East 02,Retail Operations,East,CC-1107,Active
+D009,Retail Operations - West 02,Retail Operations,West,CC-1108,Active
+D010,Retail Operations - Central 02,Retail Operations,Central,CC-1109,Active
+D011,Ecommerce - North 01,Ecommerce,North,CC-1110,Active
+D012,Ecommerce - South 01,Ecommerce,South,CC-1111,Active
+D013,Ecommerce - East 01,Ecommerce,East,CC-1112,Active
+D014,Ecommerce - West 01,Ecommerce,West,CC-1113,Active
+D015,Ecommerce - Central 01,Ecommerce,Central,CC-1114,Active
+D016,Ecommerce - North 02,Ecommerce,North,CC-1115,Active
+D017,Ecommerce - South 02,Ecommerce,South,CC-1116,Active
+D018,Ecommerce - East 02,Ecommerce,East,CC-1117,Active
+D019,Ecommerce - West 02,Ecommerce,West,CC-1118,Active
+D020,Ecommerce - Central 02,Ecommerce,Central,CC-1119,Active
+D021,Customer Support - North 01,Customer Support,North,CC-1120,Active
+D022,Customer Support - South 01,Customer Support,South,CC-1121,Active
+D023,Customer Support - East 01,Customer Support,East,CC-1122,Active
+D024,Customer Support - West 01,Customer Support,West,CC-1123,Active
+D025,Customer Support - Central 01,Customer Support,Central,CC-1124,Active
+D026,Customer Support - North 02,Customer Support,North,CC-1125,Active
+D027,Customer Support - South 02,Customer Support,South,CC-1126,Active
+D028,Customer Support - East 02,Customer Support,East,CC-1127,Active
+D029,Customer Support - West 02,Customer Support,West,CC-1128,Active
+D030,Customer Support - Central 02,Customer Support,Central,CC-1129,Active
+D031,Supply Chain - North 01,Supply Chain,North,CC-1130,Active
+D032,Supply Chain - South 01,Supply Chain,South,CC-1131,Active
+D033,Supply Chain - East 01,Supply Chain,East,CC-1132,Active
+D034,Supply Chain - West 01,Supply Chain,West,CC-1133,Active
+D035,Supply Chain - Central 01,Supply Chain,Central,CC-1134,Active
+D036,Supply Chain - North 02,Supply Chain,North,CC-1135,Active
+D037,Supply Chain - South 02,Supply Chain,South,CC-1136,Active
+D038,Supply Chain - East 02,Supply Chain,East,CC-1137,Active
+D039,Supply Chain - West 02,Supply Chain,West,CC-1138,Active
+D040,Supply Chain - Central 02,Supply Chain,Central,CC-1139,Active
+D041,Finance - North 01,Finance,North,CC-1140,Active
+D042,Finance - South 01,Finance,South,CC-1141,Active
+D043,Finance - East 01,Finance,East,CC-1142,Active
+D044,Finance - West 01,Finance,West,CC-1143,Active
+D045,Finance - Central 01,Finance,Central,CC-1144,Active
+D046,Finance - North 02,Finance,North,CC-1145,Active
+D047,Finance - South 02,Finance,South,CC-1146,Active
+D048,Finance - East 02,Finance,East,CC-1147,Active
+D049,Finance - West 02,Finance,West,CC-1148,Active
+D050,Finance - Central 02,Finance,Central,CC-1149,Active
+D051,Marketing - North 01,Marketing,North,CC-1150,Active
+D052,Marketing - South 01,Marketing,South,CC-1151,Active
+D053,Marketing - East 01,Marketing,East,CC-1152,Active
+D054,Marketing - West 01,Marketing,West,CC-1153,Active
+D055,Marketing - Central 01,Marketing,Central,CC-1154,Active
+D056,Marketing - North 02,Marketing,North,CC-1155,Active
+D057,Marketing - South 02,Marketing,South,CC-1156,Active
+D058,Marketing - East 02,Marketing,East,CC-1157,Active
+D059,Marketing - West 02,Marketing,West,CC-1158,Active
+D060,Marketing - Central 02,Marketing,Central,CC-1159,Active
+D061,IT Services - North 01,IT Services,North,CC-1160,Active
+D062,IT Services - South 01,IT Services,South,CC-1161,Active
+D063,IT Services - East 01,IT Services,East,CC-1162,Active
+D064,IT Services - West 01,IT Services,West,CC-1163,Active
+D065,IT Services - Central 01,IT Services,Central,CC-1164,Active
+D066,IT Services - North 02,IT Services,North,CC-1165,Active
+D067,IT Services - South 02,IT Services,South,CC-1166,Active
+D068,IT Services - East 02,IT Services,East,CC-1167,Active
+D069,IT Services - West 02,IT Services,West,CC-1168,Active
+D070,IT Services - Central 02,IT Services,Central,CC-1169,Active
+D071,People Services - North 01,People Services,North,CC-1170,Active
+D072,People Services - South 01,People Services,South,CC-1171,Active
+D073,People Services - East 01,People Services,East,CC-1172,Active
+D074,People Services - West 01,People Services,West,CC-1173,Active
+D075,People Services - Central 01,People Services,Central,CC-1174,Active
+D076,People Services - North 02,People Services,North,CC-1175,Active
+D077,People Services - South 02,People Services,South,CC-1176,Active
+D078,People Services - East 02,People Services,East,CC-1177,Active
+D079,People Services - West 02,People Services,West,CC-1178,Active
+D080,People Services - Central 02,People Services,Central,CC-1179,Active
+D081,Commercial - North 01,Commercial,North,CC-1180,Active
+D082,Commercial - South 01,Commercial,South,CC-1181,Active
+D083,Commercial - East 01,Commercial,East,CC-1182,Active
+D084,Commercial - West 01,Commercial,West,CC-1183,Active
+D085,Commercial - Central 01,Commercial,Central,CC-1184,Active
+D086,Commercial - North 02,Commercial,North,CC-1185,Active
+D087,Commercial - South 02,Commercial,South,CC-1186,Active
+D088,Commercial - East 02,Commercial,East,CC-1187,Active
+D089,Commercial - West 02,Commercial,West,CC-1188,Active
+D090,Commercial - Central 02,Commercial,Central,CC-1189,Active
+D091,Analytics - North 01,Analytics,North,CC-1190,Active
+D092,Analytics - South 01,Analytics,South,CC-1191,Active
+D093,Analytics - East 01,Analytics,East,CC-1192,Active
+D094,Analytics - West 01,Analytics,West,CC-1193,Active
+D095,Analytics - Central 01,Analytics,Central,CC-1194,Active
+D096,Analytics - North 02,Analytics,North,CC-1195,Active
+D097,Analytics - South 02,Analytics,South,CC-1196,Active
+D098,Analytics - East 02,Analytics,East,CC-1197,Active
+D099,Analytics - West 02,Analytics,West,CC-1198,Active
+D100,Analytics - Central 02,Analytics,Central,CC-1199,Active
+D101,Facilities - North 01,Facilities,North,CC-1200,Active
+D102,Facilities - South 01,Facilities,South,CC-1201,Active
+D103,Facilities - East 01,Facilities,East,CC-1202,Active
+D104,Facilities - West 01,Facilities,West,CC-1203,Active
+D105,Facilities - Central 01,Facilities,Central,CC-1204,Active
+D106,Facilities - North 02,Facilities,North,CC-1205,Active
+D107,Facilities - South 02,Facilities,South,CC-1206,Active
+D108,Facilities - East 02,Facilities,East,CC-1207,Active
+D109,Facilities - West 02,Facilities,West,CC-1208,Active
+D110,Facilities - Central 02,Facilities,Central,CC-1209,Active
+D111,Innovation - North 01,Innovation,North,CC-1210,Active
+D112,Innovation - South 01,Innovation,South,CC-1211,Active
+D113,Innovation - East 01,Innovation,East,CC-1212,Planned
+D114,Innovation - West 01,Innovation,West,CC-1213,Planned
+D115,Innovation - Central 01,Innovation,Central,CC-1214,Planned
+D116,Innovation - North 02,Innovation,North,CC-1215,Planned
+D117,Innovation - South 02,Innovation,South,CC-1216,Planned
+D118,Innovation - East 02,Innovation,East,CC-1217,Planned
+D119,Innovation - West 02,Innovation,West,CC-1218,Planned
+D120,Innovation - Central 02,Innovation,Central,CC-1219,Planned

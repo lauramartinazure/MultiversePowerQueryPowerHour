@@ -1,0 +1,361 @@
+EmployeeID,EmployeeName,DepartmentID,JobFamily,StartDate,EmploymentStatus
+E0001,Emily Martin,,Store,2020-07-19,Former
+E0002,Robin Wilson,,Store,2017-09-02,Active
+E0003,Robin Evans,,Analyst,2020-07-19,Active
+E0004,Emily Walker,,Customer Service,2024-01-09,Active
+E0005,Liam Patel,,Operations,2020-03-19,Active
+E0006,Fatima Martin,,Store,2023-12-26,Active
+E0007,Sam Brown,,Store,2023-05-18,Active
+E0008,Sofia Taylor,,Analyst,2020-09-23,Active
+E0009,Morgan Johnson,,Store,2021-06-28,Active
+E0010,Maya Martin,,Analyst,2021-05-27,Active
+E0011,Robin Wright,,Analyst,2024-03-22,Active
+E0012,Aisha Davies,,Customer Service,2016-01-08,Active
+E0013,Noah Brown,,Operations,2017-05-11,Active
+E0014,Morgan Wright,,Store,2024-11-07,Active
+E0015,Sam Davies,,Analyst,2016-09-16,Active
+E0016,Fatima Walker,,Management,2025-07-02,Active
+E0017,Liam Wright,,Management,2021-12-14,Active
+E0018,Noah Ahmed,,Analyst,2018-09-11,Active
+E0019,Priya Walker,D074,Customer Service,2019-03-05,Active
+E0020,Fatima Taylor,D047,Operations,2023-12-02,Former
+E0021,Alex Khan,D053,Operations,2018-01-25,Active
+E0022,Fatima Wright,D022,Analyst,2019-09-07,Active
+E0023,Amira Johnson,D088,Operations,2023-01-27,Active
+E0024,Amira Chen,D086,Store,2018-03-13,Active
+E0025,Emily Wilson,D090,Customer Service,2018-10-13,Active
+E0026,Noah Wright,D051,Analyst,2023-03-09,Active
+E0027,Fatima Patel,D053,Customer Service,2020-04-02,Active
+E0028,Grace Patel,D111,Customer Service,2016-08-03,Active
+E0029,Morgan Taylor,D081,Customer Service,2021-12-26,Active
+E0030,Noah Wilson,D089,Operations,2017-10-17,Active
+E0031,Noah Patel,D088,Operations,2025-04-21,Active
+E0032,Grace Singh,D071,Store,2018-08-10,Active
+E0033,Fatima Singh,D074,Analyst,2017-04-07,Active
+E0034,Alex Taylor,D092,Store,2018-07-24,Active
+E0035,Oliver Patel,D014,Customer Service,2021-02-13,Active
+E0036,Alex Ali,D037,Store,2017-02-19,Active
+E0037,Sam Khan,D102,Customer Service,2022-02-05,Active
+E0038,Alex Walker,D041,Customer Service,2025-04-19,Active
+E0039,Maya Singh,D086,Store,2021-12-26,Former
+E0040,Robin Wilson,D105,Customer Service,2022-04-20,Active
+E0041,Amira Taylor,D048,Analyst,2017-04-25,Active
+E0042,Daniel Martin,D066,Management,2019-06-08,Active
+E0043,Sam Ahmed,D004,Customer Service,2019-11-21,Active
+E0044,Grace Brown,D107,Store,2021-01-10,Active
+E0045,Fatima Wright,D036,Operations,2018-02-10,Active
+E0046,Noah Johnson,D021,Operations,2021-04-23,Active
+E0047,Noah Taylor,D071,Management,2023-06-14,Active
+E0048,Aisha Taylor,D096,Store,2022-12-20,Active
+E0049,Sofia Ali,D054,Management,2020-11-24,Active
+E0050,Grace Wilson,D024,Management,2016-11-28,Active
+E0051,Daniel Walker,D109,Analyst,2019-02-12,Active
+E0052,Morgan Patel,D021,Customer Service,2019-09-19,Active
+E0053,Alex Thomas,D084,Customer Service,2017-06-12,Active
+E0054,Grace Ali,D050,Operations,2016-09-04,Active
+E0055,Priya Taylor,D071,Store,2022-11-24,Active
+E0056,Sofia Patel,D048,Store,2022-07-15,Active
+E0057,Sam Chen,D038,Management,2021-07-09,Active
+E0058,Emily Khan,D067,Store,2025-08-12,Former
+E0059,Aisha Wright,D041,Management,2018-04-10,Active
+E0060,Fatima Davies,D094,Customer Service,2018-07-15,Active
+E0061,Maya Ali,D065,Management,2023-07-17,Active
+E0062,Morgan Khan,D068,Analyst,2025-06-14,Active
+E0063,Oliver Patel,D015,Customer Service,2021-05-26,Active
+E0064,Morgan Wilson,D111,Store,2016-06-16,Active
+E0065,Liam Singh,D010,Operations,2023-06-06,Active
+E0066,Aisha Davies,D095,Customer Service,2024-01-26,Active
+E0067,Morgan Martin,D016,Management,2017-07-04,Active
+E0068,Fatima Ahmed,D078,Analyst,2022-12-12,Active
+E0069,Daniel Brown,D111,Analyst,2018-05-18,Active
+E0070,Daniel Khan,D008,Customer Service,2022-11-04,Active
+E0071,Noah Thomas,D110,Management,2017-07-19,Active
+E0072,Emily Johnson,D036,Operations,2020-04-26,Active
+E0073,Aisha Taylor,D092,Store,2021-12-23,Active
+E0074,Emily Wright,D035,Analyst,2020-02-14,Active
+E0075,Emily Ali,D014,Operations,2023-07-13,Active
+E0076,Amira Ali,D103,Store,2025-10-05,Active
+E0077,Robin Wright,D017,Store,2023-09-23,Former
+E0078,Aisha Ali,D016,Management,2023-03-13,Active
+E0079,Aisha Wilson,D056,Analyst,2016-01-08,Active
+E0080,Emily Wilson,D070,Analyst,2022-09-08,Active
+E0081,Daniel Khan,D017,Analyst,2017-12-03,Active
+E0082,Amira Johnson,D110,Store,2021-08-07,Active
+E0083,Daniel Brown,D112,Analyst,2025-11-14,Active
+E0084,Emily Evans,D015,Analyst,2021-07-23,Active
+E0085,Alex Chen,D063,Management,2019-05-12,Active
+E0086,Oliver Wright,D036,Analyst,2016-05-08,Active
+E0087,Daniel Brown,D102,Management,2022-04-24,Active
+E0088,Fatima Chen,D038,Customer Service,2024-03-02,Active
+E0089,Grace Wright,D091,Store,2018-03-15,Active
+E0090,Fatima Chen,D019,Analyst,2018-10-14,Active
+E0091,Priya Thomas,D094,Store,2016-07-10,Active
+E0092,Emily Davies,D046,Customer Service,2020-11-03,Active
+E0093,Oliver Thomas,D040,Management,2025-04-25,Active
+E0094,Grace Brown,D103,Customer Service,2018-11-28,Active
+E0095,Aisha Ahmed,D051,Management,2018-03-21,Active
+E0096,Aisha Patel,D088,Analyst,2025-06-24,Former
+E0097,Robin Johnson,D029,Customer Service,2022-08-05,Active
+E0098,Aisha Davies,D062,Operations,2017-09-05,Active
+E0099,Robin Thomas,D024,Operations,2021-01-25,Active
+E0100,Fatima Patel,D005,Management,2019-02-22,Active
+E0101,Aisha Evans,D085,Store,2024-03-11,Active
+E0102,Sofia Evans,D105,Management,2024-05-16,Active
+E0103,Priya Thomas,D108,Operations,2021-04-09,Active
+E0104,Robin Taylor,D060,Store,2022-03-02,Active
+E0105,Grace Khan,D042,Analyst,2025-09-01,Active
+E0106,Emily Evans,D049,Customer Service,2024-07-14,Active
+E0107,Fatima Wright,D093,Customer Service,2020-09-25,Active
+E0108,Priya Ali,D015,Operations,2021-06-01,Active
+E0109,Amira Wilson,D064,Store,2025-04-01,Active
+E0110,Amira Singh,D035,Store,2017-09-17,Active
+E0111,Fatima Brown,D011,Management,2024-01-13,Active
+E0112,Alex Martin,D079,Store,2018-01-11,Active
+E0113,Emily Singh,D030,Management,2020-07-04,Active
+E0114,Fatima Singh,D050,Customer Service,2024-08-25,Active
+E0115,Morgan Evans,D085,Customer Service,2017-09-07,Former
+E0116,Morgan Martin,D109,Customer Service,2023-11-03,Active
+E0117,Daniel Singh,D076,Analyst,2024-10-17,Active
+E0118,Priya Evans,D053,Analyst,2018-12-16,Active
+E0119,Fatima Davies,D006,Analyst,2023-06-12,Active
+E0120,Alex Chen,D109,Store,2016-04-19,Active
+E0121,Aisha Ali,D008,Customer Service,2023-08-26,Active
+E0122,Liam Wilson,D044,Management,2023-08-06,Active
+E0123,Priya Johnson,D021,Operations,2025-09-09,Active
+E0124,Emily Martin,D028,Analyst,2020-06-11,Active
+E0125,Emily Wilson,D078,Management,2024-02-28,Active
+E0126,Grace Johnson,D015,Customer Service,2018-02-18,Active
+E0127,Oliver Patel,D101,Management,2019-07-13,Active
+E0128,Alex Wright,D051,Analyst,2020-11-03,Active
+E0129,Sofia Patel,D092,Management,2019-06-13,Active
+E0130,Noah Singh,D070,Operations,2021-09-16,Active
+E0131,Fatima Patel,D090,Analyst,2025-05-01,Active
+E0132,Daniel Thomas,D009,Customer Service,2022-08-26,Active
+E0133,Sam Davies,D070,Operations,2020-11-28,Active
+E0134,Sofia Thomas,D058,Store,2025-06-15,Former
+E0135,Priya Ali,D049,Operations,2024-01-24,Active
+E0136,Noah Khan,D045,Management,2019-06-24,Active
+E0137,Amira Thomas,D050,Analyst,2023-02-01,Active
+E0138,Fatima Martin,D056,Analyst,2024-08-26,Active
+E0139,Maya Wilson,D074,Analyst,2022-03-13,Active
+E0140,Sam Singh,D097,Management,2023-02-24,Active
+E0141,Alex Evans,D066,Store,2025-11-21,Active
+E0142,Daniel Evans,D088,Management,2016-08-02,Active
+E0143,Daniel Johnson,D071,Management,2017-08-15,Active
+E0144,Robin Patel,D073,Operations,2018-02-20,Active
+E0145,Fatima Wilson,D083,Store,2019-06-16,Active
+E0146,Noah Johnson,D038,Management,2019-07-17,Active
+E0147,Maya Singh,D074,Customer Service,2017-03-03,Active
+E0148,Daniel Walker,D101,Management,2023-08-19,Active
+E0149,Amira Wright,D068,Store,2017-10-22,Active
+E0150,Aisha Evans,D096,Customer Service,2025-10-17,Active
+E0151,Amira Davies,D070,Management,2024-05-14,Active
+E0152,Sofia Taylor,D109,Store,2018-12-15,Active
+E0153,Daniel Ali,D051,Store,2024-06-03,Former
+E0154,Liam Patel,D066,Customer Service,2017-10-19,Active
+E0155,Daniel Wright,D069,Customer Service,2025-04-13,Active
+E0156,Sam Chen,D093,Store,2025-01-06,Active
+E0157,Morgan Evans,D055,Management,2023-07-18,Active
+E0158,Robin Wright,D055,Store,2023-08-01,Active
+E0159,Liam Khan,D031,Management,2018-07-08,Active
+E0160,Robin Johnson,D017,Operations,2022-09-09,Active
+E0161,Noah Walker,D051,Management,2025-09-15,Active
+E0162,Sofia Thomas,D037,Customer Service,2020-12-24,Active
+E0163,Maya Martin,D085,Store,2024-03-18,Active
+E0164,Morgan Khan,D108,Store,2020-11-17,Active
+E0165,Emily Davies,D082,Operations,2019-10-27,Active
+E0166,Maya Wright,D078,Management,2025-05-02,Active
+E0167,Aisha Wilson,D035,Operations,2016-08-15,Active
+E0168,Liam Walker,D103,Management,2020-09-09,Active
+E0169,Robin Singh,D100,Analyst,2021-06-02,Active
+E0170,Fatima Singh,D010,Operations,2022-12-18,Active
+E0171,Liam Wilson,D110,Operations,2017-08-24,Active
+E0172,Aisha Brown,D036,Management,2016-11-25,Former
+E0173,Amira Ahmed,D055,Analyst,2024-01-04,Active
+E0174,Aisha Davies,D052,Customer Service,2022-05-21,Active
+E0175,Daniel Patel,D110,Operations,2019-08-25,Active
+E0176,Sofia Ali,D080,Store,2024-03-25,Active
+E0177,Emily Ahmed,D054,Customer Service,2022-01-07,Active
+E0178,Robin Davies,D110,Store,2024-07-22,Active
+E0179,Emily Khan,D057,Analyst,2016-02-04,Active
+E0180,Sofia Khan,D061,Analyst,2016-06-15,Active
+E0181,Morgan Khan,D073,Store,2025-05-20,Active
+E0182,Sam Wright,D089,Customer Service,2016-11-12,Active
+E0183,Morgan Thomas,D037,Store,2019-02-09,Active
+E0184,Aisha Davies,D025,Operations,2020-10-04,Active
+E0185,Aisha Khan,D094,Customer Service,2018-04-15,Active
+E0186,Sam Ahmed,D017,Customer Service,2025-06-04,Active
+E0187,Aisha Wilson,D021,Analyst,2017-07-08,Active
+E0188,Morgan Ali,D068,Management,2021-07-19,Active
+E0189,Aisha Walker,D104,Analyst,2016-07-01,Active
+E0190,Noah Evans,D008,Store,2023-01-24,Active
+E0191,Oliver Wilson,D112,Management,2023-12-07,Former
+E0192,Morgan Khan,D081,Analyst,2023-11-08,Active
+E0193,Oliver Martin,D094,Analyst,2019-08-04,Active
+E0194,Grace Wright,D059,Customer Service,2023-12-20,Active
+E0195,Robin Patel,D037,Analyst,2020-09-10,Active
+E0196,Fatima Walker,D035,Store,2017-01-12,Active
+E0197,Fatima Ahmed,D001,Customer Service,2019-03-23,Active
+E0198,Alex Chen,D079,Operations,2025-06-22,Active
+E0199,Maya Ahmed,D066,Operations,2024-09-05,Active
+E0200,Aisha Khan,D035,Analyst,2022-11-28,Active
+E0201,Liam Davies,D010,Management,2024-01-05,Active
+E0202,Amira Taylor,D099,Customer Service,2024-11-27,Active
+E0203,Grace Patel,D010,Management,2019-04-22,Active
+E0204,Robin Thomas,D075,Operations,2016-10-14,Active
+E0205,Fatima Evans,D094,Operations,2024-09-28,Active
+E0206,Emily Martin,D009,Management,2025-07-17,Active
+E0207,Daniel Taylor,D070,Customer Service,2016-02-21,Active
+E0208,Oliver Ali,D095,Analyst,2021-04-15,Active
+E0209,Grace Thomas,D051,Customer Service,2023-10-11,Active
+E0210,Sam Ahmed,D027,Customer Service,2023-08-22,Former
+E0211,Daniel Patel,D055,Customer Service,2024-03-04,Active
+E0212,Emily Brown,D001,Operations,2023-04-07,Active
+E0213,Emily Patel,D097,Store,2020-09-05,Active
+E0214,Daniel Davies,D102,Customer Service,2025-04-21,Active
+E0215,Oliver Ali,D001,Store,2024-09-16,Active
+E0216,Sam Khan,D087,Analyst,2025-09-15,Active
+E0217,Liam Patel,D068,Store,2024-06-09,Active
+E0218,Alex Singh,D060,Customer Service,2017-06-10,Active
+E0219,Robin Johnson,D101,Management,2020-04-10,Active
+E0220,Sam Evans,D107,Store,2019-08-28,Active
+E0221,Liam Brown,D047,Analyst,2025-09-27,Active
+E0222,Liam Wright,D087,Operations,2016-07-26,Active
+E0223,Robin Ahmed,D015,Operations,2022-12-09,Active
+E0224,Liam Davies,D083,Store,2022-11-23,Active
+E0225,Daniel Davies,D075,Operations,2025-08-12,Active
+E0226,Daniel Wright,D071,Operations,2016-12-15,Active
+E0227,Daniel Singh,D016,Management,2019-01-14,Active
+E0228,Emily Davies,D021,Customer Service,2016-06-16,Active
+E0229,Oliver Evans,D015,Analyst,2021-09-05,Former
+E0230,Liam Ahmed,D008,Customer Service,2025-11-26,Active
+E0231,Priya Evans,D051,Analyst,2023-01-24,Active
+E0232,Morgan Singh,D001,Customer Service,2022-04-24,Active
+E0233,Liam Chen,D104,Customer Service,2020-09-05,Active
+E0234,Robin Ali,D073,Analyst,2019-03-13,Active
+E0235,Noah Chen,D017,Operations,2025-02-04,Active
+E0236,Robin Thomas,D003,Management,2018-11-08,Active
+E0237,Alex Singh,D049,Customer Service,2023-08-15,Active
+E0238,Robin Brown,D024,Customer Service,2016-04-20,Active
+E0239,Maya Singh,D080,Analyst,2017-11-09,Active
+E0240,Emily Brown,D081,Analyst,2018-02-03,Active
+E0241,Sofia Johnson,D068,Management,2021-09-11,Active
+E0242,Alex Thomas,D067,Management,2019-02-19,Active
+E0243,Alex Ali,D021,Operations,2024-07-12,Active
+E0244,Grace Martin,D094,Customer Service,2019-09-05,Active
+E0245,Robin Brown,D006,Analyst,2018-01-02,Active
+E0246,Sofia Evans,D019,Store,2018-10-23,Active
+E0247,Maya Wright,D075,Customer Service,2019-11-09,Active
+E0248,Priya Patel,D104,Analyst,2022-09-05,Former
+E0249,Noah Chen,D073,Analyst,2016-02-12,Active
+E0250,Fatima Davies,D033,Customer Service,2025-02-09,Active
+E0251,Sofia Wilson,D068,Analyst,2017-01-10,Active
+E0252,Robin Khan,D027,Customer Service,2017-05-17,Active
+E0253,Fatima Khan,D075,Customer Service,2022-05-17,Active
+E0254,Priya Khan,D038,Store,2020-08-01,Active
+E0255,Grace Taylor,D045,Analyst,2020-01-11,Active
+E0256,Maya Evans,D052,Store,2016-01-21,Active
+E0257,Aisha Brown,D074,Customer Service,2023-08-17,Active
+E0258,Aisha Thomas,D073,Store,2022-09-18,Active
+E0259,Fatima Johnson,D026,Customer Service,2023-09-28,Active
+E0260,Robin Wright,D013,Operations,2021-05-27,Active
+E0261,Daniel Patel,D064,Management,2020-09-16,Active
+E0262,Daniel Thomas,D077,Analyst,2016-10-08,Active
+E0263,Emily Davies,D024,Store,2016-03-02,Active
+E0264,Sam Davies,D071,Management,2022-04-11,Active
+E0265,Oliver Chen,D092,Analyst,2019-07-16,Active
+E0266,Noah Evans,D025,Store,2024-08-02,Active
+E0267,Maya Brown,D025,Management,2018-11-01,Former
+E0268,Liam Davies,D051,Operations,2021-06-01,Active
+E0269,Alex Evans,D041,Management,2020-01-15,Active
+E0270,Sofia Taylor,D027,Customer Service,2016-01-06,Active
+E0271,Robin Walker,D003,Customer Service,2023-11-16,Active
+E0272,Oliver Khan,D077,Store,2025-01-05,Active
+E0273,Sofia Ali,D102,Management,2024-12-26,Active
+E0274,Maya Ahmed,D010,Customer Service,2022-05-12,Active
+E0275,Amira Martin,D063,Analyst,2016-08-02,Active
+E0276,Daniel Patel,D002,Analyst,2016-09-10,Active
+E0277,Liam Wilson,D091,Operations,2018-10-04,Active
+E0278,Robin Walker,D095,Customer Service,2018-04-14,Active
+E0279,Robin Khan,D047,Analyst,2023-09-01,Active
+E0280,Aisha Khan,D015,Management,2020-02-28,Active
+E0281,Sam Khan,D044,Customer Service,2023-05-14,Active
+E0282,Aisha Johnson,D007,Operations,2021-10-09,Active
+E0283,Aisha Johnson,D007,Store,2018-04-05,Active
+E0284,Oliver Wilson,D083,Customer Service,2016-06-05,Active
+E0285,Robin Singh,D072,Management,2025-03-22,Active
+E0286,Fatima Evans,D034,Management,2023-04-03,Former
+E0287,Aisha Johnson,D017,Analyst,2020-05-04,Active
+E0288,Oliver Taylor,D095,Store,2022-07-21,Active
+E0289,Emily Taylor,D062,Customer Service,2021-09-07,Active
+E0290,Aisha Thomas,D020,Analyst,2023-11-03,Active
+E0291,Priya Patel,D002,Store,2016-05-12,Active
+E0292,Fatima Wright,D007,Management,2016-03-07,Active
+E0293,Liam Wilson,D058,Customer Service,2025-11-16,Active
+E0294,Priya Evans,D083,Customer Service,2025-01-08,Active
+E0295,Amira Taylor,D035,Store,2023-12-21,Active
+E0296,Aisha Johnson,D112,Analyst,2016-08-14,Active
+E0297,Maya Singh,D076,Management,2022-01-21,Active
+E0298,Fatima Davies,D057,Customer Service,2023-03-02,Active
+E0299,Alex Khan,D029,Operations,2019-11-17,Active
+E0300,Priya Wilson,D112,Customer Service,2023-05-21,Active
+E0301,Oliver Chen,D109,Analyst,2020-11-07,Active
+E0302,Sofia Singh,D044,Customer Service,2025-09-08,Active
+E0303,Daniel Chen,D111,Management,2018-08-15,Active
+E0304,Amira Johnson,D091,Store,2019-04-05,Active
+E0305,Noah Johnson,D040,Analyst,2023-03-27,Former
+E0306,Fatima Taylor,D038,Management,2019-11-22,Active
+E0307,Emily Walker,D109,Store,2023-10-19,Active
+E0308,Fatima Ali,D112,Customer Service,2022-12-15,Active
+E0309,Morgan Taylor,D054,Management,2024-04-08,Active
+E0310,Maya Evans,D064,Customer Service,2021-05-06,Active
+E0311,Emily Wright,D061,Management,2022-11-15,Active
+E0312,Daniel Davies,D009,Analyst,2024-09-10,Active
+E0313,Morgan Ahmed,D085,Management,2021-11-02,Active
+E0314,Liam Thomas,D060,Analyst,2020-02-02,Active
+E0315,Grace Ahmed,D103,Operations,2024-11-24,Active
+E0316,Amira Wright,D080,Analyst,2017-12-14,Active
+E0317,Oliver Davies,D064,Customer Service,2025-08-22,Active
+E0318,Liam Walker,D007,Operations,2021-11-05,Active
+E0319,Fatima Chen,D042,Analyst,2021-06-07,Active
+E0320,Morgan Patel,D063,Operations,2023-03-14,Active
+E0321,Sam Wilson,D009,Operations,2022-05-08,Active
+E0322,Maya Ali,D040,Operations,2025-04-25,Active
+E0323,Noah Ali,D032,Customer Service,2024-12-02,Active
+E0324,Robin Thomas,D053,Analyst,2019-02-22,Former
+E0325,Aisha Davies,D110,Management,2019-12-23,Active
+E0326,Robin Wilson,D087,Analyst,2024-08-23,Active
+E0327,Liam Martin,D038,Store,2021-09-05,Active
+E0328,Amira Brown,D017,Store,2023-05-13,Active
+E0329,Robin Davies,D106,Analyst,2020-09-22,Active
+E0330,Noah Wright,D058,Analyst,2018-11-27,Active
+E0331,Daniel Ali,D011,Management,2019-05-05,Active
+E0332,Daniel Davies,D069,Analyst,2022-01-18,Active
+E0333,Emily Evans,D098,Management,2021-05-15,Active
+E0334,Oliver Evans,D080,Analyst,2022-08-07,Active
+E0335,Daniel Evans,D074,Store,2018-02-27,Active
+E0336,Noah Singh,D097,Operations,2017-01-14,Active
+E0337,Fatima Wilson,D106,Store,2019-03-21,Active
+E0338,Alex Walker,D061,Management,2022-05-10,Active
+E0339,Morgan Ali,D021,Store,2016-11-16,Active
+E0340,Maya Khan,D078,Customer Service,2021-06-03,Active
+E0341,Fatima Taylor,D022,Management,2023-01-10,Active
+E0342,Liam Khan,D031,Store,2018-08-25,Active
+E0343,Maya Taylor,D050,Operations,2021-03-02,Former
+E0344,Robin Khan,D073,Operations,2020-03-02,Active
+E0345,Daniel Khan,D023,Analyst,2025-06-08,Active
+E0346,Priya Patel,D055,Store,2019-06-14,Active
+E0347,Robin Ahmed,D080,Customer Service,2025-06-13,Active
+E0348,Sam Patel,D042,Operations,2022-07-19,Active
+E0349,Emily Wilson,D107,Operations,2018-08-12,Active
+E0350,Emily Wright,D092,Management,2023-01-08,Active
+E0351,Fatima Wilson,D079,Operations,2024-03-06,Active
+E0352,Fatima Thomas,D110,Management,2021-09-17,Active
+E0353,Emily Patel,D003,Analyst,2017-06-20,Active
+E0354,Robin Wilson,D105,Management,2023-11-21,Active
+E0355,Grace Davies,D029,Operations,2021-05-21,Active
+E0356,Morgan Evans,D023,Management,2023-09-18,Active
+E0357,Aisha Taylor,D077,Management,2019-09-27,Active
+E0358,Morgan Evans,D071,Analyst,2018-03-14,Active
+E0359,Oliver Walker,D003,Store,2017-01-01,Active
+E0360,Fatima Davies,D036,Analyst,2023-10-04,Active

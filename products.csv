@@ -1,0 +1,361 @@
+ProductID,ProductName,Category,Brand,ListPriceGBP,ProductStatus
+P0001,Contoso Computers Model 01,Computers,Fabrikam,19.99,Discontinued
+P0002,Contoso Computers Model 02,Computers,Adventure Works,31.24,Active
+P0003,Contoso Computers Model 03,Computers,Fabrikam,42.49,Active
+P0004,Contoso Computers Model 04,Computers,Fabrikam,53.74,Active
+P0005,Contoso Computers Model 05,Computers,Contoso,64.99,Active
+P0006,Contoso Computers Model 06,Computers,Contoso,76.24,Active
+P0007,Contoso Computers Model 07,Computers,Contoso,87.49,Active
+P0008,Contoso Computers Model 08,Computers,Adventure Works,98.74,Active
+P0009,Contoso Computers Model 09,Computers,Adventure Works,109.99,Active
+P0010,Contoso Computers Model 10,Computers,Adventure Works,121.24,Active
+P0011,Contoso Computers Model 11,Computers,Adventure Works,132.49,Active
+P0012,Contoso Computers Model 12,Computers,Fabrikam,143.74,Active
+P0013,Contoso Computers Model 13,Computers,Contoso,154.99,Active
+P0014,Contoso Computers Model 14,Computers,Adventure Works,166.24,Active
+P0015,Contoso Computers Model 15,Computers,Adventure Works,177.49,Active
+P0016,Contoso Computers Model 16,Computers,Contoso,188.74,Active
+P0017,Contoso Computers Model 17,Computers,Contoso,199.99,Active
+P0018,Contoso Computers Model 18,Computers,Fabrikam,211.24,Active
+P0019,Contoso Computers Model 19,Computers,Fabrikam,222.49,Active
+P0020,Contoso Computers Model 20,Computers,Fabrikam,233.74,Active
+P0021,Contoso Computers Model 21,Computers,Fabrikam,244.99,Active
+P0022,Contoso Computers Model 22,Computers,Contoso,256.24,Active
+P0023,Contoso Computers Model 23,Computers,Contoso,267.49,Active
+P0024,Contoso Computers Model 24,Computers,Adventure Works,278.74,Discontinued
+P0025,Contoso Computers Model 25,Computers,Adventure Works,289.99,Active
+P0026,Contoso Computers Model 26,Computers,Fabrikam,301.24,Active
+P0027,Contoso Computers Model 27,Computers,Fabrikam,312.49,Active
+P0028,Contoso Computers Model 28,Computers,Adventure Works,323.74,Active
+P0029,Contoso Computers Model 29,Computers,Fabrikam,334.99,Active
+P0030,Contoso Computers Model 30,Computers,Contoso,346.24,Active
+P0031,Contoso Home Entertainment Model 01,Home Entertainment,Fabrikam,23.99,Active
+P0032,Contoso Home Entertainment Model 02,Home Entertainment,Adventure Works,35.24,Active
+P0033,Contoso Home Entertainment Model 03,Home Entertainment,Fabrikam,46.49,Active
+P0034,Contoso Home Entertainment Model 04,Home Entertainment,Contoso,57.74,Active
+P0035,Contoso Home Entertainment Model 05,Home Entertainment,Contoso,68.99,Active
+P0036,Contoso Home Entertainment Model 06,Home Entertainment,Fabrikam,80.24,Active
+P0037,Contoso Home Entertainment Model 07,Home Entertainment,Adventure Works,91.49,Active
+P0038,Contoso Home Entertainment Model 08,Home Entertainment,Contoso,102.74,Active
+P0039,Contoso Home Entertainment Model 09,Home Entertainment,Adventure Works,113.99,Active
+P0040,Contoso Home Entertainment Model 10,Home Entertainment,Fabrikam,125.24,Active
+P0041,Contoso Home Entertainment Model 11,Home Entertainment,Fabrikam,136.49,Active
+P0042,Contoso Home Entertainment Model 12,Home Entertainment,Adventure Works,147.74,Active
+P0043,Contoso Home Entertainment Model 13,Home Entertainment,Contoso,158.99,Active
+P0044,Contoso Home Entertainment Model 14,Home Entertainment,Adventure Works,170.24,Active
+P0045,Contoso Home Entertainment Model 15,Home Entertainment,Contoso,181.49,Active
+P0046,Contoso Home Entertainment Model 16,Home Entertainment,Contoso,192.74,Active
+P0047,Contoso Home Entertainment Model 17,Home Entertainment,Adventure Works,203.99,Discontinued
+P0048,Contoso Home Entertainment Model 18,Home Entertainment,Contoso,215.24,Active
+P0049,Contoso Home Entertainment Model 19,Home Entertainment,Adventure Works,226.49,Active
+P0050,Contoso Home Entertainment Model 20,Home Entertainment,Adventure Works,237.74,Active
+P0051,Contoso Home Entertainment Model 21,Home Entertainment,Fabrikam,248.99,Active
+P0052,Contoso Home Entertainment Model 22,Home Entertainment,Adventure Works,260.24,Active
+P0053,Contoso Home Entertainment Model 23,Home Entertainment,Fabrikam,271.49,Active
+P0054,Contoso Home Entertainment Model 24,Home Entertainment,Contoso,282.74,Active
+P0055,Contoso Home Entertainment Model 25,Home Entertainment,Adventure Works,293.99,Active
+P0056,Contoso Home Entertainment Model 26,Home Entertainment,Fabrikam,305.24,Active
+P0057,Contoso Home Entertainment Model 27,Home Entertainment,Adventure Works,316.49,Active
+P0058,Contoso Home Entertainment Model 28,Home Entertainment,Adventure Works,327.74,Active
+P0059,Contoso Home Entertainment Model 29,Home Entertainment,Contoso,338.99,Active
+P0060,Contoso Home Entertainment Model 30,Home Entertainment,Fabrikam,350.24,Active
+P0061,Contoso Cameras Model 01,Cameras,Contoso,27.99,Active
+P0062,Contoso Cameras Model 02,Cameras,Fabrikam,39.24,Active
+P0063,Contoso Cameras Model 03,Cameras,Adventure Works,50.49,Active
+P0064,Contoso Cameras Model 04,Cameras,Adventure Works,61.74,Active
+P0065,Contoso Cameras Model 05,Cameras,Fabrikam,72.99,Active
+P0066,Contoso Cameras Model 06,Cameras,Adventure Works,84.24,Active
+P0067,Contoso Cameras Model 07,Cameras,Contoso,95.49,Active
+P0068,Contoso Cameras Model 08,Cameras,Contoso,106.74,Active
+P0069,Contoso Cameras Model 09,Cameras,Fabrikam,117.99,Active
+P0070,Contoso Cameras Model 10,Cameras,Contoso,129.24,Discontinued
+P0071,Contoso Cameras Model 11,Cameras,Fabrikam,140.49,Active
+P0072,Contoso Cameras Model 12,Cameras,Fabrikam,151.74,Active
+P0073,Contoso Cameras Model 13,Cameras,Contoso,162.99,Active
+P0074,Contoso Cameras Model 14,Cameras,Adventure Works,174.24,Active
+P0075,Contoso Cameras Model 15,Cameras,Fabrikam,185.49,Active
+P0076,Contoso Cameras Model 16,Cameras,Adventure Works,196.74,Active
+P0077,Contoso Cameras Model 17,Cameras,Adventure Works,207.99,Active
+P0078,Contoso Cameras Model 18,Cameras,Contoso,219.24,Active
+P0079,Contoso Cameras Model 19,Cameras,Contoso,230.49,Active
+P0080,Contoso Cameras Model 20,Cameras,Contoso,241.74,Active
+P0081,Contoso Cameras Model 21,Cameras,Contoso,252.99,Active
+P0082,Contoso Cameras Model 22,Cameras,Fabrikam,264.24,Active
+P0083,Contoso Cameras Model 23,Cameras,Contoso,275.49,Active
+P0084,Contoso Cameras Model 24,Cameras,Fabrikam,286.74,Active
+P0085,Contoso Cameras Model 25,Cameras,Fabrikam,297.99,Active
+P0086,Contoso Cameras Model 26,Cameras,Adventure Works,309.24,Active
+P0087,Contoso Cameras Model 27,Cameras,Contoso,320.49,Active
+P0088,Contoso Cameras Model 28,Cameras,Contoso,331.74,Active
+P0089,Contoso Cameras Model 29,Cameras,Adventure Works,342.99,Active
+P0090,Contoso Cameras Model 30,Cameras,Fabrikam,354.24,Active
+P0091,Contoso Phones Model 01,Phones,Adventure Works,31.99,Active
+P0092,Contoso Phones Model 02,Phones,Adventure Works,43.24,Active
+P0093,Contoso Phones Model 03,Phones,Adventure Works,54.49,Discontinued
+P0094,Contoso Phones Model 04,Phones,Fabrikam,65.74,Active
+P0095,Contoso Phones Model 05,Phones,Adventure Works,76.99,Active
+P0096,Contoso Phones Model 06,Phones,Fabrikam,88.24,Active
+P0097,Contoso Phones Model 07,Phones,Fabrikam,99.49,Active
+P0098,Contoso Phones Model 08,Phones,Adventure Works,110.74,Active
+P0099,Contoso Phones Model 09,Phones,Fabrikam,121.99,Active
+P0100,Contoso Phones Model 10,Phones,Adventure Works,133.24,Active
+P0101,Contoso Phones Model 11,Phones,Contoso,144.49,Active
+P0102,Contoso Phones Model 12,Phones,Fabrikam,155.74,Active
+P0103,Contoso Phones Model 13,Phones,Fabrikam,166.99,Active
+P0104,Contoso Phones Model 14,Phones,Adventure Works,178.24,Active
+P0105,Contoso Phones Model 15,Phones,Contoso,189.49,Active
+P0106,Contoso Phones Model 16,Phones,Contoso,200.74,Active
+P0107,Contoso Phones Model 17,Phones,Fabrikam,211.99,Active
+P0108,Contoso Phones Model 18,Phones,Fabrikam,223.24,Active
+P0109,Contoso Phones Model 19,Phones,Fabrikam,234.49,Active
+P0110,Contoso Phones Model 20,Phones,Fabrikam,245.74,Active
+P0111,Contoso Phones Model 21,Phones,Adventure Works,256.99,Active
+P0112,Contoso Phones Model 22,Phones,Adventure Works,268.24,Active
+P0113,Contoso Phones Model 23,Phones,Fabrikam,279.49,Active
+P0114,Contoso Phones Model 24,Phones,Adventure Works,290.74,Active
+P0115,Contoso Phones Model 25,Phones,Contoso,301.99,Active
+P0116,Contoso Phones Model 26,Phones,Contoso,313.24,Discontinued
+P0117,Contoso Phones Model 27,Phones,Fabrikam,324.49,Active
+P0118,Contoso Phones Model 28,Phones,Adventure Works,335.74,Active
+P0119,Contoso Phones Model 29,Phones,Adventure Works,346.99,Active
+P0120,Contoso Phones Model 30,Phones,Contoso,358.24,Active
+P0121,Contoso Accessories Model 01,Accessories,Adventure Works,35.99,Active
+P0122,Contoso Accessories Model 02,Accessories,Adventure Works,47.24,Active
+P0123,Contoso Accessories Model 03,Accessories,Fabrikam,58.49,Active
+P0124,Contoso Accessories Model 04,Accessories,Fabrikam,69.74,Active
+P0125,Contoso Accessories Model 05,Accessories,Adventure Works,80.99,Active
+P0126,Contoso Accessories Model 06,Accessories,Fabrikam,92.24,Active
+P0127,Contoso Accessories Model 07,Accessories,Fabrikam,103.49,Active
+P0128,Contoso Accessories Model 08,Accessories,Fabrikam,114.74,Active
+P0129,Contoso Accessories Model 09,Accessories,Contoso,125.99,Active
+P0130,Contoso Accessories Model 10,Accessories,Contoso,137.24,Active
+P0131,Contoso Accessories Model 11,Accessories,Contoso,148.49,Active
+P0132,Contoso Accessories Model 12,Accessories,Contoso,159.74,Active
+P0133,Contoso Accessories Model 13,Accessories,Fabrikam,170.99,Active
+P0134,Contoso Accessories Model 14,Accessories,Contoso,182.24,Active
+P0135,Contoso Accessories Model 15,Accessories,Fabrikam,193.49,Active
+P0136,Contoso Accessories Model 16,Accessories,Adventure Works,204.74,Active
+P0137,Contoso Accessories Model 17,Accessories,Adventure Works,215.99,Active
+P0138,Contoso Accessories Model 18,Accessories,Contoso,227.24,Active
+P0139,Contoso Accessories Model 19,Accessories,Adventure Works,238.49,Discontinued
+P0140,Contoso Accessories Model 20,Accessories,Adventure Works,249.74,Active
+P0141,Contoso Accessories Model 21,Accessories,Adventure Works,260.99,Active
+P0142,Contoso Accessories Model 22,Accessories,Contoso,272.24,Active
+P0143,Contoso Accessories Model 23,Accessories,Contoso,283.49,Active
+P0144,Contoso Accessories Model 24,Accessories,Adventure Works,294.74,Active
+P0145,Contoso Accessories Model 25,Accessories,Contoso,305.99,Active
+P0146,Contoso Accessories Model 26,Accessories,Fabrikam,317.24,Active
+P0147,Contoso Accessories Model 27,Accessories,Fabrikam,328.49,Active
+P0148,Contoso Accessories Model 28,Accessories,Fabrikam,339.74,Active
+P0149,Contoso Accessories Model 29,Accessories,Adventure Works,350.99,Active
+P0150,Contoso Accessories Model 30,Accessories,Fabrikam,362.24,Active
+P0151,Contoso Appliances Model 01,Appliances,Fabrikam,39.99,Active
+P0152,Contoso Appliances Model 02,Appliances,Fabrikam,51.24,Active
+P0153,Contoso Appliances Model 03,Appliances,Fabrikam,62.49,Active
+P0154,Contoso Appliances Model 04,Appliances,Adventure Works,73.74,Active
+P0155,Contoso Appliances Model 05,Appliances,Contoso,84.99,Active
+P0156,Contoso Appliances Model 06,Appliances,Fabrikam,96.24,Active
+P0157,Contoso Appliances Model 07,Appliances,Contoso,107.49,Active
+P0158,Contoso Appliances Model 08,Appliances,Fabrikam,118.74,Active
+P0159,Contoso Appliances Model 09,Appliances,Contoso,129.99,Active
+P0160,Contoso Appliances Model 10,Appliances,Adventure Works,141.24,Active
+P0161,Contoso Appliances Model 11,Appliances,Fabrikam,152.49,Active
+P0162,Contoso Appliances Model 12,Appliances,Fabrikam,163.74,Discontinued
+P0163,Contoso Appliances Model 13,Appliances,Adventure Works,174.99,Active
+P0164,Contoso Appliances Model 14,Appliances,Fabrikam,186.24,Active
+P0165,Contoso Appliances Model 15,Appliances,Fabrikam,197.49,Active
+P0166,Contoso Appliances Model 16,Appliances,Fabrikam,208.74,Active
+P0167,Contoso Appliances Model 17,Appliances,Adventure Works,219.99,Active
+P0168,Contoso Appliances Model 18,Appliances,Contoso,231.24,Active
+P0169,Contoso Appliances Model 19,Appliances,Fabrikam,242.49,Active
+P0170,Contoso Appliances Model 20,Appliances,Contoso,253.74,Active
+P0171,Contoso Appliances Model 21,Appliances,Contoso,264.99,Active
+P0172,Contoso Appliances Model 22,Appliances,Fabrikam,276.24,Active
+P0173,Contoso Appliances Model 23,Appliances,Adventure Works,287.49,Active
+P0174,Contoso Appliances Model 24,Appliances,Contoso,298.74,Active
+P0175,Contoso Appliances Model 25,Appliances,Contoso,309.99,Active
+P0176,Contoso Appliances Model 26,Appliances,Fabrikam,321.24,Active
+P0177,Contoso Appliances Model 27,Appliances,Fabrikam,332.49,Active
+P0178,Contoso Appliances Model 28,Appliances,Adventure Works,343.74,Active
+P0179,Contoso Appliances Model 29,Appliances,Contoso,354.99,Active
+P0180,Contoso Appliances Model 30,Appliances,Adventure Works,366.24,Active
+P0181,Contoso Gaming Model 01,Gaming,Adventure Works,43.99,Active
+P0182,Contoso Gaming Model 02,Gaming,Adventure Works,55.24,Active
+P0183,Contoso Gaming Model 03,Gaming,Fabrikam,66.49,Active
+P0184,Contoso Gaming Model 04,Gaming,Contoso,77.74,Active
+P0185,Contoso Gaming Model 05,Gaming,Contoso,88.99,Discontinued
+P0186,Contoso Gaming Model 06,Gaming,Fabrikam,100.24,Active
+P0187,Contoso Gaming Model 07,Gaming,Adventure Works,111.49,Active
+P0188,Contoso Gaming Model 08,Gaming,Adventure Works,122.74,Active
+P0189,Contoso Gaming Model 09,Gaming,Fabrikam,133.99,Active
+P0190,Contoso Gaming Model 10,Gaming,Adventure Works,145.24,Active
+P0191,Contoso Gaming Model 11,Gaming,Contoso,156.49,Active
+P0192,Contoso Gaming Model 12,Gaming,Contoso,167.74,Active
+P0193,Contoso Gaming Model 13,Gaming,Contoso,178.99,Active
+P0194,Contoso Gaming Model 14,Gaming,Adventure Works,190.24,Active
+P0195,Contoso Gaming Model 15,Gaming,Contoso,201.49,Active
+P0196,Contoso Gaming Model 16,Gaming,Contoso,212.74,Active
+P0197,Contoso Gaming Model 17,Gaming,Contoso,223.99,Active
+P0198,Contoso Gaming Model 18,Gaming,Fabrikam,235.24,Active
+P0199,Contoso Gaming Model 19,Gaming,Adventure Works,246.49,Active
+P0200,Contoso Gaming Model 20,Gaming,Adventure Works,257.74,Active
+P0201,Contoso Gaming Model 21,Gaming,Contoso,268.99,Active
+P0202,Contoso Gaming Model 22,Gaming,Fabrikam,280.24,Active
+P0203,Contoso Gaming Model 23,Gaming,Contoso,291.49,Active
+P0204,Contoso Gaming Model 24,Gaming,Contoso,302.74,Active
+P0205,Contoso Gaming Model 25,Gaming,Contoso,313.99,Active
+P0206,Contoso Gaming Model 26,Gaming,Adventure Works,325.24,Active
+P0207,Contoso Gaming Model 27,Gaming,Adventure Works,336.49,Active
+P0208,Contoso Gaming Model 28,Gaming,Adventure Works,347.74,Discontinued
+P0209,Contoso Gaming Model 29,Gaming,Fabrikam,358.99,Active
+P0210,Contoso Gaming Model 30,Gaming,Fabrikam,370.24,Active
+P0211,Contoso Software Model 01,Software,Contoso,47.99,Active
+P0212,Contoso Software Model 02,Software,Adventure Works,59.24,Active
+P0213,Contoso Software Model 03,Software,Contoso,70.49,Active
+P0214,Contoso Software Model 04,Software,Fabrikam,81.74,Active
+P0215,Contoso Software Model 05,Software,Contoso,92.99,Active
+P0216,Contoso Software Model 06,Software,Adventure Works,104.24,Active
+P0217,Contoso Software Model 07,Software,Adventure Works,115.49,Active
+P0218,Contoso Software Model 08,Software,Adventure Works,126.74,Active
+P0219,Contoso Software Model 09,Software,Fabrikam,137.99,Active
+P0220,Contoso Software Model 10,Software,Contoso,149.24,Active
+P0221,Contoso Software Model 11,Software,Contoso,160.49,Active
+P0222,Contoso Software Model 12,Software,Contoso,171.74,Active
+P0223,Contoso Software Model 13,Software,Contoso,182.99,Active
+P0224,Contoso Software Model 14,Software,Adventure Works,194.24,Active
+P0225,Contoso Software Model 15,Software,Fabrikam,205.49,Active
+P0226,Contoso Software Model 16,Software,Fabrikam,216.74,Active
+P0227,Contoso Software Model 17,Software,Adventure Works,227.99,Active
+P0228,Contoso Software Model 18,Software,Fabrikam,239.24,Active
+P0229,Contoso Software Model 19,Software,Fabrikam,250.49,Active
+P0230,Contoso Software Model 20,Software,Adventure Works,261.74,Active
+P0231,Contoso Software Model 21,Software,Adventure Works,272.99,Discontinued
+P0232,Contoso Software Model 22,Software,Contoso,284.24,Active
+P0233,Contoso Software Model 23,Software,Adventure Works,295.49,Active
+P0234,Contoso Software Model 24,Software,Contoso,306.74,Active
+P0235,Contoso Software Model 25,Software,Contoso,317.99,Active
+P0236,Contoso Software Model 26,Software,Contoso,329.24,Active
+P0237,Contoso Software Model 27,Software,Contoso,340.49,Active
+P0238,Contoso Software Model 28,Software,Fabrikam,351.74,Active
+P0239,Contoso Software Model 29,Software,Adventure Works,362.99,Active
+P0240,Contoso Software Model 30,Software,Fabrikam,374.24,Active
+P0241,Contoso Audio Model 01,Audio,Contoso,51.99,Active
+P0242,Contoso Audio Model 02,Audio,Fabrikam,63.24,Active
+P0243,Contoso Audio Model 03,Audio,Fabrikam,74.49,Active
+P0244,Contoso Audio Model 04,Audio,Fabrikam,85.74,Active
+P0245,Contoso Audio Model 05,Audio,Contoso,96.99,Active
+P0246,Contoso Audio Model 06,Audio,Fabrikam,108.24,Active
+P0247,Contoso Audio Model 07,Audio,Adventure Works,119.49,Active
+P0248,Contoso Audio Model 08,Audio,Fabrikam,130.74,Active
+P0249,Contoso Audio Model 09,Audio,Contoso,141.99,Active
+P0250,Contoso Audio Model 10,Audio,Fabrikam,153.24,Active
+P0251,Contoso Audio Model 11,Audio,Fabrikam,164.49,Active
+P0252,Contoso Audio Model 12,Audio,Contoso,175.74,Active
+P0253,Contoso Audio Model 13,Audio,Fabrikam,186.99,Active
+P0254,Contoso Audio Model 14,Audio,Adventure Works,198.24,Discontinued
+P0255,Contoso Audio Model 15,Audio,Contoso,209.49,Active
+P0256,Contoso Audio Model 16,Audio,Fabrikam,220.74,Active
+P0257,Contoso Audio Model 17,Audio,Contoso,231.99,Active
+P0258,Contoso Audio Model 18,Audio,Contoso,243.24,Active
+P0259,Contoso Audio Model 19,Audio,Adventure Works,254.49,Active
+P0260,Contoso Audio Model 20,Audio,Contoso,265.74,Active
+P0261,Contoso Audio Model 21,Audio,Contoso,276.99,Active
+P0262,Contoso Audio Model 22,Audio,Fabrikam,288.24,Active
+P0263,Contoso Audio Model 23,Audio,Fabrikam,299.49,Active
+P0264,Contoso Audio Model 24,Audio,Fabrikam,310.74,Active
+P0265,Contoso Audio Model 25,Audio,Adventure Works,321.99,Active
+P0266,Contoso Audio Model 26,Audio,Fabrikam,333.24,Active
+P0267,Contoso Audio Model 27,Audio,Adventure Works,344.49,Active
+P0268,Contoso Audio Model 28,Audio,Contoso,355.74,Active
+P0269,Contoso Audio Model 29,Audio,Adventure Works,366.99,Active
+P0270,Contoso Audio Model 30,Audio,Adventure Works,378.24,Active
+P0271,Contoso Home Office Model 01,Home Office,Fabrikam,55.99,Active
+P0272,Contoso Home Office Model 02,Home Office,Fabrikam,67.24,Active
+P0273,Contoso Home Office Model 03,Home Office,Adventure Works,78.49,Active
+P0274,Contoso Home Office Model 04,Home Office,Contoso,89.74,Active
+P0275,Contoso Home Office Model 05,Home Office,Contoso,100.99,Active
+P0276,Contoso Home Office Model 06,Home Office,Contoso,112.24,Active
+P0277,Contoso Home Office Model 07,Home Office,Adventure Works,123.49,Discontinued
+P0278,Contoso Home Office Model 08,Home Office,Fabrikam,134.74,Active
+P0279,Contoso Home Office Model 09,Home Office,Adventure Works,145.99,Active
+P0280,Contoso Home Office Model 10,Home Office,Adventure Works,157.24,Active
+P0281,Contoso Home Office Model 11,Home Office,Contoso,168.49,Active
+P0282,Contoso Home Office Model 12,Home Office,Adventure Works,179.74,Active
+P0283,Contoso Home Office Model 13,Home Office,Fabrikam,190.99,Active
+P0284,Contoso Home Office Model 14,Home Office,Contoso,202.24,Active
+P0285,Contoso Home Office Model 15,Home Office,Adventure Works,213.49,Active
+P0286,Contoso Home Office Model 16,Home Office,Contoso,224.74,Active
+P0287,Contoso Home Office Model 17,Home Office,Fabrikam,235.99,Active
+P0288,Contoso Home Office Model 18,Home Office,Fabrikam,247.24,Active
+P0289,Contoso Home Office Model 19,Home Office,Adventure Works,258.49,Active
+P0290,Contoso Home Office Model 20,Home Office,Adventure Works,269.74,Active
+P0291,Contoso Home Office Model 21,Home Office,Fabrikam,280.99,Active
+P0292,Contoso Home Office Model 22,Home Office,Adventure Works,292.24,Active
+P0293,Contoso Home Office Model 23,Home Office,Adventure Works,303.49,Active
+P0294,Contoso Home Office Model 24,Home Office,Fabrikam,314.74,Active
+P0295,Contoso Home Office Model 25,Home Office,Fabrikam,325.99,Active
+P0296,Contoso Home Office Model 26,Home Office,Contoso,337.24,Active
+P0297,Contoso Home Office Model 27,Home Office,Adventure Works,348.49,Active
+P0298,Contoso Home Office Model 28,Home Office,Fabrikam,359.74,Active
+P0299,Contoso Home Office Model 29,Home Office,Contoso,370.99,Active
+P0300,Contoso Home Office Model 30,Home Office,Contoso,382.24,Discontinued
+P0301,Contoso Wearables Model 01,Wearables,Adventure Works,59.99,Active
+P0302,Contoso Wearables Model 02,Wearables,Contoso,71.24,Active
+P0303,Contoso Wearables Model 03,Wearables,Contoso,82.49,Active
+P0304,Contoso Wearables Model 04,Wearables,Contoso,93.74,Active
+P0305,Contoso Wearables Model 05,Wearables,Contoso,104.99,Active
+P0306,Contoso Wearables Model 06,Wearables,Adventure Works,116.24,Active
+P0307,Contoso Wearables Model 07,Wearables,Fabrikam,127.49,Active
+P0308,Contoso Wearables Model 08,Wearables,Adventure Works,138.74,Active
+P0309,Contoso Wearables Model 09,Wearables,Fabrikam,149.99,Active
+P0310,Contoso Wearables Model 10,Wearables,Contoso,161.24,Active
+P0311,Contoso Wearables Model 11,Wearables,Adventure Works,172.49,Active
+P0312,Contoso Wearables Model 12,Wearables,Adventure Works,183.74,Active
+P0313,Contoso Wearables Model 13,Wearables,Fabrikam,194.99,Active
+P0314,Contoso Wearables Model 14,Wearables,Adventure Works,206.24,Active
+P0315,Contoso Wearables Model 15,Wearables,Adventure Works,217.49,Active
+P0316,Contoso Wearables Model 16,Wearables,Fabrikam,228.74,Active
+P0317,Contoso Wearables Model 17,Wearables,Contoso,239.99,Active
+P0318,Contoso Wearables Model 18,Wearables,Fabrikam,251.24,Active
+P0319,Contoso Wearables Model 19,Wearables,Contoso,262.49,Active
+P0320,Contoso Wearables Model 20,Wearables,Contoso,273.74,Active
+P0321,Contoso Wearables Model 21,Wearables,Contoso,284.99,Active
+P0322,Contoso Wearables Model 22,Wearables,Fabrikam,296.24,Active
+P0323,Contoso Wearables Model 23,Wearables,Adventure Works,307.49,Discontinued
+P0324,Contoso Wearables Model 24,Wearables,Adventure Works,318.74,Active
+P0325,Contoso Wearables Model 25,Wearables,Fabrikam,329.99,Active
+P0326,Contoso Wearables Model 26,Wearables,Contoso,341.24,Active
+P0327,Contoso Wearables Model 27,Wearables,Fabrikam,352.49,Active
+P0328,Contoso Wearables Model 28,Wearables,Adventure Works,363.74,Active
+P0329,Contoso Wearables Model 29,Wearables,Adventure Works,374.99,Active
+P0330,Contoso Wearables Model 30,Wearables,Adventure Works,386.24,Active
+P0331,Contoso Networking Model 01,Networking,Adventure Works,63.99,Active
+P0332,Contoso Networking Model 02,Networking,Fabrikam,75.24,Active
+P0333,Contoso Networking Model 03,Networking,Fabrikam,86.49,Active
+P0334,Contoso Networking Model 04,Networking,Fabrikam,97.74,Active
+P0335,Contoso Networking Model 05,Networking,Contoso,108.99,Active
+P0336,Contoso Networking Model 06,Networking,Adventure Works,120.24,Active
+P0337,Contoso Networking Model 07,Networking,Contoso,131.49,Active
+P0338,Contoso Networking Model 08,Networking,Fabrikam,142.74,Active
+P0339,Contoso Networking Model 09,Networking,Adventure Works,153.99,Active
+P0340,Contoso Networking Model 10,Networking,Contoso,165.24,Active
+P0341,Contoso Networking Model 11,Networking,Adventure Works,176.49,Active
+P0342,Contoso Networking Model 12,Networking,Adventure Works,187.74,Active
+P0343,Contoso Networking Model 13,Networking,Adventure Works,198.99,Active
+P0344,Contoso Networking Model 14,Networking,Adventure Works,210.24,Active
+P0345,Contoso Networking Model 15,Networking,Contoso,221.49,Active
+P0346,Contoso Networking Model 16,Networking,Contoso,232.74,Discontinued
+P0347,Contoso Networking Model 17,Networking,Fabrikam,243.99,Active
+P0348,Contoso Networking Model 18,Networking,Fabrikam,255.24,Active
+P0349,Contoso Networking Model 19,Networking,Adventure Works,266.49,Active
+P0350,Contoso Networking Model 20,Networking,Adventure Works,277.74,Active
+P0351,Contoso Networking Model 21,Networking,Contoso,288.99,Active
+P0352,Contoso Networking Model 22,Networking,Contoso,300.24,Active
+P0353,Contoso Networking Model 23,Networking,Contoso,311.49,Active
+P0354,Contoso Networking Model 24,Networking,Contoso,322.74,Active
+P0355,Contoso Networking Model 25,Networking,Fabrikam,333.99,Active
+P0356,Contoso Networking Model 26,Networking,Contoso,345.24,Active
+P0357,Contoso Networking Model 27,Networking,Adventure Works,356.49,Active
+P0358,Contoso Networking Model 28,Networking,Adventure Works,367.74,Active
+P0359,Contoso Networking Model 29,Networking,Contoso,378.99,Active
+P0360,Contoso Networking Model 30,Networking,Contoso,390.24,Active

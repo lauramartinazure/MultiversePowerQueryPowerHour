@@ -1,0 +1,701 @@
+RequestType,RequestID,RequestedDateText,OrganisationEntered,Cost_GBP,DepartmentID,Priority,CompletedDateText
+Warranty claim,CH-03-00001,2026-03-09,Unregistered Partner 10,652.50,D079,High,
+Warranty claim,CH-03-00002,2026-03-29,Contoso Research 017,613.80,D046,Normal,2026-04-04
+Account access,CH-03-00003,2026-03-06,Northwind Logistics 024,263.40,D010,High,2026-03-13
+Product return,CH-03-00004,2026-03-12,Adventure Works Analytics 031,528.90,D018,Normal,2026-03-17
+Warranty claim,CH-03-00005,2026-03-28,Fabrikam Services 038,786.30,D039,High,2026-04-06
+Technical support,CH-03-00006,2026-03-14,Contoso Retial 045,472.60,D023,High,2026-03-25
+Account access,CH-03-00007,2026-03-03,Northwind Digital 052,56.40,D048,High,2026-03-10
+Technical support,CH-03-00008,2026-03-08,Adventure Works Research 059,162.20,D020,High,2026-03-15
+Account access,CH-03-00009,2026-03-22,Fabrikam Logistics 066,815.80,D104,Normal,2026-04-03
+Delivery enquiry,CH-03-00010,2026-03-13,Contoso Analytics 073,613.40,D008,High,2026-03-20
+Warranty claim,CH-03-00011,2026-03-07,Northwind Srvcs 080,780.80,D069,High,2026-03-14
+Product return,CH-03-00012,2026-03-21,Adventure Works Retail 087,41.50,D030,Normal,2026-03-25
+Technical support,CH-03-00013,2026-03-16,Fabrikam Digital 094,462.70,D031,Normal,2026-03-23
+Warranty claim,CH-03-00014,2026-03-04,Contoso Research 101,608.80,D038,High,2026-03-10
+Technical support,CH-03-00015,2026-03-04,Northwind Logistics 108,597.30,D027,Normal,2026-03-14
+Product return,CH-03-00016,2026-03-15,Adventure Works Analytcs 115,193.00,D065,High,2026-03-24
+Account access,CH-03-00017,2026-03-18,Fabrikam Services 122,118.20,D063,Normal,2026-03-23
+Technical support,CH-03-00018,2026-03-15,Contoso Retail 129,328.30,D085,Normal,2026-03-27
+Product return,CH-03-00019,2026-03-29,Northwind Digital 136,740.30,D109,Normal,2026-03-31
+Product return,CH-03-00020,2026-03-25,Adventure Works Research 143,309.60,D073,Normal,
+Account access,CH-03-00021,2026-03-02,Fabrikam Logistics 150,312.40,D034,Normal,2026-03-10
+Account access,CH-03-00022,2026-03-24,Contoso Analytics 157,484.30,D028,Normal,2026-03-27
+Product return,CH-03-00023,2026-03-24,Northwind Services 164,656.70,D005,Normal,2026-04-04
+Account access,CH-03-00024,2026-03-23,Adventure Works Retail 171,534.20,D104,Normal,2026-04-03
+Delivery enquiry,CH-03-00025,2026-03-01,Fabrikam Digital 178,358.80,D015,Normal,2026-03-07
+Technical support,CH-03-00026,2026-03-08,Contoso Research 185,720.20,D048,Normal,2026-03-18
+Warranty claim,CH-03-00027,2026-03-01,Northwind Logistics 192,212.00,D069,Normal,2026-03-13
+Technical support,CH-03-00028,2026-03-15,Adventure Works Analytics 199,745.20,D098,High,2026-03-17
+Account access,CH-03-00029,2026-03-13,Fabrikam Services 206,528.30,D062,Normal,2026-03-23
+Delivery enquiry,CH-03-00030,2026-03-05,Contoso Retail 213,237.00,D031,Normal,2026-03-11
+Account access,CH-03-00031,2026-03-11,Northwind Digitl 220,552.20,D109,Normal,2026-03-21
+Technical support,CH-03-00032,2026-03-11,Unregistered Partner 07,344.60,D106,High,2026-03-13
+Technical support,CH-03-00033,2026-03-03,Fabrikam Services 014,125.50,D003,High,2026-03-14
+Warranty claim,CH-03-00034,2026-03-29,Contoso Retail 021,77.30,D063,High,2026-04-05
+Warranty claim,CH-03-00035,2026-03-03,Northwind Digital 028,806.10,D096,High,2026-03-10
+Account access,CH-03-00036,2026-03-31,Adventure Works Research 035,108.30,D015,High,2026-04-04
+Product return,CH-03-00037,2026-03-13,Fabrikam Logistics 042,566.50,D007,High,2026-03-23
+Technical support,CH-03-00038,2026-03-25,Contoso Analytics 049,112.00,D018,High,2026-03-27
+Account access,CH-03-00039,2026-03-20,Northwind Services 056,543.80,D072,Normal,
+Product return,CH-03-00040,2026-03-11,Adventure Works Retail 063,15.30,D074,Normal,2026-03-13
+Product return,CH-03-00041,2026-03-15,Fabrikam Digitl 070,536.50,D040,High,2026-03-20
+Technical support,CH-03-00042,2026-03-04,Contoso Research 077,447.70,D084,High,2026-03-14
+Account access,CH-03-00043,2026-03-11,Northwind Logistics 084,41.10,D026,High,2026-03-17
+Technical support,CH-03-00044,2026-03-18,Adventure Works Analytics 091,204.20,D022,High,2026-03-30
+Account access,CH-03-00045,2026-03-13,Fabrikam Services 098,782.70,D046,High,2026-03-25
+Product return,CH-03-00046,2026-03-15,Contoso Retial 105,849.80,D112,Normal,2026-03-27
+Product return,CH-03-00047,2026-03-30,Northwind Digital 112,197.10,D027,Normal,2026-04-02
+Warranty claim,CH-03-00048,2026-03-05,Adventure Works Research 119,444.50,D042,Normal,2026-03-07
+Account access,CH-03-00049,2026-03-27,Fabrikam Logistics 126,107.50,D017,Normal,2026-03-29
+Account access,CH-03-00050,2026-03-23,Contoso Analytics 133,442.80,D073,Normal,2026-04-01
+Delivery enquiry,CH-03-00051,2026-03-10,Northwind Srvcs 140,336.40,D041,High,2026-03-13
+Technical support,CH-03-00052,2026-03-22,Adventure Works Retail 147,55.20,D002,Normal,2026-03-26
+Account access,CH-03-00053,2026-03-15,Fabrikam Digital 154,193.50,D079,High,2026-03-21
+Delivery enquiry,CH-03-00054,2026-03-16,Contoso Research 161,693.00,D031,High,2026-03-28
+Warranty claim,CH-03-00055,2026-03-14,Northwind Logistics 168,684.90,D047,Normal,2026-03-19
+Technical support,CH-03-00056,2026-03-04,Adventure Works Analytcs 175,359.30,D029,High,2026-03-12
+Warranty claim,CH-03-00057,2026-03-08,Fabrikam Services 182,796.80,D056,High,2026-03-09
+Delivery enquiry,CH-03-00058,2026-03-29,Contoso Retail 189,366.20,D014,High,
+Account access,CH-03-00059,2026-03-18,Northwind Digital 196,743.10,D056,High,2026-03-22
+Warranty claim,CH-03-00060,2026-03-07,Adventure Works Research 203,767.20,D002,High,2026-03-15
+Warranty claim,CH-03-00061,2026-03-05,Fabrikam Logistics 210,760.40,D050,Normal,2026-03-15
+Warranty claim,CH-03-00062,2026-03-29,Contoso Analytics 217,744.60,D088,Normal,2026-04-02
+Delivery enquiry,CH-03-00063,2026-03-31,Unregistered Partner 04,463.70,D072,High,2026-04-11
+Product return,CH-03-00064,2026-03-31,Adventure Works Research 011,368.80,D093,High,2026-04-04
+Account access,CH-03-00065,2026-03-21,Fabrikam Logistics 018,121.20,D065,High,2026-03-22
+Warranty claim,CH-03-00066,2026-03-29,Contoso Analytcs 025,680.40,D106,High,2026-04-05
+Product return,CH-03-00067,2026-03-18,Northwind Services 032,342.30,D109,High,2026-03-28
+Product return,CH-03-00068,2026-03-02,Adventure Works Retail 039,689.20,D088,Normal,2026-03-03
+Warranty claim,CH-03-00069,2026-03-11,Fabrikam Digital 046,449.60,D107,Normal,2026-03-22
+Account access,CH-03-00070,2026-03-08,Contoso Research 053,821.20,D028,High,2026-03-11
+Warranty claim,CH-03-00071,2026-03-25,Northwind Logistics 060,768.20,D002,Normal,2026-04-05
+Warranty claim,CH-03-00072,2026-03-09,Adventure Works Analytics 067,769.30,D014,Normal,2026-03-15
+Warranty claim,CH-03-00073,2026-03-02,Fabrikam Services 074,34.70,D112,High,2026-03-04
+Warranty claim,CH-03-00074,2026-03-01,Contoso Retail 081,606.60,D079,High,2026-03-11
+Delivery enquiry,CH-03-00075,2026-03-08,Northwind Digital 088,228.50,D084,High,2026-03-13
+Product return,CH-03-00076,2026-03-01,Adventure Works Research 095,732.40,D009,High,2026-03-09
+Account access,CH-03-00077,2026-03-19,Fabrikam Logistics 102,762.00,D079,High,
+Technical support,CH-03-00078,2026-03-31,Contoso Analytics 109,270.20,D044,Normal,2026-04-03
+Account access,CH-03-00079,2026-03-21,Northwind Services 116,300.30,D046,High,2026-03-22
+Product return,CH-03-00080,2026-03-28,Adventure Works Retail 123,387.80,D036,High,2026-04-06
+Warranty claim,CH-03-00081,2026-03-08,Fabrikam Digitl 130,477.60,D060,Normal,2026-03-11
+Account access,CH-03-00082,2026-03-04,Contoso Research 137,687.10,D016,Normal,2026-03-13
+Technical support,CH-03-00083,2026-03-28,Northwind Logistics 144,103.50,D086,Normal,2026-04-05
+Product return,CH-03-00084,2026-03-16,Adventure Works Analytics 151,552.60,D095,High,2026-03-21
+Delivery enquiry,CH-03-00085,2026-03-19,Fabrikam Services 158,366.80,D106,Normal,2026-03-21
+Warranty claim,CH-03-00086,2026-03-09,Contoso Retial 165,805.00,D015,High,2026-03-14
+Product return,CH-03-00087,2026-03-21,Northwind Digital 172,418.80,D018,Normal,2026-03-25
+Product return,CH-03-00088,2026-03-16,Adventure Works Research 179,707.30,D091,Normal,2026-03-21
+Delivery enquiry,CH-03-00089,2026-03-13,Fabrikam Logistics 186,61.60,D065,Normal,2026-03-16
+Delivery enquiry,CH-03-00090,2026-03-08,Contoso Analytics 193,15.20,D015,Normal,2026-03-13
+Warranty claim,CH-03-00091,2026-03-02,Northwind Srvcs 200,291.70,D095,Normal,2026-03-10
+Account access,CH-03-00092,2026-03-24,Adventure Works Retail 207,168.00,D100,High,2026-03-29
+Technical support,CH-03-00093,2026-03-28,Fabrikam Digital 214,711.50,D110,High,2026-03-31
+Account access,CH-03-00094,2026-03-23,Unregistered Partner 01,715.10,D075,Normal,2026-04-03
+Technical support,CH-03-00095,2026-03-03,Adventure Works UK,389.70,D061,High,2026-03-07
+Warranty claim,CH-03-00096,2026-03-03,Adventure Works Retial 015,182.20,D056,High,
+Technical support,CH-03-00097,2026-03-27,Fabrikam Digital 022,641.60,D005,High,2026-03-31
+Warranty claim,CH-03-00098,2026-03-18,Contoso Research 029,351.00,D060,Normal,2026-03-30
+Technical support,CH-03-00099,2026-03-08,Northwind Logistics 036,539.10,D025,High,2026-03-19
+Warranty claim,CH-03-00100,2026-03-14,Adventure Works Analytics 043,632.90,D025,High,2026-03-24
+Warranty claim,CH-03-00101,2026-03-27,Fabrikam Srvcs 050,314.10,D049,Normal,2026-04-05
+Delivery enquiry,CH-03-00102,2026-03-11,Contoso Retail 057,774.00,D006,Normal,2026-03-13
+Account access,CH-03-00103,2026-03-07,Northwind Digital 064,644.40,D077,Normal,2026-03-13
+Product return,CH-03-00104,2026-03-13,Adventure Works Research 071,495.90,D070,High,2026-03-14
+Technical support,CH-03-00105,2026-03-13,Fabrikam Logistics 078,46.10,D077,High,2026-03-18
+Technical support,CH-03-00106,2026-03-15,Contoso Analytcs 085,347.10,D084,Normal,2026-03-22
+Delivery enquiry,CH-03-00107,2026-03-18,Northwind Services 092,162.80,D044,Normal,2026-03-22
+Technical support,CH-03-00108,2026-03-15,Adventure Works Retail 099,646.10,D099,Normal,2026-03-23
+Product return,CH-03-00109,2026-03-24,Fabrikam Digital 106,690.20,D020,High,2026-04-02
+Delivery enquiry,CH-03-00110,2026-03-05,Contoso Research 113,15.00,D109,Normal,2026-03-15
+Delivery enquiry,CH-03-00111,2026-03-09,Northwind Logistics 120,537.00,D038,Normal,2026-03-20
+Account access,CH-03-00112,2026-03-27,Adventure Works Analytics 127,75.10,D070,Normal,2026-04-01
+Delivery enquiry,CH-03-00113,2026-03-05,Fabrikam Services 134,729.60,D022,High,2026-03-08
+Warranty claim,CH-03-00114,2026-03-07,Contoso Retail 141,268.90,D072,Normal,2026-03-19
+Delivery enquiry,CH-03-00115,2026-03-28,Northwind Digital 148,592.90,D007,High,
+Technical support,CH-03-00116,2026-03-29,Adventure Works Research 155,194.50,D062,High,2026-04-05
+Account access,CH-03-00117,2026-03-08,Fabrikam Logistics 162,292.10,D016,Normal,2026-03-18
+Technical support,CH-03-00118,2026-03-22,Contoso Analytics 169,777.70,D082,Normal,2026-04-03
+Product return,CH-03-00119,2026-03-04,Northwind Services 176,715.60,D085,High,2026-03-09
+Warranty claim,CH-03-00120,2026-03-02,Adventure Works Retail 183,447.80,D110,Normal,2026-03-12
+Product return,CH-03-00121,2026-03-10,Fabrikam Digitl 190,402.30,D086,Normal,2026-03-19
+Warranty claim,CH-03-00122,2026-03-25,Contoso Research 197,698.30,D112,Normal,2026-04-04
+Delivery enquiry,CH-03-00123,2026-03-11,Northwind Logistics 204,573.70,D009,High,2026-03-16
+Delivery enquiry,CH-03-00124,2026-03-15,Adventure Works Analytics 211,197.50,D067,Normal,2026-03-27
+Product return,CH-03-00125,2026-03-09,Unregistered Partner 38,814.30,D081,High,2026-03-12
+Product return,CH-03-00126,2026-03-22,Contoso Oxford Trdg,650.00,D076,Normal,2026-03-28
+Product return,CH-03-00127,2026-03-19,Northwind Logistics 012,463.70,D045,High,2026-03-27
+Delivery enquiry,CH-03-00128,2026-03-09,Adventure Works Analytics 019,225.10,D012,High,2026-03-19
+Technical support,CH-03-00129,2026-03-20,Fabrikam Services 026,302.90,D084,Normal,2026-04-01
+Technical support,CH-03-00130,2026-03-06,Contoso Retail 033,82.90,D003,High,2026-03-15
+Technical support,CH-03-00131,2026-03-26,Northwind Digitl 040,363.50,D035,Normal,2026-03-27
+Technical support,CH-03-00132,2026-03-15,Adventure Works Research 047,518.60,D007,High,2026-03-17
+Product return,CH-03-00133,2026-03-27,Fabrikam Logistics 054,126.10,D080,Normal,2026-04-01
+Account access,CH-03-00134,2026-03-22,Contoso Analytics 061,520.60,D075,High,
+Product return,CH-03-00135,2026-03-01,Northwind Services 068,551.10,D023,Normal,2026-03-12
+Account access,CH-03-00136,2026-03-04,Adventure Works Retial 075,609.70,D107,Normal,2026-03-08
+Technical support,CH-03-00137,2026-03-11,Fabrikam Digital 082,394.60,D004,High,2026-03-21
+Warranty claim,CH-03-00138,2026-03-19,Contoso Research 089,198.90,D043,High,2026-03-27
+Delivery enquiry,CH-03-00139,2026-03-04,Northwind Logistics 096,740.20,D112,High,2026-03-06
+Product return,CH-03-00140,2026-03-03,Adventure Works Analytics 103,136.70,D056,Normal,2026-03-15
+Delivery enquiry,CH-03-00141,2026-03-14,Fabrikam Srvcs 110,626.00,D057,High,2026-03-25
+Warranty claim,CH-03-00142,2026-03-23,Contoso Retail 117,388.50,D063,Normal,2026-03-24
+Account access,CH-03-00143,2026-03-05,Northwind Digital 124,820.30,D079,Normal,2026-03-11
+Account access,CH-03-00144,2026-03-31,Adventure Works Research 131,682.10,D085,High,2026-04-01
+Account access,CH-03-00145,2026-03-11,Fabrikam Logistics 138,621.50,D011,Normal,2026-03-22
+Account access,CH-03-00146,2026-03-18,Contoso Analytcs 145,300.70,D033,Normal,2026-03-20
+Warranty claim,CH-03-00147,2026-03-25,Northwind Services 152,690.70,D078,High,2026-04-02
+Account access,CH-03-00148,2026-03-20,Adventure Works Retail 159,198.80,D103,High,2026-03-30
+Product return,CH-03-00149,2026-03-24,Fabrikam Digital 166,458.60,D105,High,2026-03-29
+Account access,CH-03-00150,2026-03-13,Contoso Research 173,699.40,D007,High,2026-03-25
+Account access,CH-03-00151,2026-03-17,Northwind Logistics 180,226.90,D102,High,2026-03-21
+Product return,CH-03-00152,2026-03-06,Adventure Works Analytics 187,626.40,D072,High,2026-03-07
+Warranty claim,CH-03-00153,2026-03-13,Fabrikam Services 194,466.80,D017,High,
+Technical support,CH-03-00154,2026-03-22,Contoso Retail 201,453.90,D049,High,2026-04-02
+Product return,CH-03-00155,2026-03-30,Northwind Digital 208,211.20,D039,High,2026-04-02
+Account access,CH-03-00156,2026-03-17,Unregistered Partner 35,83.40,D062,High,2026-03-27
+Technical support,CH-03-00157,2026-03-21,University of Cambridge,82.20,D032,High,2026-03-27
+Product return,CH-03-00158,2026-03-15,Contoso Retail 009,12.10,D063,High,2026-03-24
+Delivery enquiry,CH-03-00159,2026-03-02,Northwind Digital 016,336.10,D019,Normal,2026-03-14
+Warranty claim,CH-03-00160,2026-03-15,Adventure Works Research 023,357.40,D095,High,2026-03-22
+Product return,CH-03-00161,2026-03-17,Fabrikam Logistics 030,192.60,D099,High,2026-03-26
+Technical support,CH-03-00162,2026-03-28,Contoso Analytics 037,652.90,D061,Normal,2026-04-09
+Warranty claim,CH-03-00163,2026-03-15,Northwind Services 044,449.70,D071,High,2026-03-20
+Product return,CH-03-00164,2026-03-05,Adventure Works Retail 051,708.10,D005,High,2026-03-17
+Product return,CH-03-00165,2026-03-09,Fabrikam Digital 058,717.30,D030,High,2026-03-17
+Warranty claim,CH-03-00166,2026-03-13,Contoso Research 065,765.40,D034,Normal,2026-03-16
+Product return,CH-03-00167,2026-03-28,Northwind Logistics 072,497.40,D083,High,2026-04-04
+Technical support,CH-03-00168,2026-03-23,Adventure Works Analytics 079,266.00,D004,Normal,2026-04-02
+Warranty claim,CH-03-00169,2026-03-19,Fabrikam Services 086,15.70,D043,High,2026-03-30
+Product return,CH-03-00170,2026-03-28,Contoso Retail 093,371.40,D038,Normal,2026-04-01
+Product return,CH-03-00171,2026-03-24,Northwind Digitl 100,766.40,D051,High,2026-03-25
+Product return,CH-03-00172,2026-03-10,Adventure Works Research 107,70.10,D044,Normal,
+Delivery enquiry,CH-03-00173,2026-03-06,Fabrikam Logistics 114,607.30,D036,Normal,2026-03-13
+Delivery enquiry,CH-03-00174,2026-03-23,Contoso Analytics 121,124.40,D052,High,2026-04-03
+Product return,CH-03-00175,2026-03-30,Northwind Services 128,677.30,D001,Normal,2026-04-08
+Account access,CH-03-00176,2026-03-08,Adventure Works Retial 135,120.80,D090,High,2026-03-16
+Product return,CH-03-00177,2026-03-24,Fabrikam Digital 142,201.90,D063,Normal,2026-03-30
+Technical support,CH-03-00178,2026-03-30,Contoso Research 149,351.80,D030,Normal,2026-04-03
+Technical support,CH-03-00179,2026-03-10,Northwind Logistics 156,236.30,D019,Normal,2026-03-21
+Delivery enquiry,CH-03-00180,2026-03-30,Adventure Works Analytics 163,691.60,D033,Normal,2026-04-02
+Account access,CH-03-00181,2026-03-02,Fabrikam Srvcs 170,259.70,D083,Normal,2026-03-04
+Delivery enquiry,CH-03-00182,2026-03-09,Contoso Retail 177,705.90,D067,High,2026-03-10
+Account access,CH-03-00183,2026-03-09,Northwind Digital 184,641.60,D024,Normal,2026-03-16
+Account access,CH-03-00184,2026-03-27,Adventure Works Research 191,556.10,D001,High,2026-04-04
+Delivery enquiry,CH-03-00185,2026-03-12,Fabrikam Logistics 198,666.70,D052,Normal,2026-03-21
+Account access,CH-03-00186,2026-03-06,Contoso Analytcs 205,723.20,D006,High,2026-03-10
+Technical support,CH-03-00187,2026-03-20,Unregistered Partner 32,805.40,D043,High,2026-03-27
+Delivery enquiry,CH-03-00188,2026-03-03,Adventure Works Retail 219,553.50,D104,High,2026-03-07
+Warranty claim,CH-03-00189,2026-03-13,Contoso Oxford Traders,667.50,D100,Normal,2026-03-25
+Account access,CH-03-00190,2026-03-23,Contoso Analytics 013,585.90,D060,High,2026-04-01
+Account access,CH-03-00191,2026-03-20,Northwind Srvcs 020,208.00,D038,Normal,
+Product return,CH-03-00192,2026-03-17,Adventure Works Retail 027,218.30,D097,High,2026-03-20
+Technical support,CH-03-00193,2026-03-24,Fabrikam Digital 034,630.30,D040,High,2026-03-26
+Warranty claim,CH-03-00194,2026-03-09,Contoso Research 041,113.40,D077,High,2026-03-12
+Warranty claim,CH-03-00195,2026-03-18,Northwind Logistics 048,510.50,D069,Normal,2026-03-28
+Technical support,CH-03-00196,2026-03-18,Adventure Works Analytcs 055,844.20,D092,Normal,2026-03-28
+Product return,CH-03-00197,2026-03-22,Fabrikam Services 062,606.20,D082,Normal,2026-04-02
+Technical support,CH-03-00198,2026-03-21,Contoso Retail 069,682.20,D079,Normal,2026-04-01
+Delivery enquiry,CH-03-00199,2026-03-11,Northwind Digital 076,491.00,D019,Normal,2026-03-17
+Technical support,CH-03-00200,2026-03-23,Adventure Works Research 083,131.60,D109,High,2026-03-30
+Technical support,CH-03-00201,2026-03-18,Fabrikam Logistics 090,186.50,D023,High,2026-03-28
+Product return,CH-03-00202,2026-03-05,Contoso Analytics 097,51.80,D015,High,2026-03-10
+Product return,CH-03-00203,2026-03-11,Northwind Services 104,402.90,D060,Normal,2026-03-20
+Product return,CH-03-00204,2026-03-30,Adventure Works Retail 111,106.60,D066,High,2026-04-05
+Delivery enquiry,CH-03-00205,2026-03-26,Fabrikam Digital 118,793.00,D005,Normal,2026-04-02
+Warranty claim,CH-03-00206,2026-03-11,Contoso Research 125,354.30,D096,High,2026-03-17
+Technical support,CH-03-00207,2026-03-09,Northwind Logistics 132,497.00,D019,Normal,2026-03-16
+Delivery enquiry,CH-03-00208,2026-03-12,Adventure Works Analytics 139,583.40,D031,High,2026-03-16
+Account access,CH-03-00209,2026-03-19,Fabrikam Services 146,410.20,D008,High,2026-03-22
+Product return,CH-03-00210,2026-03-20,Contoso Retail 153,757.50,D011,High,
+Product return,CH-03-00211,2026-03-17,Northwind Digitl 160,579.80,D084,High,2026-03-29
+Account access,CH-03-00212,2026-03-11,Adventure Works Research 167,86.80,D093,High,2026-03-14
+Warranty claim,CH-03-00213,2026-03-07,Fabrikam Logistics 174,86.20,D095,High,2026-03-16
+Warranty claim,CH-03-00214,2026-03-31,Contoso Analytics 181,215.00,D036,High,2026-04-05
+Product return,CH-03-00215,2026-03-11,Northwind Services 188,53.90,D064,High,2026-03-16
+Warranty claim,CH-03-00216,2026-03-16,Adventure Works Retial 195,728.90,D005,High,2026-03-26
+Warranty claim,CH-03-00217,2026-03-11,Fabrikam Digital 202,605.50,D025,Normal,2026-03-20
+Technical support,CH-03-00218,2026-03-18,Unregistered Partner 29,622.70,D083,High,2026-03-19
+Warranty claim,CH-03-00219,2026-03-09,Northwind Logistics 216,763.20,D073,High,2026-03-20
+Product return,CH-03-00220,2026-03-28,Imperial College London,430.80,D112,High,2026-04-09
+Warranty claim,CH-03-00221,2026-03-31,Fabrikam Digitl 010,733.00,D032,High,2026-04-03
+Product return,CH-03-00222,2026-03-22,Contoso Research 017,250.20,D026,High,2026-04-02
+Product return,CH-03-00223,2026-03-14,Northwind Logistics 024,625.80,D109,Normal,2026-03-22
+Warranty claim,CH-03-00224,2026-03-09,Adventure Works Analytics 031,707.10,D090,Normal,2026-03-15
+Technical support,CH-03-00225,2026-03-24,Fabrikam Services 038,404.10,D057,High,2026-04-01
+Technical support,CH-03-00226,2026-03-29,Contoso Retial 045,66.20,D004,High,2026-04-07
+Product return,CH-03-00227,2026-03-07,Northwind Digital 052,163.60,D052,Normal,2026-03-16
+Technical support,CH-03-00228,2026-03-17,Adventure Works Research 059,682.10,D042,High,2026-03-19
+Product return,CH-03-00229,2026-03-15,Fabrikam Logistics 066,67.00,D043,Normal,
+Account access,CH-03-00230,2026-03-17,Contoso Analytics 073,169.00,D051,High,2026-03-21
+Account access,CH-03-00231,2026-03-03,Northwind Srvcs 080,549.60,D105,High,2026-03-07
+Technical support,CH-03-00232,2026-03-28,Adventure Works Retail 087,454.40,D062,Normal,2026-04-08
+Technical support,CH-03-00233,2026-03-18,Fabrikam Digital 094,299.50,D051,Normal,2026-03-30
+Technical support,CH-03-00234,2026-03-21,Contoso Research 101,557.20,D006,Normal,2026-03-27
+Warranty claim,CH-03-00235,2026-03-25,Northwind Logistics 108,330.50,D110,Normal,2026-03-27
+Account access,CH-03-00236,2026-03-09,Adventure Works Analytcs 115,155.80,D023,Normal,2026-03-17
+Technical support,CH-03-00237,2026-03-09,Fabrikam Services 122,778.60,D045,Normal,2026-03-13
+Warranty claim,CH-03-00238,2026-03-06,Contoso Retail 129,519.20,D078,High,2026-03-15
+Delivery enquiry,CH-03-00239,2026-03-13,Northwind Digital 136,722.70,D046,High,2026-03-20
+Product return,CH-03-00240,2026-03-02,Adventure Works Research 143,629.50,D078,High,2026-03-05
+Warranty claim,CH-03-00241,2026-03-15,Fabrikam Logistics 150,144.50,D022,Normal,2026-03-24
+Technical support,CH-03-00242,2026-03-04,Contoso Analytics 157,348.30,D002,High,2026-03-15
+Technical support,CH-03-00243,2026-03-02,Northwind Services 164,224.30,D082,High,2026-03-08
+Product return,CH-03-00244,2026-03-26,Adventure Works Retail 171,452.00,D034,Normal,2026-03-31
+Warranty claim,CH-03-00245,2026-03-11,Fabrikam Digital 178,236.80,D048,High,2026-03-22
+Product return,CH-03-00246,2026-03-31,Contoso Research 185,715.50,D073,High,2026-04-03
+Warranty claim,CH-03-00247,2026-03-24,Northwind Logistics 192,766.00,D002,High,2026-03-30
+Warranty claim,CH-03-00248,2026-03-15,Adventure Works Analytics 199,719.30,D059,Normal,
+Delivery enquiry,CH-03-00249,2026-03-23,Unregistered Partner 26,385.20,D100,High,2026-04-03
+Product return,CH-03-00250,2026-03-25,Contoso Retail 213,303.50,D029,Normal,2026-04-04
+Warranty claim,CH-03-00251,2026-03-30,Northwind Digitl 220,842.20,D062,Normal,2026-04-03
+Product return,CH-03-00252,2026-03-25,Fabrikam Retail Group,678.00,D091,Normal,2026-04-03
+Technical support,CH-03-00253,2026-03-29,Fabrikam Services 014,202.50,D018,Normal,2026-04-01
+Delivery enquiry,CH-03-00254,2026-03-27,Contoso Retail 021,796.60,D035,Normal,2026-03-29
+Product return,CH-03-00255,2026-03-28,Northwind Digital 028,149.80,D013,Normal,2026-04-09
+Product return,CH-03-00256,2026-03-28,Adventure Works Research 035,655.30,D059,Normal,2026-04-03
+Account access,CH-03-00257,2026-03-13,Fabrikam Logistics 042,753.60,D103,High,2026-03-20
+Technical support,CH-03-00258,2026-03-03,Contoso Analytics 049,812.60,D071,Normal,2026-03-04
+Warranty claim,CH-03-00259,2026-03-30,Northwind Services 056,239.70,D102,High,2026-04-04
+Delivery enquiry,CH-03-00260,2026-03-12,Adventure Works Retail 063,207.20,D025,Normal,2026-03-14
+Delivery enquiry,CH-03-00261,2026-03-14,Fabrikam Digitl 070,490.80,D026,Normal,2026-03-24
+Product return,CH-03-00262,2026-03-25,Contoso Research 077,687.90,D038,High,2026-03-26
+Delivery enquiry,CH-03-00263,2026-03-22,Northwind Logistics 084,157.40,D089,High,2026-04-03
+Technical support,CH-03-00264,2026-03-09,Adventure Works Analytics 091,349.10,D012,Normal,2026-03-17
+Product return,CH-03-00265,2026-03-08,Fabrikam Services 098,121.80,D014,Normal,2026-03-18
+Delivery enquiry,CH-03-00266,2026-03-12,Contoso Retial 105,363.40,D003,High,2026-03-21
+Account access,CH-03-00267,2026-03-25,Northwind Digital 112,334.70,D079,High,
+Account access,CH-03-00268,2026-03-10,Adventure Works Research 119,98.50,D103,Normal,2026-03-19
+Technical support,CH-03-00269,2026-03-04,Fabrikam Logistics 126,672.80,D067,High,2026-03-11
+Delivery enquiry,CH-03-00270,2026-03-21,Contoso Analytics 133,521.10,D090,High,2026-03-31
+Warranty claim,CH-03-00271,2026-03-04,Northwind Srvcs 140,737.90,D064,Normal,2026-03-05
+Technical support,CH-03-00272,2026-03-05,Adventure Works Retail 147,356.70,D014,High,2026-03-12
+Product return,CH-03-00273,2026-03-31,Fabrikam Digital 154,818.80,D036,Normal,2026-04-08
+Account access,CH-03-00274,2026-03-14,Contoso Research 161,816.70,D031,High,2026-03-26
+Delivery enquiry,CH-03-00275,2026-03-31,Northwind Logistics 168,699.00,D082,Normal,2026-04-07
+Delivery enquiry,CH-03-00276,2026-03-02,Adventure Works Analytcs 175,133.30,D020,Normal,2026-03-06
+Product return,CH-03-00277,2026-03-13,Fabrikam Services 182,566.40,D037,Normal,2026-03-21
+Warranty claim,CH-03-00278,2026-03-27,Contoso Retail 189,343.40,D078,Normal,2026-03-30
+Delivery enquiry,CH-03-00279,2026-03-28,Northwind Digital 196,830.70,D051,High,2026-04-08
+Technical support,CH-03-00280,2026-03-26,Unregistered Partner 23,329.40,D059,Normal,2026-04-06
+Technical support,CH-03-00281,2026-03-25,Fabrikam Logistics 210,456.10,D009,Normal,2026-03-27
+Product return,CH-03-00282,2026-03-02,Contoso Analytics 217,160.20,D108,Normal,2026-03-10
+Account access,CH-03-00283,2026-03-27,Oxford University Press,235.20,D044,High,2026-04-05
+Account access,CH-03-00284,2026-03-31,Adventure Works Research 011,433.50,D048,Normal,2026-04-10
+Warranty claim,CH-03-00285,2026-03-20,Fabrikam Logistics 018,661.70,D061,High,2026-03-21
+Technical support,CH-03-00286,2026-03-23,Contoso Analytcs 025,138.40,D017,High,
+Product return,CH-03-00287,2026-03-07,Northwind Services 032,233.90,D040,Normal,2026-03-15
+Delivery enquiry,CH-03-00288,2026-03-29,Adventure Works Retail 039,83.70,D062,High,2026-04-01
+Warranty claim,CH-03-00289,2026-03-16,Fabrikam Digital 046,472.80,D082,Normal,2026-03-22
+Technical support,CH-03-00290,2026-03-24,Contoso Research 053,230.60,D078,High,2026-03-28
+Product return,CH-03-00291,2026-03-11,Northwind Logistics 060,275.70,D085,Normal,2026-03-18
+Delivery enquiry,CH-03-00292,2026-03-02,Adventure Works Analytics 067,428.60,D095,High,2026-03-07
+Account access,CH-03-00293,2026-03-18,Fabrikam Services 074,191.50,D010,Normal,2026-03-26
+Technical support,CH-03-00294,2026-03-24,Contoso Retail 081,110.80,D010,Normal,2026-04-02
+Warranty claim,CH-03-00295,2026-03-20,Northwind Digital 088,651.80,D016,High,2026-03-23
+Warranty claim,CH-03-00296,2026-03-12,Adventure Works Research 095,175.10,D058,High,2026-03-17
+Account access,CH-03-00297,2026-03-10,Fabrikam Logistics 102,413.50,D106,High,2026-03-13
+Technical support,CH-03-00298,2026-03-06,Contoso Analytics 109,699.40,D064,Normal,2026-03-11
+Warranty claim,CH-03-00299,2026-03-07,Northwind Services 116,376.70,D088,Normal,2026-03-14
+Product return,CH-03-00300,2026-03-02,Adventure Works Retail 123,805.00,D029,High,2026-03-04
+Account access,CH-03-00301,2026-03-12,Fabrikam Digitl 130,629.60,D031,High,2026-03-13
+Warranty claim,CH-03-00302,2026-03-23,Contoso Research 137,107.10,D066,Normal,2026-03-25
+Account access,CH-03-00303,2026-03-22,Northwind Logistics 144,243.40,D065,Normal,2026-03-30
+Account access,CH-03-00304,2026-03-17,Adventure Works Analytics 151,34.60,D081,Normal,2026-03-28
+Product return,CH-03-00305,2026-03-20,Fabrikam Services 158,379.20,D053,Normal,
+Warranty claim,CH-03-00306,2026-03-31,Contoso Retial 165,343.10,D052,High,2026-04-02
+Technical support,CH-03-00307,2026-03-27,Northwind Digital 172,646.20,D017,High,2026-04-01
+Warranty claim,CH-03-00308,2026-03-05,Adventure Works Research 179,817.60,D070,Normal,2026-03-14
+Technical support,CH-03-00309,2026-03-31,Fabrikam Logistics 186,389.50,D052,Normal,2026-04-07
+Product return,CH-03-00310,2026-03-29,Contoso Analytics 193,357.30,D096,High,2026-04-08
+Warranty claim,CH-03-00311,2026-03-08,Unregistered Partner 20,789.80,D049,Normal,2026-03-19
+Warranty claim,CH-03-00312,2026-03-10,Adventure Works Retail 207,252.30,D070,Normal,2026-03-17
+Warranty claim,CH-03-00313,2026-03-12,Fabrikam Digital 214,264.50,D081,High,2026-03-17
+Delivery enquiry,CH-03-00314,2026-03-23,University of Oxford,143.30,D034,Normal,2026-04-02
+Delivery enquiry,CH-03-00315,2026-03-08,Adventure Works UK,572.90,D103,Normal,2026-03-20
+Technical support,CH-03-00316,2026-03-27,Adventure Works Retial 015,559.20,D061,Normal,2026-03-31
+Product return,CH-03-00317,2026-03-11,Fabrikam Digital 022,577.30,D010,Normal,2026-03-16
+Product return,CH-03-00318,2026-03-30,Contoso Research 029,132.40,D085,High,2026-04-04
+Delivery enquiry,CH-03-00319,2026-03-20,Northwind Logistics 036,737.60,D012,Normal,2026-03-29
+Technical support,CH-03-00320,2026-03-30,Adventure Works Analytics 043,180.20,D075,Normal,2026-04-09
+Technical support,CH-03-00321,2026-03-19,Fabrikam Srvcs 050,54.20,D024,Normal,2026-03-22
+Product return,CH-03-00322,2026-03-28,Contoso Retail 057,836.70,D005,Normal,2026-04-06
+Technical support,CH-03-00323,2026-03-09,Northwind Digital 064,318.80,D076,Normal,2026-03-17
+Technical support,CH-03-00324,2026-03-18,Adventure Works Research 071,622.20,D045,Normal,
+Warranty claim,CH-03-00325,2026-03-26,Fabrikam Logistics 078,407.80,D002,High,2026-04-02
+Product return,CH-03-00326,2026-03-09,Contoso Analytcs 085,649.70,D065,High,2026-03-19
+Delivery enquiry,CH-03-00327,2026-03-29,Northwind Services 092,450.80,D041,Normal,2026-04-09
+Account access,CH-03-00328,2026-03-15,Adventure Works Retail 099,405.40,D029,High,2026-03-27
+Technical support,CH-03-00329,2026-03-07,Fabrikam Digital 106,425.10,D073,Normal,2026-03-12
+Delivery enquiry,CH-03-00330,2026-03-19,Contoso Research 113,652.90,D061,High,2026-03-30
+Account access,CH-03-00331,2026-03-22,Northwind Logistics 120,549.90,D092,High,2026-03-26
+Account access,CH-03-00332,2026-03-20,Adventure Works Analytics 127,55.40,D071,Normal,2026-03-26
+Warranty claim,CH-03-00333,2026-03-07,Fabrikam Services 134,82.80,D076,High,2026-03-14
+Product return,CH-03-00334,2026-03-04,Contoso Retail 141,558.00,D073,Normal,2026-03-13
+Warranty claim,CH-03-00335,2026-03-29,Northwind Digital 148,818.50,D031,High,2026-03-30
+Account access,CH-03-00336,2026-03-23,Adventure Works Research 155,11.60,D015,Normal,2026-03-25
+Product return,CH-03-00337,2026-03-15,Fabrikam Logistics 162,500.90,D087,High,2026-03-16
+Warranty claim,CH-03-00338,2026-03-31,Contoso Analytics 169,505.90,D065,High,2026-04-12
+Account access,CH-03-00339,2026-03-01,Northwind Services 176,526.40,D005,High,2026-03-07
+Account access,CH-03-00340,2026-03-08,Adventure Works Retail 183,372.00,D028,Normal,2026-03-12
+Account access,CH-03-00341,2026-03-11,Fabrikam Digitl 190,718.60,D087,High,2026-03-17
+Warranty claim,CH-03-00342,2026-03-28,Unregistered Partner 17,422.00,D102,High,2026-03-31
+Technical support,CH-03-00343,2026-03-15,Northwind Logistics 204,465.70,D057,Normal,
+Technical support,CH-03-00344,2026-03-06,Adventure Works Analytics 211,326.90,D024,High,2026-03-15
+Account access,CH-03-00345,2026-03-31,Fabrikam Services 218,339.60,D065,High,2026-04-08
+Warranty claim,CH-03-00346,2026-03-25,Contoso Oxford Trdg,51.40,D069,High,2026-04-03
+Delivery enquiry,CH-03-00347,2026-03-15,Northwind Logistics 012,561.40,D096,Normal,2026-03-17
+Technical support,CH-03-00348,2026-03-08,Adventure Works Analytics 019,410.30,D048,Normal,2026-03-17
+Warranty claim,CH-03-00349,2026-03-26,Fabrikam Services 026,671.80,D007,High,2026-04-06
+Warranty claim,CH-03-00350,2026-03-26,Contoso Retail 033,448.40,D096,High,2026-03-31
+Account access,CH-03-00351,2026-03-05,Northwind Digitl 040,153.20,D108,High,2026-03-13
+Product return,CH-03-00352,2026-03-31,Adventure Works Research 047,543.00,D029,High,2026-04-10
+Warranty claim,CH-03-00353,2026-03-12,Fabrikam Logistics 054,762.80,D007,Normal,2026-03-17
+Product return,CH-03-00354,2026-03-13,Contoso Analytics 061,227.80,D101,Normal,2026-03-22
+Delivery enquiry,CH-03-00355,2026-03-12,Northwind Services 068,353.80,D070,Normal,2026-03-24
+Warranty claim,CH-03-00356,2026-03-11,Adventure Works Retial 075,178.80,D095,Normal,2026-03-14
+Technical support,CH-03-00357,2026-03-11,Fabrikam Digital 082,260.70,D057,High,2026-03-15
+Product return,CH-03-00358,2026-03-27,Contoso Research 089,608.90,D054,High,2026-03-28
+Technical support,CH-03-00359,2026-03-23,Northwind Logistics 096,792.70,D025,Normal,2026-03-24
+Warranty claim,CH-03-00360,2026-03-04,Adventure Works Analytics 103,376.00,D073,High,2026-03-14
+Warranty claim,CH-03-00361,2026-03-13,Fabrikam Srvcs 110,428.90,D047,High,2026-03-14
+Delivery enquiry,CH-03-00362,2026-03-16,Contoso Retail 117,642.80,D086,High,
+Technical support,CH-03-00363,2026-03-06,Northwind Digital 124,671.60,D036,Normal,2026-03-10
+Delivery enquiry,CH-03-00364,2026-03-14,Adventure Works Research 131,668.90,D011,Normal,2026-03-18
+Product return,CH-03-00365,2026-03-21,Fabrikam Logistics 138,604.30,D025,Normal,2026-03-31
+Account access,CH-03-00366,2026-03-13,Contoso Analytcs 145,15.70,D096,Normal,2026-03-21
+Account access,CH-03-00367,2026-03-09,Northwind Services 152,81.00,D084,High,2026-03-15
+Warranty claim,CH-03-00368,2026-03-09,Adventure Works Retail 159,102.50,D062,Normal,2026-03-12
+Delivery enquiry,CH-03-00369,2026-03-29,Fabrikam Digital 166,225.50,D051,High,2026-04-03
+Technical support,CH-03-00370,2026-03-29,Contoso Research 173,577.50,D093,High,2026-03-30
+Technical support,CH-03-00371,2026-03-29,Northwind Logistics 180,593.80,D029,High,2026-04-05
+Delivery enquiry,CH-03-00372,2026-03-13,Adventure Works Analytics 187,467.10,D001,Normal,2026-03-17
+Account access,CH-03-00373,2026-03-09,Unregistered Partner 14,829.30,D015,Normal,2026-03-15
+Delivery enquiry,CH-03-00374,2026-03-21,Contoso Retail 201,828.70,D106,High,2026-03-27
+Technical support,CH-03-00375,2026-03-15,Northwind Digital 208,725.10,D007,High,2026-03-17
+Product return,CH-03-00376,2026-03-26,Adventure Works Research 215,615.60,D011,Normal,2026-03-30
+Product return,CH-03-00377,2026-03-08,University of Cambridge,266.40,D030,High,2026-03-16
+Warranty claim,CH-03-00378,2026-03-28,Contoso Retail 009,257.70,D069,High,2026-04-03
+Product return,CH-03-00379,2026-03-14,Northwind Digital 016,691.80,D104,High,2026-03-24
+Product return,CH-03-00380,2026-03-24,Adventure Works Research 023,100.60,D046,Normal,2026-04-04
+Technical support,CH-03-00381,2026-03-27,Fabrikam Logistics 030,478.00,D002,Normal,
+Product return,CH-03-00382,2026-03-04,Contoso Analytics 037,100.00,D079,Normal,2026-03-07
+Account access,CH-03-00383,2026-03-19,Northwind Services 044,130.80,D030,High,2026-03-31
+Technical support,CH-03-00384,2026-03-01,Adventure Works Retail 051,700.70,D022,High,2026-03-05
+Technical support,CH-03-00385,2026-03-25,Fabrikam Digital 058,114.90,D005,Normal,2026-04-04
+Product return,CH-03-00386,2026-03-10,Contoso Research 065,565.60,D096,Normal,2026-03-11
+Product return,CH-03-00387,2026-03-01,Northwind Logistics 072,25.10,D109,High,2026-03-13
+Product return,CH-03-00388,2026-03-13,Adventure Works Analytics 079,728.80,D009,Normal,2026-03-17
+Technical support,CH-03-00389,2026-03-13,Fabrikam Services 086,587.90,D051,Normal,2026-03-16
+Warranty claim,CH-03-00390,2026-03-03,Contoso Retail 093,794.80,D056,High,2026-03-15
+Account access,CH-03-00391,2026-03-17,Northwind Digitl 100,343.60,D110,Normal,2026-03-24
+Account access,CH-03-00392,2026-03-20,Adventure Works Research 107,139.30,D003,Normal,2026-03-23
+Delivery enquiry,CH-03-00393,2026-03-29,Fabrikam Logistics 114,631.20,D040,High,2026-04-01
+Product return,CH-03-00394,2026-03-05,Contoso Analytics 121,798.00,D045,Normal,2026-03-11
+Product return,CH-03-00395,2026-03-05,Northwind Services 128,359.80,D104,High,2026-03-13
+Warranty claim,CH-03-00396,2026-03-18,Adventure Works Retial 135,126.20,D036,Normal,2026-03-26
+Warranty claim,CH-03-00397,2026-03-29,Fabrikam Digital 142,763.20,D006,Normal,2026-04-06
+Delivery enquiry,CH-03-00398,2026-03-04,Contoso Research 149,487.90,D066,High,2026-03-07
+Technical support,CH-03-00399,2026-03-23,Northwind Logistics 156,232.00,D042,Normal,2026-04-02
+Warranty claim,CH-03-00400,2026-03-21,Adventure Works Analytics 163,480.50,D071,Normal,
+Technical support,CH-03-00401,2026-03-11,Fabrikam Srvcs 170,156.60,D059,High,2026-03-22
+Technical support,CH-03-00402,2026-03-18,Contoso Retail 177,29.40,D093,Normal,2026-03-25
+Technical support,CH-03-00403,2026-03-09,Northwind Digital 184,299.30,D093,High,2026-03-11
+Product return,CH-03-00404,2026-03-26,Unregistered Partner 11,807.70,D092,High,2026-04-07
+Product return,CH-03-00405,2026-03-22,Fabrikam Logistics 198,539.80,D030,High,2026-04-01
+Technical support,CH-03-00406,2026-03-12,Contoso Analytcs 205,550.00,D082,High,2026-03-22
+Delivery enquiry,CH-03-00407,2026-03-22,Northwind Services 212,657.40,D039,Normal,2026-03-24
+Delivery enquiry,CH-03-00408,2026-03-21,Adventure Works Retail 219,848.60,D045,Normal,2026-03-27
+Product return,CH-03-00409,2026-03-18,Contoso Oxford Traders,445.60,D085,Normal,2026-03-25
+Account access,CH-03-00410,2026-03-13,Contoso Analytics 013,66.50,D091,High,2026-03-20
+Warranty claim,CH-03-00411,2026-03-18,Northwind Srvcs 020,341.70,D112,Normal,2026-03-30
+Account access,CH-03-00412,2026-03-24,Adventure Works Retail 027,83.90,D095,Normal,2026-03-30
+Product return,CH-03-00413,2026-03-24,Fabrikam Digital 034,570.20,D048,High,2026-04-03
+Warranty claim,CH-03-00414,2026-03-23,Contoso Research 041,207.10,D001,Normal,2026-03-30
+Warranty claim,CH-03-00415,2026-03-31,Northwind Logistics 048,565.20,D094,High,2026-04-07
+Product return,CH-03-00416,2026-03-15,Adventure Works Analytcs 055,538.80,D026,Normal,2026-03-23
+Technical support,CH-03-00417,2026-03-23,Fabrikam Services 062,560.60,D087,High,2026-03-24
+Product return,CH-03-00418,2026-03-20,Contoso Retail 069,424.70,D102,High,2026-03-22
+Technical support,CH-03-00419,2026-03-26,Northwind Digital 076,583.30,D008,High,
+Warranty claim,CH-03-00420,2026-03-17,Adventure Works Research 083,667.60,D051,High,2026-03-18
+Delivery enquiry,CH-03-00421,2026-03-17,Fabrikam Logistics 090,191.40,D053,High,2026-03-22
+Technical support,CH-03-00422,2026-03-24,Contoso Analytics 097,352.30,D068,High,2026-03-26
+Delivery enquiry,CH-03-00423,2026-03-25,Northwind Services 104,618.70,D106,Normal,2026-04-02
+Product return,CH-03-00424,2026-03-10,Adventure Works Retail 111,324.30,D056,High,2026-03-11
+Account access,CH-03-00425,2026-03-25,Fabrikam Digital 118,687.20,D042,Normal,2026-04-02
+Product return,CH-03-00426,2026-03-29,Contoso Research 125,828.10,D016,Normal,2026-03-31
+Technical support,CH-03-00427,2026-03-29,Northwind Logistics 132,478.20,D095,Normal,2026-04-05
+Account access,CH-03-00428,2026-03-24,Adventure Works Analytics 139,107.20,D080,High,2026-04-04
+Warranty claim,CH-03-00429,2026-03-26,Fabrikam Services 146,93.70,D101,Normal,2026-03-29
+Product return,CH-03-00430,2026-03-10,Contoso Retail 153,509.40,D077,High,2026-03-12
+Product return,CH-03-00431,2026-03-05,Northwind Digitl 160,812.40,D014,Normal,2026-03-06
+Delivery enquiry,CH-03-00432,2026-03-30,Adventure Works Research 167,587.90,D045,High,2026-04-04
+Account access,CH-03-00433,2026-03-05,Fabrikam Logistics 174,674.30,D049,Normal,2026-03-17
+Delivery enquiry,CH-03-00434,2026-03-28,Contoso Analytics 181,276.20,D007,High,2026-04-06
+Account access,CH-03-00435,2026-03-11,Unregistered Partner 08,671.20,D058,Normal,2026-03-19
+Delivery enquiry,CH-03-00436,2026-03-02,Adventure Works Retial 195,778.00,D081,Normal,2026-03-12
+Account access,CH-03-00437,2026-03-16,Fabrikam Digital 202,478.50,D068,High,2026-03-21
+Delivery enquiry,CH-03-00438,2026-03-02,Contoso Research 209,710.00,D108,High,
+Technical support,CH-03-00439,2026-03-09,Northwind Logistics 216,236.30,D005,High,2026-03-13
+Product return,CH-03-00440,2026-03-18,Imperial College London,97.30,D097,High,2026-03-27
+Account access,CH-03-00441,2026-03-29,Fabrikam Digitl 010,516.00,D112,High,2026-04-10
+Technical support,CH-03-00442,2026-03-24,Contoso Research 017,775.00,D029,High,2026-04-03
+Delivery enquiry,CH-03-00443,2026-03-09,Northwind Logistics 024,462.90,D065,High,2026-03-16
+Account access,CH-03-00444,2026-03-08,Adventure Works Analytics 031,523.00,D042,Normal,2026-03-19
+Delivery enquiry,CH-03-00445,2026-03-02,Fabrikam Services 038,631.20,D027,High,2026-03-04
+Delivery enquiry,CH-03-00446,2026-03-15,Contoso Retial 045,286.30,D056,High,2026-03-24
+Product return,CH-03-00447,2026-03-15,Northwind Digital 052,796.00,D103,Normal,2026-03-20
+Technical support,CH-03-00448,2026-03-01,Adventure Works Research 059,334.20,D017,High,2026-03-08
+Warranty claim,CH-03-00449,2026-03-26,Fabrikam Logistics 066,535.30,D007,Normal,2026-04-01
+Delivery enquiry,CH-03-00450,2026-03-05,Contoso Analytics 073,72.10,D103,Normal,2026-03-06
+Warranty claim,CH-03-00451,2026-03-01,Northwind Srvcs 080,543.70,D090,Normal,2026-03-11
+Product return,CH-03-00452,2026-03-11,Adventure Works Retail 087,36.20,D092,Normal,2026-03-16
+Warranty claim,CH-03-00453,2026-03-19,Fabrikam Digital 094,231.90,D059,Normal,2026-03-21
+Warranty claim,CH-03-00454,2026-03-26,Contoso Research 101,771.30,D079,High,2026-04-07
+Product return,CH-03-00455,2026-03-14,Northwind Logistics 108,546.80,D079,Normal,2026-03-23
+Account access,CH-03-00456,2026-03-23,Adventure Works Analytcs 115,220.10,D084,Normal,2026-03-26
+Product return,CH-03-00457,2026-03-13,Fabrikam Services 122,479.00,D111,Normal,
+Technical support,CH-03-00458,2026-03-05,Contoso Retail 129,592.30,D070,Normal,2026-03-15
+Technical support,CH-03-00459,2026-03-28,Northwind Digital 136,455.60,D019,Normal,2026-04-02
+Warranty claim,CH-03-00460,2026-03-29,Adventure Works Research 143,734.70,D049,Normal,2026-04-01
+Warranty claim,CH-03-00461,2026-03-02,Fabrikam Logistics 150,844.10,D011,Normal,2026-03-14
+Warranty claim,CH-03-00462,2026-03-03,Contoso Analytics 157,45.50,D077,Normal,2026-03-10
+Technical support,CH-03-00463,2026-03-04,Northwind Services 164,519.70,D062,Normal,2026-03-13
+Product return,CH-03-00464,2026-03-20,Adventure Works Retail 171,657.40,D041,Normal,2026-03-26
+Account access,CH-03-00465,2026-03-11,Fabrikam Digital 178,185.40,D048,Normal,2026-03-14
+Delivery enquiry,CH-03-00466,2026-03-14,Unregistered Partner 05,705.10,D102,Normal,2026-03-17
+Product return,CH-03-00467,2026-03-22,Northwind Logistics 192,388.70,D011,High,2026-03-29
+Account access,CH-03-00468,2026-03-24,Adventure Works Analytics 199,299.00,D079,Normal,2026-03-28
+Product return,CH-03-00469,2026-03-27,Fabrikam Services 206,605.90,D104,High,2026-04-07
+Delivery enquiry,CH-03-00470,2026-03-07,Contoso Retail 213,289.20,D033,Normal,2026-03-17
+Warranty claim,CH-03-00471,2026-03-11,Northwind Digitl 220,193.70,D047,Normal,2026-03-23
+Technical support,CH-03-00472,2026-03-25,Fabrikam Retail Group,559.50,D030,Normal,2026-04-03
+Warranty claim,CH-03-00473,2026-03-14,Fabrikam Services 014,657.50,D036,Normal,2026-03-19
+Technical support,CH-03-00474,2026-03-06,Contoso Retail 021,558.50,D004,High,2026-03-13
+Account access,CH-03-00475,2026-03-17,Northwind Digital 028,352.20,D094,High,2026-03-19
+Product return,CH-03-00476,2026-03-29,Adventure Works Research 035,107.40,D088,High,
+Technical support,CH-03-00477,2026-03-28,Fabrikam Logistics 042,315.20,D100,High,2026-04-03
+Delivery enquiry,CH-03-00478,2026-03-26,Contoso Analytics 049,456.80,D049,High,2026-04-06
+Account access,CH-03-00479,2026-03-09,Northwind Services 056,95.40,D096,Normal,2026-03-17
+Warranty claim,CH-03-00480,2026-03-23,Adventure Works Retail 063,335.20,D072,High,2026-03-28
+Warranty claim,CH-03-00481,2026-03-06,Fabrikam Digitl 070,250.10,D011,High,2026-03-14
+Warranty claim,CH-03-00482,2026-03-29,Contoso Research 077,523.80,D039,Normal,2026-04-07
+Warranty claim,CH-03-00483,2026-03-06,Northwind Logistics 084,481.60,D011,Normal,2026-03-18
+Account access,CH-03-00484,2026-03-25,Adventure Works Analytics 091,821.10,D098,High,2026-04-04
+Delivery enquiry,CH-03-00485,2026-03-13,Fabrikam Services 098,595.70,D030,Normal,2026-03-15
+Account access,CH-03-00486,2026-03-16,Contoso Retial 105,379.00,D101,Normal,2026-03-24
+Account access,CH-03-00487,2026-03-06,Northwind Digital 112,488.80,D024,Normal,2026-03-09
+Account access,CH-03-00488,2026-03-29,Adventure Works Research 119,503.30,D091,High,2026-04-02
+Delivery enquiry,CH-03-00489,2026-03-25,Fabrikam Logistics 126,579.20,D069,High,2026-03-29
+Product return,CH-03-00490,2026-03-26,Contoso Analytics 133,777.20,D075,Normal,2026-03-28
+Technical support,CH-03-00491,2026-03-03,Northwind Srvcs 140,738.70,D080,High,2026-03-05
+Technical support,CH-03-00492,2026-03-10,Adventure Works Retail 147,35.20,D063,Normal,2026-03-18
+Account access,CH-03-00493,2026-03-10,Fabrikam Digital 154,579.70,D014,High,2026-03-13
+Warranty claim,CH-03-00494,2026-03-09,Contoso Research 161,399.50,D001,Normal,2026-03-15
+Technical support,CH-03-00495,2026-03-12,Northwind Logistics 168,582.30,D052,Normal,
+Account access,CH-03-00496,2026-03-19,Adventure Works Analytcs 175,629.30,D072,High,2026-03-21
+Account access,CH-03-00497,2026-03-03,Unregistered Partner 02,432.00,D021,Normal,2026-03-06
+Account access,CH-03-00498,2026-03-27,Contoso Retail 189,841.10,D084,High,2026-03-31
+Account access,CH-03-00499,2026-03-05,Northwind Digital 196,763.90,D040,Normal,2026-03-07
+Warranty claim,CH-03-00500,2026-03-09,Adventure Works Research 203,304.60,D039,High,2026-03-19
+Warranty claim,CH-03-00501,2026-03-09,Fabrikam Logistics 210,439.30,D096,High,2026-03-21
+Warranty claim,CH-03-00502,2026-03-07,Contoso Analytics 217,122.40,D103,Normal,2026-03-09
+Warranty claim,CH-03-00503,2026-03-31,Oxford University Press,349.10,D110,High,2026-04-04
+Product return,CH-03-00504,2026-03-05,Adventure Works Research 011,651.10,D059,High,2026-03-07
+Technical support,CH-03-00505,2026-03-24,Fabrikam Logistics 018,749.80,D022,High,2026-04-03
+Delivery enquiry,CH-03-00506,2026-03-28,Contoso Analytcs 025,785.60,D106,High,2026-04-02
+Technical support,CH-03-00507,2026-03-28,Northwind Services 032,821.50,D044,High,2026-04-06
+Delivery enquiry,CH-03-00508,2026-03-18,Adventure Works Retail 039,410.50,D003,Normal,2026-03-22
+Warranty claim,CH-03-00509,2026-03-15,Fabrikam Digital 046,665.40,D082,High,2026-03-23
+Product return,CH-03-00510,2026-03-31,Contoso Research 053,298.50,D047,Normal,2026-04-08
+Delivery enquiry,CH-03-00511,2026-03-23,Northwind Logistics 060,122.20,D067,High,2026-03-27
+Delivery enquiry,CH-03-00512,2026-03-24,Adventure Works Analytics 067,18.60,D015,High,2026-03-26
+Product return,CH-03-00513,2026-03-14,Fabrikam Services 074,117.50,D107,High,2026-03-24
+Warranty claim,CH-03-00514,2026-03-05,Contoso Retail 081,542.50,D061,Normal,
+Warranty claim,CH-03-00515,2026-03-15,Northwind Digital 088,809.60,D012,High,2026-03-24
+Technical support,CH-03-00516,2026-03-07,Adventure Works Research 095,532.70,D104,High,2026-03-19
+Product return,CH-03-00517,2026-03-10,Fabrikam Logistics 102,440.90,D061,High,2026-03-20
+Delivery enquiry,CH-03-00518,2026-03-06,Contoso Analytics 109,370.20,D024,High,2026-03-17
+Warranty claim,CH-03-00519,2026-03-02,Northwind Services 116,163.80,D021,Normal,2026-03-12
+Account access,CH-03-00520,2026-03-14,Adventure Works Retail 123,530.40,D045,Normal,2026-03-17
+Product return,CH-03-00521,2026-03-13,Fabrikam Digitl 130,466.40,D051,Normal,2026-03-20
+Delivery enquiry,CH-03-00522,2026-03-21,Contoso Research 137,182.60,D096,High,2026-03-28
+Warranty claim,CH-03-00523,2026-03-26,Northwind Logistics 144,356.90,D106,High,2026-04-05
+Product return,CH-03-00524,2026-03-05,Adventure Works Analytics 151,481.10,D105,High,2026-03-10
+Technical support,CH-03-00525,2026-03-01,Fabrikam Services 158,568.10,D075,High,2026-03-11
+Technical support,CH-03-00526,2026-03-08,Contoso Retial 165,59.80,D087,Normal,2026-03-20
+Delivery enquiry,CH-03-00527,2026-03-20,Northwind Digital 172,629.00,D015,Normal,2026-03-27
+Delivery enquiry,CH-03-00528,2026-03-05,Unregistered Partner 89,261.50,D098,High,2026-03-17
+Product return,CH-03-00529,2026-03-06,Fabrikam Logistics 186,761.90,D078,High,2026-03-08
+Product return,CH-03-00530,2026-03-16,Contoso Analytics 193,461.40,D109,Normal,2026-03-26
+Technical support,CH-03-00531,2026-03-27,Northwind Srvcs 200,652.40,D082,Normal,2026-03-30
+Product return,CH-03-00532,2026-03-22,Adventure Works Retail 207,19.70,D106,Normal,2026-03-29
+Account access,CH-03-00533,2026-03-25,Fabrikam Digital 214,121.60,D059,Normal,
+Technical support,CH-03-00534,2026-03-01,University of Oxford,433.40,D001,Normal,2026-03-11
+Delivery enquiry,CH-03-00535,2026-03-20,Adventure Works UK,536.80,D071,High,2026-03-25
+Account access,CH-03-00536,2026-03-01,Adventure Works Retial 015,186.50,D086,Normal,2026-03-12
+Product return,CH-03-00537,2026-03-13,Fabrikam Digital 022,772.80,D054,Normal,2026-03-16
+Product return,CH-03-00538,2026-03-09,Contoso Research 029,43.80,D086,High,2026-03-17
+Product return,CH-03-00539,2026-03-25,Northwind Logistics 036,369.90,D110,High,2026-04-02
+Warranty claim,CH-03-00540,2026-03-23,Adventure Works Analytics 043,673.30,D074,Normal,2026-03-29
+Delivery enquiry,CH-03-00541,2026-03-27,Fabrikam Srvcs 050,136.50,D051,Normal,2026-03-31
+Technical support,CH-03-00542,2026-03-05,Contoso Retail 057,580.90,D073,Normal,2026-03-11
+Delivery enquiry,CH-03-00543,2026-03-15,Northwind Digital 064,75.30,D089,Normal,2026-03-19
+Technical support,CH-03-00544,2026-03-04,Adventure Works Research 071,787.20,D105,High,2026-03-12
+Technical support,CH-03-00545,2026-03-02,Fabrikam Logistics 078,227.70,D112,High,2026-03-03
+Warranty claim,CH-03-00546,2026-03-13,Contoso Analytcs 085,167.40,D031,High,2026-03-18
+Account access,CH-03-00547,2026-03-29,Northwind Services 092,604.40,D021,Normal,2026-04-04
+Account access,CH-03-00548,2026-03-13,Adventure Works Retail 099,555.90,D092,High,2026-03-22
+Delivery enquiry,CH-03-00549,2026-03-01,Fabrikam Digital 106,332.00,D027,High,2026-03-07
+Technical support,CH-03-00550,2026-03-10,Contoso Research 113,186.10,D101,Normal,2026-03-20
+Account access,CH-03-00551,2026-03-01,Northwind Logistics 120,247.70,D097,High,2026-03-04
+Product return,CH-03-00552,2026-03-22,Adventure Works Analytics 127,370.40,D018,High,
+Delivery enquiry,CH-03-00553,2026-03-23,Fabrikam Services 134,721.20,D035,Normal,2026-04-02
+Account access,CH-03-00554,2026-03-17,Contoso Retail 141,215.80,D026,Normal,2026-03-22
+Warranty claim,CH-03-00555,2026-03-03,Northwind Digital 148,190.50,D042,High,2026-03-13
+Technical support,CH-03-00556,2026-03-27,Adventure Works Research 155,527.00,D020,High,2026-04-03
+Technical support,CH-03-00557,2026-03-28,Fabrikam Logistics 162,606.30,D022,High,2026-03-29
+Account access,CH-03-00558,2026-03-05,Contoso Analytics 169,700.00,D103,Normal,2026-03-11
+Product return,CH-03-00559,2026-03-25,Unregistered Partner 86,32.60,D040,Normal,2026-03-30
+Warranty claim,CH-03-00560,2026-03-15,Adventure Works Retail 183,572.50,D022,Normal,2026-03-21
+Account access,CH-03-00561,2026-03-04,Fabrikam Digitl 190,514.60,D083,Normal,2026-03-16
+Technical support,CH-03-00562,2026-03-08,Contoso Research 197,774.80,D075,Normal,2026-03-12
+Technical support,CH-03-00563,2026-03-09,Northwind Logistics 204,826.60,D007,High,2026-03-21
+Delivery enquiry,CH-03-00564,2026-03-13,Adventure Works Analytics 211,736.20,D068,Normal,2026-03-21
+Warranty claim,CH-03-00565,2026-03-27,Fabrikam Services 218,48.30,D104,Normal,2026-04-01
+Product return,CH-03-00566,2026-03-22,Contoso Oxford Trdg,639.70,D087,High,2026-04-01
+Warranty claim,CH-03-00567,2026-03-25,Northwind Logistics 012,16.30,D062,Normal,2026-04-05
+Account access,CH-03-00568,2026-03-13,Adventure Works Analytics 019,98.60,D020,Normal,2026-03-25
+Technical support,CH-03-00569,2026-03-12,Fabrikam Services 026,809.80,D109,Normal,2026-03-19
+Technical support,CH-03-00570,2026-03-19,Contoso Retail 033,582.00,D079,High,2026-03-29
+Warranty claim,CH-03-00571,2026-03-28,Northwind Digitl 040,531.90,D037,High,
+Delivery enquiry,CH-03-00572,2026-03-04,Adventure Works Research 047,778.60,D011,Normal,2026-03-08
+Warranty claim,CH-03-00573,2026-03-03,Fabrikam Logistics 054,750.80,D078,High,2026-03-04
+Delivery enquiry,CH-03-00574,2026-03-19,Contoso Analytics 061,437.10,D008,High,2026-03-26
+Warranty claim,CH-03-00575,2026-03-25,Northwind Services 068,330.40,D055,Normal,2026-04-03
+Warranty claim,CH-03-00576,2026-03-08,Adventure Works Retial 075,236.50,D037,Normal,2026-03-11
+Warranty claim,CH-03-00577,2026-03-10,Fabrikam Digital 082,77.70,D065,High,2026-03-12
+Warranty claim,CH-03-00578,2026-03-24,Contoso Research 089,187.70,D071,Normal,2026-03-30
+Product return,CH-03-00579,2026-03-27,Northwind Logistics 096,794.70,D043,High,2026-04-03
+Warranty claim,CH-03-00580,2026-03-26,Adventure Works Analytics 103,830.70,D027,High,2026-03-29
+Technical support,CH-03-00581,2026-03-16,Fabrikam Srvcs 110,75.20,D049,High,2026-03-20
+Delivery enquiry,CH-03-00582,2026-03-18,Contoso Retail 117,339.40,D009,Normal,2026-03-27
+Warranty claim,CH-03-00583,2026-03-07,Northwind Digital 124,233.90,D013,High,2026-03-09
+Account access,CH-03-00584,2026-03-07,Adventure Works Research 131,253.40,D068,Normal,2026-03-14
+Delivery enquiry,CH-03-00585,2026-03-02,Fabrikam Logistics 138,66.30,D038,High,2026-03-07
+Account access,CH-03-00586,2026-03-21,Contoso Analytcs 145,224.40,D102,Normal,2026-03-31
+Warranty claim,CH-03-00587,2026-03-29,Northwind Services 152,569.50,D006,Normal,2026-04-04
+Warranty claim,CH-03-00588,2026-03-24,Adventure Works Retail 159,842.40,D020,High,2026-03-26
+Account access,CH-03-00589,2026-03-14,Fabrikam Digital 166,396.50,D066,High,2026-03-19
+Product return,CH-03-00590,2026-03-07,Unregistered Partner 83,688.30,D001,High,
+Warranty claim,CH-03-00591,2026-03-16,Northwind Logistics 180,723.40,D034,High,2026-03-21
+Account access,CH-03-00592,2026-03-03,Adventure Works Analytics 187,330.20,D046,High,2026-03-09
+Delivery enquiry,CH-03-00593,2026-03-25,Fabrikam Services 194,22.30,D071,High,2026-04-02
+Delivery enquiry,CH-03-00594,2026-03-29,Contoso Retail 201,303.10,D085,High,2026-04-08
+Product return,CH-03-00595,2026-03-12,Northwind Digital 208,349.20,D054,Normal,2026-03-17
+Account access,CH-03-00596,2026-03-17,Adventure Works Research 215,235.80,D101,Normal,2026-03-26
+Warranty claim,CH-03-00597,2026-03-10,University of Cambridge,496.40,D092,Normal,2026-03-12
+Account access,CH-03-00598,2026-03-07,Contoso Retail 009,795.90,D073,Normal,2026-03-17
+Product return,CH-03-00599,2026-03-05,Northwind Digital 016,259.40,D010,High,2026-03-17
+Account access,CH-03-00600,2026-03-15,Adventure Works Research 023,612.80,D106,High,2026-03-27
+Delivery enquiry,CH-03-00601,2026-03-31,Fabrikam Logistics 030,298.00,D020,High,2026-04-02
+Account access,CH-03-00602,2026-03-17,Contoso Analytics 037,680.30,D037,Normal,2026-03-22
+Technical support,CH-03-00603,2026-03-25,Northwind Services 044,813.50,D041,Normal,2026-04-03
+Product return,CH-03-00604,2026-03-08,Adventure Works Retail 051,264.80,D112,High,2026-03-18
+Product return,CH-03-00605,2026-03-10,Fabrikam Digital 058,622.60,D063,High,2026-03-15
+Delivery enquiry,CH-03-00606,2026-03-24,Contoso Research 065,324.80,D098,High,2026-03-30
+Delivery enquiry,CH-03-00607,2026-03-16,Northwind Logistics 072,770.30,D054,Normal,2026-03-23
+Warranty claim,CH-03-00608,2026-03-17,Adventure Works Analytics 079,94.60,D044,High,2026-03-24
+Product return,CH-03-00609,2026-03-27,Fabrikam Services 086,710.90,D082,High,
+Delivery enquiry,CH-03-00610,2026-03-29,Contoso Retail 093,370.60,D003,High,2026-04-03
+Technical support,CH-03-00611,2026-03-16,Northwind Digitl 100,797.60,D075,High,2026-03-17
+Product return,CH-03-00612,2026-03-09,Adventure Works Research 107,371.40,D050,Normal,2026-03-18
+Technical support,CH-03-00613,2026-03-10,Fabrikam Logistics 114,227.30,D095,Normal,2026-03-13
+Technical support,CH-03-00614,2026-03-11,Contoso Analytics 121,462.60,D044,High,2026-03-13
+Technical support,CH-03-00615,2026-03-08,Northwind Services 128,688.90,D021,High,2026-03-17
+Technical support,CH-03-00616,2026-03-25,Adventure Works Retial 135,506.50,D009,Normal,2026-04-05
+Account access,CH-03-00617,2026-03-19,Fabrikam Digital 142,224.90,D022,High,2026-03-22
+Account access,CH-03-00618,2026-03-11,Contoso Research 149,716.30,D052,High,2026-03-20
+Warranty claim,CH-03-00619,2026-03-01,Northwind Logistics 156,146.30,D099,High,2026-03-08
+Warranty claim,CH-03-00620,2026-03-03,Adventure Works Analytics 163,224.50,D039,Normal,2026-03-06
+Delivery enquiry,CH-03-00621,2026-03-25,Unregistered Partner 80,592.10,D103,Normal,2026-03-29
+Product return,CH-03-00622,2026-03-11,Contoso Retail 177,203.00,D089,High,2026-03-18
+Delivery enquiry,CH-03-00623,2026-03-18,Northwind Digital 184,222.10,D067,High,2026-03-28
+Warranty claim,CH-03-00624,2026-03-29,Adventure Works Research 191,570.30,D029,High,2026-04-04
+Delivery enquiry,CH-03-00625,2026-03-20,Fabrikam Logistics 198,425.00,D079,Normal,2026-03-29
+Account access,CH-03-00626,2026-03-28,Contoso Analytcs 205,589.70,D057,High,2026-03-29
+Account access,CH-03-00627,2026-03-04,Northwind Services 212,731.60,D080,Normal,2026-03-13
+Warranty claim,CH-03-00628,2026-03-18,Adventure Works Retail 219,93.20,D070,High,
+Product return,CH-03-00629,2026-03-30,Contoso Oxford Traders,839.20,D081,High,2026-04-04
+Technical support,CH-03-00630,2026-03-19,Contoso Analytics 013,423.20,D077,Normal,2026-03-31
+Product return,CH-03-00631,2026-03-24,Northwind Srvcs 020,792.60,D101,High,2026-03-25
+Delivery enquiry,CH-03-00632,2026-03-27,Adventure Works Retail 027,393.00,D111,Normal,2026-03-28
+Delivery enquiry,CH-03-00633,2026-03-27,Fabrikam Digital 034,276.60,D067,High,2026-04-03
+Warranty claim,CH-03-00634,2026-03-05,Contoso Research 041,295.70,D035,High,2026-03-14
+Technical support,CH-03-00635,2026-03-18,Northwind Logistics 048,213.80,D101,High,2026-03-21
+Warranty claim,CH-03-00636,2026-03-03,Adventure Works Analytcs 055,417.80,D048,Normal,2026-03-09
+Account access,CH-03-00637,2026-03-06,Fabrikam Services 062,204.50,D022,Normal,2026-03-15
+Account access,CH-03-00638,2026-03-20,Contoso Retail 069,294.70,D017,High,2026-03-28
+Warranty claim,CH-03-00639,2026-03-15,Northwind Digital 076,542.10,D027,Normal,2026-03-23
+Warranty claim,CH-03-00640,2026-03-17,Adventure Works Research 083,738.70,D085,High,2026-03-28
+Delivery enquiry,CH-03-00641,2026-03-21,Fabrikam Logistics 090,290.50,D019,High,2026-03-26
+Delivery enquiry,CH-03-00642,2026-03-05,Contoso Analytics 097,539.10,D105,High,2026-03-15
+Product return,CH-03-00643,2026-03-27,Northwind Services 104,124.90,D020,Normal,2026-04-04
+Delivery enquiry,CH-03-00644,2026-03-28,Adventure Works Retail 111,80.20,D030,Normal,2026-04-08
+Technical support,CH-03-00645,2026-03-07,Fabrikam Digital 118,18.70,D074,Normal,2026-03-15
+Technical support,CH-03-00646,2026-03-15,Contoso Research 125,417.90,D044,High,2026-03-19
+Warranty claim,CH-03-00647,2026-03-19,Northwind Logistics 132,98.80,D079,Normal,
+Account access,CH-03-00648,2026-03-29,Adventure Works Analytics 139,691.60,D066,High,2026-04-01
+Warranty claim,CH-03-00649,2026-03-27,Fabrikam Services 146,165.40,D042,High,2026-04-01
+Delivery enquiry,CH-03-00650,2026-03-29,Contoso Retail 153,134.50,D024,High,2026-03-31
+Delivery enquiry,CH-03-00651,2026-03-15,Northwind Digitl 160,73.20,D049,High,2026-03-20
+Warranty claim,CH-03-00652,2026-03-29,Unregistered Partner 77,157.10,D021,Normal,2026-04-03
+Product return,CH-03-00653,2026-03-09,Fabrikam Logistics 174,169.40,D048,Normal,2026-03-13
+Account access,CH-03-00654,2026-03-05,Contoso Analytics 181,741.30,D110,High,2026-03-17
+Product return,CH-03-00655,2026-03-06,Northwind Services 188,419.70,D032,High,2026-03-15
+Product return,CH-03-00656,2026-03-30,Adventure Works Retial 195,806.10,D006,Normal,2026-04-11
+Product return,CH-03-00657,2026-03-21,Fabrikam Digital 202,491.80,D071,Normal,2026-03-23
+Technical support,CH-03-00658,2026-03-22,Contoso Research 209,712.70,D068,Normal,2026-03-26
+Delivery enquiry,CH-03-00659,2026-03-21,Northwind Logistics 216,403.30,D001,Normal,2026-04-02
+Delivery enquiry,CH-03-00660,2026-03-15,Imperial College London,428.70,D015,Normal,2026-03-19
+Product return,CH-03-00661,2026-03-26,Fabrikam Digitl 010,255.90,D070,High,2026-03-28
+Account access,CH-03-00662,2026-03-09,Contoso Research 017,588.10,D009,Normal,2026-03-19
+Delivery enquiry,CH-03-00663,2026-03-06,Northwind Logistics 024,671.40,D059,Normal,2026-03-12
+Delivery enquiry,CH-03-00664,2026-03-17,Adventure Works Analytics 031,750.80,D109,Normal,2026-03-24
+Product return,CH-03-00665,2026-03-12,Fabrikam Services 038,591.40,D020,High,2026-03-22
+Warranty claim,CH-03-00666,2026-03-15,Contoso Retial 045,623.00,D033,High,
+Product return,CH-03-00667,2026-03-13,Northwind Digital 052,272.60,D084,Normal,2026-03-19
+Technical support,CH-03-00668,2026-03-19,Adventure Works Research 059,598.50,D083,High,2026-03-25
+Account access,CH-03-00669,2026-03-12,Fabrikam Logistics 066,45.90,D105,Normal,2026-03-20
+Technical support,CH-03-00670,2026-03-12,Contoso Analytics 073,97.70,D047,Normal,2026-03-22
+Account access,CH-03-00671,2026-03-25,Northwind Srvcs 080,39.00,D046,Normal,2026-04-02
+Warranty claim,CH-03-00672,2026-03-05,Adventure Works Retail 087,23.50,D076,Normal,2026-03-14
+Account access,CH-03-00673,2026-03-03,Fabrikam Digital 094,725.90,D032,Normal,2026-03-08
+Delivery enquiry,CH-03-00674,2026-03-11,Contoso Research 101,821.80,D048,High,2026-03-15
+Warranty claim,CH-03-00675,2026-03-30,Northwind Logistics 108,483.20,D016,Normal,2026-04-01
+Technical support,CH-03-00676,2026-03-09,Adventure Works Analytcs 115,116.50,D080,Normal,2026-03-14
+Product return,CH-03-00677,2026-03-02,Fabrikam Services 122,842.00,D077,High,2026-03-07
+Warranty claim,CH-03-00678,2026-03-01,Contoso Retail 129,342.90,D088,Normal,2026-03-08
+Account access,CH-03-00679,2026-03-01,Northwind Digital 136,438.40,D006,Normal,2026-03-02
+Warranty claim,CH-03-00680,2026-03-31,Adventure Works Research 143,842.20,D061,Normal,2026-04-07
+Delivery enquiry,CH-03-00681,2026-03-01,Fabrikam Logistics 150,523.90,D069,Normal,2026-03-02
+Product return,CH-03-00682,2026-03-21,Contoso Analytics 157,443.30,D004,Normal,2026-03-27
+Product return,CH-03-00683,2026-03-16,Unregistered Partner 74,52.80,D022,Normal,2026-03-28
+Account access,CH-03-00684,2026-03-14,Adventure Works Retail 171,171.60,D005,High,2026-03-19
+Warranty claim,CH-03-00685,2026-03-27,Fabrikam Digital 178,340.50,D060,High,
+Warranty claim,CH-03-00686,2026-03-30,Contoso Research 185,397.30,D030,High,2026-04-10
+Warranty claim,CH-03-00687,2026-03-04,Northwind Logistics 192,490.70,D093,High,2026-03-15
+Warranty claim,CH-03-00688,2026-03-17,Adventure Works Analytics 199,505.20,D017,High,2026-03-26
+Delivery enquiry,CH-03-00689,2026-03-12,Fabrikam Services 206,247.10,D046,Normal,2026-03-23
+Account access,CH-03-00690,2026-03-23,Contoso Retail 213,331.80,D087,Normal,2026-04-04
+Technical support,CH-03-00691,2026-03-17,Northwind Digitl 220,408.20,D065,Normal,2026-03-21
+Account access,CH-03-00692,2026-03-19,Fabrikam Retail Group,714.90,D029,High,2026-03-28
+Delivery enquiry,CH-03-00693,2026-03-18,Fabrikam Services 014,41.80,D105,Normal,2026-03-19
+Account access,CH-03-00694,2026-03-15,Contoso Retail 021,625.10,D083,High,2026-03-24
+Product return,CH-03-00695,2026-03-18,Northwind Digital 028,42.40,D094,High,2026-03-22
+Technical support,CH-03-00696,2026-03-20,Adventure Works Research 035,356.60,D051,Normal,2026-03-24
+Account access,CH-03-00697,2026-03-03,Fabrikam Logistics 042,225.90,D108,Normal,2026-03-08
+Delivery enquiry,CH-03-00698,2026-03-17,Contoso Analytics 049,528.30,D102,Normal,2026-03-18
+Product return,CH-03-00699,2026-03-18,Northwind Services 056,824.90,D008,Normal,2026-03-26
+Warranty claim,CH-03-00700,2026-03-23,Adventure Works Retail 063,809.00,D034,Normal,2026-03-31

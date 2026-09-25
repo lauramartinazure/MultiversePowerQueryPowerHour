@@ -1,0 +1,701 @@
+RequestID,OrganisationEntered,DepartmentID,RequestType,RequestedDateText,CompletedDateText,CostGBP,Channel
+CH-02-00001,Unregistered Partner 07,D040,Technical support,15/02/2026,,296.20,Web
+CH-02-00002,Fabrikam Services 014,D017,Product return,10/02/2026,13/02/2026,159.40,Email
+CH-02-00003,Contoso Retail 021,D094,Technical support,23/02/2026,25/02/2026,468.80,Web
+CH-02-00004,Northwind Digital 028,D050,Technical support,24/02/2026,01/03/2026,667.20,Phone
+CH-02-00005,Adventure Works Research 035,D040,Technical support,08/02/2026,12/02/2026,763.20,Email
+CH-02-00006,Fabrikam Logistics 042,D040,Product return,13/02/2026,23/02/2026,128.00,Email
+CH-02-00007,Contoso Analytics 049,D057,Delivery enquiry,01/02/2026,12/02/2026,442.80,Phone
+CH-02-00008,Northwind Services 056,D023,Technical support,17/02/2026,01/03/2026,48.30,Phone
+CH-02-00009,Adventure Works Retail 063,D021,Technical support,13/02/2026,14/02/2026,743.40,Email
+CH-02-00010,Fabrikam Digital 070,D090,Account access,12/02/2026,15/02/2026,312.50,Phone
+CH-02-00011,Contoso Research 077,D042,Warranty claim,23/02/2026,27/02/2026,473.70,Email
+CH-02-00012,Northwind Logistics 084,D070,Technical support,20/02/2026,26/02/2026,32.20,Phone
+CH-02-00013,Adventure Works Analytics 091,D097,Technical support,06/02/2026,11/02/2026,417.00,Phone
+CH-02-00014,Fabrikam Services 098,D013,Technical support,04/02/2026,12/02/2026,785.20,Phone
+CH-02-00015,Contoso Retail 105,D011,Account access,17/02/2026,20/02/2026,822.80,Phone
+CH-02-00016,Northwind Digitl 112,D105,Product return,13/02/2026,17/02/2026,417.70,Email
+CH-02-00017,Adventure Works Research 119,D001,Warranty claim,06/02/2026,08/02/2026,849.30,Email
+CH-02-00018,Fabrikam Logistics 126,D066,Technical support,03/02/2026,15/02/2026,235.90,Web
+CH-02-00019,Contoso Analytics 133,D072,Warranty claim,19/02/2026,27/02/2026,624.00,Web
+CH-02-00020,Northwind Services 140,D036,Technical support,20/02/2026,,309.70,Web
+CH-02-00021,Adventure Works Retial 147,D098,Account access,26/02/2026,09/03/2026,52.20,Email
+CH-02-00022,Fabrikam Digital 154,D092,Product return,14/02/2026,19/02/2026,775.70,Web
+CH-02-00023,Contoso Research 161,D081,Delivery enquiry,06/02/2026,12/02/2026,364.60,Web
+CH-02-00024,Northwind Logistics 168,D031,Account access,06/02/2026,12/02/2026,326.90,Web
+CH-02-00025,Adventure Works Analytics 175,D070,Delivery enquiry,11/02/2026,20/02/2026,57.40,Web
+CH-02-00026,Fabrikam Srvcs 182,D057,Delivery enquiry,24/02/2026,07/03/2026,685.20,Web
+CH-02-00027,Contoso Retail 189,D015,Warranty claim,26/02/2026,27/02/2026,184.10,Email
+CH-02-00028,Northwind Digital 196,D050,Technical support,17/02/2026,18/02/2026,107.40,Phone
+CH-02-00029,Adventure Works Research 203,D056,Product return,24/02/2026,07/03/2026,307.30,Web
+CH-02-00030,Fabrikam Logistics 210,D079,Account access,19/02/2026,23/02/2026,34.30,Phone
+CH-02-00031,Contoso Analytcs 217,D054,Warranty claim,24/02/2026,01/03/2026,65.30,Phone
+CH-02-00032,Unregistered Partner 04,D006,Account access,19/02/2026,03/03/2026,731.10,Phone
+CH-02-00033,Adventure Works Research 011,D080,Delivery enquiry,22/02/2026,02/03/2026,40.70,Phone
+CH-02-00034,Fabrikam Logistics 018,D111,Warranty claim,06/02/2026,16/02/2026,82.10,Phone
+CH-02-00035,Contoso Analytics 025,D043,Account access,26/02/2026,07/03/2026,237.10,Web
+CH-02-00036,Northwind Srvcs 032,D048,Account access,20/02/2026,21/02/2026,672.30,Web
+CH-02-00037,Adventure Works Retail 039,D098,Delivery enquiry,01/02/2026,06/02/2026,562.00,Phone
+CH-02-00038,Fabrikam Digital 046,D024,Delivery enquiry,13/02/2026,24/02/2026,255.20,Phone
+CH-02-00039,Contoso Research 053,D069,Account access,09/02/2026,,744.60,Phone
+CH-02-00040,Northwind Logistics 060,D046,Technical support,01/02/2026,03/02/2026,719.20,Phone
+CH-02-00041,Adventure Works Analytcs 067,D112,Account access,08/02/2026,11/02/2026,169.50,Email
+CH-02-00042,Fabrikam Services 074,D010,Account access,03/02/2026,04/02/2026,580.80,Web
+CH-02-00043,Contoso Retail 081,D088,Technical support,28/02/2026,01/03/2026,841.20,Phone
+CH-02-00044,Northwind Digital 088,D101,Delivery enquiry,27/02/2026,09/03/2026,136.20,Web
+CH-02-00045,Adventure Works Research 095,D080,Account access,18/02/2026,25/02/2026,478.90,Phone
+CH-02-00046,Fabrikam Logistics 102,D059,Technical support,03/02/2026,14/02/2026,779.80,Email
+CH-02-00047,Contoso Analytics 109,D051,Delivery enquiry,27/02/2026,11/03/2026,411.00,Web
+CH-02-00048,Northwind Services 116,D106,Warranty claim,09/02/2026,21/02/2026,81.40,Email
+CH-02-00049,Adventure Works Retail 123,D043,Delivery enquiry,19/02/2026,20/02/2026,278.50,Web
+CH-02-00050,Fabrikam Digital 130,D011,Warranty claim,06/02/2026,14/02/2026,511.00,Email
+CH-02-00051,Contoso Research 137,D071,Warranty claim,12/02/2026,13/02/2026,786.10,Web
+CH-02-00052,Northwind Logistics 144,D034,Product return,08/02/2026,15/02/2026,213.90,Web
+CH-02-00053,Adventure Works Analytics 151,D097,Warranty claim,01/02/2026,11/02/2026,363.60,Web
+CH-02-00054,Fabrikam Services 158,D031,Warranty claim,10/02/2026,12/02/2026,109.30,Phone
+CH-02-00055,Contoso Retail 165,D020,Technical support,01/02/2026,10/02/2026,372.70,Phone
+CH-02-00056,Northwind Digitl 172,D109,Warranty claim,12/02/2026,13/02/2026,469.30,Email
+CH-02-00057,Adventure Works Research 179,D010,Account access,15/02/2026,24/02/2026,102.90,Phone
+CH-02-00058,Fabrikam Logistics 186,D029,Account access,11/02/2026,,76.40,Web
+CH-02-00059,Contoso Analytics 193,D007,Warranty claim,25/02/2026,02/03/2026,766.40,Web
+CH-02-00060,Northwind Services 200,D021,Delivery enquiry,21/02/2026,22/02/2026,167.40,Email
+CH-02-00061,Adventure Works Retial 207,D064,Account access,07/02/2026,19/02/2026,683.60,Phone
+CH-02-00062,Fabrikam Digital 214,D012,Technical support,05/02/2026,17/02/2026,418.30,Phone
+CH-02-00063,Unregistered Partner 01,D079,Product return,14/02/2026,16/02/2026,577.00,Web
+CH-02-00064,Adventure Works UK,D012,Technical support,07/02/2026,10/02/2026,108.40,Email
+CH-02-00065,Adventure Works Retail 015,D028,Product return,14/02/2026,20/02/2026,13.20,Phone
+CH-02-00066,Fabrikam Digitl 022,D065,Delivery enquiry,15/02/2026,18/02/2026,99.00,Web
+CH-02-00067,Contoso Research 029,D065,Delivery enquiry,06/02/2026,18/02/2026,213.20,Phone
+CH-02-00068,Northwind Logistics 036,D034,Delivery enquiry,28/02/2026,05/03/2026,483.10,Web
+CH-02-00069,Adventure Works Analytics 043,D071,Delivery enquiry,22/02/2026,26/02/2026,390.30,Email
+CH-02-00070,Fabrikam Services 050,D097,Delivery enquiry,18/02/2026,26/02/2026,515.40,Email
+CH-02-00071,Contoso Retial 057,D052,Account access,24/02/2026,26/02/2026,745.20,Web
+CH-02-00072,Northwind Digital 064,D014,Product return,23/02/2026,02/03/2026,181.80,Email
+CH-02-00073,Adventure Works Research 071,D033,Product return,28/02/2026,04/03/2026,662.60,Phone
+CH-02-00074,Fabrikam Logistics 078,D002,Technical support,22/02/2026,05/03/2026,452.70,Email
+CH-02-00075,Contoso Analytics 085,D041,Account access,02/02/2026,10/02/2026,179.50,Email
+CH-02-00076,Northwind Srvcs 092,D095,Warranty claim,23/02/2026,05/03/2026,318.80,Email
+CH-02-00077,Adventure Works Retail 099,D022,Delivery enquiry,20/02/2026,,28.40,Phone
+CH-02-00078,Fabrikam Digital 106,D002,Technical support,27/02/2026,07/03/2026,621.40,Web
+CH-02-00079,Contoso Research 113,D081,Account access,09/02/2026,10/02/2026,61.60,Phone
+CH-02-00080,Northwind Logistics 120,D068,Technical support,28/02/2026,12/03/2026,207.70,Email
+CH-02-00081,Adventure Works Analytcs 127,D089,Delivery enquiry,03/02/2026,15/02/2026,571.50,Web
+CH-02-00082,Fabrikam Services 134,D019,Product return,18/02/2026,21/02/2026,524.00,Web
+CH-02-00083,Contoso Retail 141,D005,Product return,20/02/2026,21/02/2026,176.50,Web
+CH-02-00084,Northwind Digital 148,D095,Account access,04/02/2026,07/02/2026,156.60,Phone
+CH-02-00085,Adventure Works Research 155,D044,Account access,28/02/2026,04/03/2026,806.20,Email
+CH-02-00086,Fabrikam Logistics 162,D003,Account access,19/02/2026,03/03/2026,623.50,Email
+CH-02-00087,Contoso Analytics 169,D087,Product return,06/02/2026,11/02/2026,521.00,Phone
+CH-02-00088,Northwind Services 176,D103,Warranty claim,27/02/2026,07/03/2026,696.40,Email
+CH-02-00089,Adventure Works Retail 183,D036,Account access,23/02/2026,27/02/2026,397.70,Email
+CH-02-00090,Fabrikam Digital 190,D077,Account access,02/02/2026,05/02/2026,790.20,Web
+CH-02-00091,Contoso Research 197,D022,Account access,02/02/2026,12/02/2026,316.90,Email
+CH-02-00092,Northwind Logistics 204,D095,Warranty claim,23/02/2026,25/02/2026,344.80,Email
+CH-02-00093,Adventure Works Analytics 211,D046,Technical support,12/02/2026,17/02/2026,704.90,Web
+CH-02-00094,Unregistered Partner 38,D011,Delivery enquiry,28/02/2026,01/03/2026,733.50,Phone
+CH-02-00095,Contoso Oxford Trading,D054,Warranty claim,02/02/2026,05/02/2026,606.60,Email
+CH-02-00096,Northwind Logistics 012,D022,Account access,17/02/2026,,568.70,Phone
+CH-02-00097,Adventure Works Analytics 019,D047,Warranty claim,16/02/2026,18/02/2026,78.80,Phone
+CH-02-00098,Fabrikam Services 026,D105,Delivery enquiry,05/02/2026,15/02/2026,761.40,Email
+CH-02-00099,Contoso Retail 033,D043,Account access,18/02/2026,22/02/2026,477.90,Email
+CH-02-00100,Northwind Digital 040,D028,Account access,02/02/2026,13/02/2026,330.20,Phone
+CH-02-00101,Adventure Works Research 047,D076,Warranty claim,24/02/2026,26/02/2026,576.10,Phone
+CH-02-00102,Fabrikam Logistics 054,D069,Product return,20/02/2026,27/02/2026,624.80,Email
+CH-02-00103,Contoso Analytics 061,D068,Product return,19/02/2026,01/03/2026,152.80,Web
+CH-02-00104,Northwind Services 068,D011,Technical support,09/02/2026,21/02/2026,794.80,Email
+CH-02-00105,Adventure Works Retail 075,D009,Product return,23/02/2026,03/03/2026,161.50,Web
+CH-02-00106,Fabrikam Digitl 082,D061,Warranty claim,27/02/2026,09/03/2026,690.80,Web
+CH-02-00107,Contoso Research 089,D085,Technical support,09/02/2026,14/02/2026,133.60,Web
+CH-02-00108,Northwind Logistics 096,D100,Warranty claim,14/02/2026,24/02/2026,697.70,Web
+CH-02-00109,Adventure Works Analytics 103,D040,Delivery enquiry,18/02/2026,20/02/2026,622.10,Email
+CH-02-00110,Fabrikam Services 110,D090,Warranty claim,01/02/2026,08/02/2026,692.60,Email
+CH-02-00111,Contoso Retial 117,D085,Warranty claim,17/02/2026,21/02/2026,377.40,Web
+CH-02-00112,Northwind Digital 124,D010,Account access,28/02/2026,03/03/2026,530.00,Email
+CH-02-00113,Adventure Works Research 131,D032,Warranty claim,14/02/2026,25/02/2026,846.20,Web
+CH-02-00114,Fabrikam Logistics 138,D076,Delivery enquiry,05/02/2026,09/02/2026,464.80,Phone
+CH-02-00115,Contoso Analytics 145,D045,Delivery enquiry,20/02/2026,,61.70,Phone
+CH-02-00116,Northwind Srvcs 152,D011,Delivery enquiry,26/02/2026,01/03/2026,686.70,Email
+CH-02-00117,Adventure Works Retail 159,D008,Product return,25/02/2026,09/03/2026,812.50,Web
+CH-02-00118,Fabrikam Digital 166,D074,Technical support,09/02/2026,10/02/2026,356.80,Web
+CH-02-00119,Contoso Research 173,D073,Warranty claim,25/02/2026,05/03/2026,702.90,Email
+CH-02-00120,Northwind Logistics 180,D093,Delivery enquiry,11/02/2026,12/02/2026,222.30,Web
+CH-02-00121,Adventure Works Analytcs 187,D053,Warranty claim,08/02/2026,15/02/2026,387.00,Web
+CH-02-00122,Fabrikam Services 194,D092,Delivery enquiry,17/02/2026,28/02/2026,814.50,Phone
+CH-02-00123,Contoso Retail 201,D070,Account access,25/02/2026,01/03/2026,43.70,Email
+CH-02-00124,Northwind Digital 208,D042,Account access,15/02/2026,22/02/2026,160.30,Web
+CH-02-00125,Unregistered Partner 35,D005,Account access,01/02/2026,03/02/2026,220.20,Phone
+CH-02-00126,Cambridge Univ.,D033,Account access,17/02/2026,25/02/2026,331.20,Email
+CH-02-00127,Contoso Retail 009,D020,Product return,20/02/2026,22/02/2026,548.50,Phone
+CH-02-00128,Northwind Digital 016,D092,Technical support,08/02/2026,12/02/2026,44.60,Phone
+CH-02-00129,Adventure Works Research 023,D033,Product return,07/02/2026,13/02/2026,471.90,Phone
+CH-02-00130,Fabrikam Logistics 030,D061,Delivery enquiry,20/02/2026,22/02/2026,663.00,Email
+CH-02-00131,Contoso Analytcs 037,D094,Account access,25/02/2026,08/03/2026,444.20,Phone
+CH-02-00132,Northwind Services 044,D089,Warranty claim,28/02/2026,06/03/2026,215.00,Web
+CH-02-00133,Adventure Works Retail 051,D021,Warranty claim,21/02/2026,28/02/2026,597.20,Web
+CH-02-00134,Fabrikam Digital 058,D059,Account access,19/02/2026,,507.10,Web
+CH-02-00135,Contoso Research 065,D047,Account access,17/02/2026,23/02/2026,404.60,Web
+CH-02-00136,Northwind Logistics 072,D102,Delivery enquiry,05/02/2026,14/02/2026,437.40,Email
+CH-02-00137,Adventure Works Analytics 079,D027,Account access,12/02/2026,22/02/2026,350.40,Phone
+CH-02-00138,Fabrikam Services 086,D107,Product return,08/02/2026,18/02/2026,521.60,Phone
+CH-02-00139,Contoso Retail 093,D065,Product return,10/02/2026,18/02/2026,670.50,Email
+CH-02-00140,Northwind Digital 100,D009,Technical support,08/02/2026,11/02/2026,555.60,Phone
+CH-02-00141,Adventure Works Research 107,D048,Account access,14/02/2026,22/02/2026,535.90,Email
+CH-02-00142,Fabrikam Logistics 114,D016,Product return,22/02/2026,05/03/2026,502.30,Web
+CH-02-00143,Contoso Analytics 121,D053,Delivery enquiry,28/02/2026,11/03/2026,18.50,Phone
+CH-02-00144,Northwind Services 128,D028,Technical support,05/02/2026,17/02/2026,712.50,Web
+CH-02-00145,Adventure Works Retail 135,D032,Warranty claim,19/02/2026,27/02/2026,528.10,Email
+CH-02-00146,Fabrikam Digitl 142,D023,Technical support,10/02/2026,17/02/2026,712.80,Phone
+CH-02-00147,Contoso Research 149,D093,Warranty claim,05/02/2026,13/02/2026,110.10,Web
+CH-02-00148,Northwind Logistics 156,D040,Technical support,02/02/2026,10/02/2026,747.40,Web
+CH-02-00149,Adventure Works Analytics 163,D016,Account access,04/02/2026,07/02/2026,493.50,Web
+CH-02-00150,Fabrikam Services 170,D072,Technical support,14/02/2026,20/02/2026,390.50,Email
+CH-02-00151,Contoso Retial 177,D007,Account access,07/02/2026,19/02/2026,151.40,Email
+CH-02-00152,Northwind Digital 184,D099,Warranty claim,24/02/2026,01/03/2026,516.20,Phone
+CH-02-00153,Adventure Works Research 191,D108,Product return,15/02/2026,,606.00,Web
+CH-02-00154,Fabrikam Logistics 198,D056,Account access,12/02/2026,18/02/2026,475.70,Web
+CH-02-00155,Contoso Analytics 205,D022,Delivery enquiry,21/02/2026,25/02/2026,267.30,Email
+CH-02-00156,Unregistered Partner 32,D088,Product return,19/02/2026,28/02/2026,317.90,Web
+CH-02-00157,Adventure Works Retail 219,D035,Warranty claim,21/02/2026,26/02/2026,125.90,Web
+CH-02-00158,Contoso Oxford Traders,D053,Warranty claim,09/02/2026,21/02/2026,399.20,Web
+CH-02-00159,Contoso Analytics 013,D034,Warranty claim,12/02/2026,15/02/2026,300.80,Web
+CH-02-00160,Northwind Services 020,D103,Product return,06/02/2026,16/02/2026,324.70,Phone
+CH-02-00161,Adventure Works Retial 027,D055,Delivery enquiry,13/02/2026,19/02/2026,22.40,Web
+CH-02-00162,Fabrikam Digital 034,D034,Product return,13/02/2026,20/02/2026,328.00,Email
+CH-02-00163,Contoso Research 041,D025,Product return,20/02/2026,22/02/2026,207.20,Email
+CH-02-00164,Northwind Logistics 048,D022,Delivery enquiry,28/02/2026,12/03/2026,445.00,Web
+CH-02-00165,Adventure Works Analytics 055,D099,Delivery enquiry,19/02/2026,20/02/2026,369.60,Phone
+CH-02-00166,Fabrikam Srvcs 062,D059,Delivery enquiry,09/02/2026,14/02/2026,844.10,Web
+CH-02-00167,Contoso Retail 069,D017,Delivery enquiry,26/02/2026,28/02/2026,621.30,Phone
+CH-02-00168,Northwind Digital 076,D036,Technical support,08/02/2026,13/02/2026,305.70,Phone
+CH-02-00169,Adventure Works Research 083,D082,Delivery enquiry,21/02/2026,01/03/2026,395.70,Phone
+CH-02-00170,Fabrikam Logistics 090,D005,Technical support,16/02/2026,19/02/2026,137.80,Phone
+CH-02-00171,Contoso Analytcs 097,D104,Product return,02/02/2026,12/02/2026,28.90,Email
+CH-02-00172,Northwind Services 104,D098,Account access,09/02/2026,,528.90,Email
+CH-02-00173,Adventure Works Retail 111,D090,Account access,06/02/2026,12/02/2026,531.80,Web
+CH-02-00174,Fabrikam Digital 118,D054,Warranty claim,18/02/2026,02/03/2026,662.60,Email
+CH-02-00175,Contoso Research 125,D108,Warranty claim,14/02/2026,23/02/2026,10.90,Email
+CH-02-00176,Northwind Logistics 132,D021,Delivery enquiry,22/02/2026,28/02/2026,304.70,Phone
+CH-02-00177,Adventure Works Analytics 139,D111,Technical support,27/02/2026,02/03/2026,497.30,Phone
+CH-02-00178,Fabrikam Services 146,D017,Product return,13/02/2026,16/02/2026,577.80,Phone
+CH-02-00179,Contoso Retail 153,D010,Warranty claim,11/02/2026,14/02/2026,413.00,Web
+CH-02-00180,Northwind Digital 160,D001,Product return,19/02/2026,25/02/2026,394.20,Email
+CH-02-00181,Adventure Works Research 167,D060,Product return,24/02/2026,04/03/2026,814.60,Email
+CH-02-00182,Fabrikam Logistics 174,D035,Technical support,27/02/2026,09/03/2026,635.80,Web
+CH-02-00183,Contoso Analytics 181,D097,Account access,08/02/2026,15/02/2026,408.40,Email
+CH-02-00184,Northwind Services 188,D057,Warranty claim,13/02/2026,14/02/2026,816.50,Phone
+CH-02-00185,Adventure Works Retail 195,D019,Account access,12/02/2026,16/02/2026,709.20,Web
+CH-02-00186,Fabrikam Digitl 202,D082,Product return,22/02/2026,06/03/2026,290.70,Web
+CH-02-00187,Unregistered Partner 29,D088,Account access,19/02/2026,02/03/2026,748.30,Email
+CH-02-00188,Northwind Logistics 216,D042,Product return,16/02/2026,17/02/2026,319.00,Web
+CH-02-00189,Imperial College London,D089,Technical support,02/02/2026,07/02/2026,429.70,Email
+CH-02-00190,Fabrikam Digital 010,D009,Product return,17/02/2026,24/02/2026,152.20,Web
+CH-02-00191,Contoso Research 017,D005,Account access,05/02/2026,,704.50,Web
+CH-02-00192,Northwind Logistics 024,D110,Technical support,06/02/2026,17/02/2026,677.40,Web
+CH-02-00193,Adventure Works Analytics 031,D041,Warranty claim,14/02/2026,16/02/2026,482.10,Phone
+CH-02-00194,Fabrikam Services 038,D067,Delivery enquiry,23/02/2026,03/03/2026,437.10,Web
+CH-02-00195,Contoso Retail 045,D092,Technical support,10/02/2026,16/02/2026,580.60,Email
+CH-02-00196,Northwind Digitl 052,D070,Product return,19/02/2026,25/02/2026,69.90,Email
+CH-02-00197,Adventure Works Research 059,D112,Product return,16/02/2026,28/02/2026,92.00,Phone
+CH-02-00198,Fabrikam Logistics 066,D098,Product return,12/02/2026,19/02/2026,665.60,Web
+CH-02-00199,Contoso Analytics 073,D050,Warranty claim,08/02/2026,18/02/2026,14.90,Email
+CH-02-00200,Northwind Services 080,D068,Technical support,08/02/2026,12/02/2026,713.90,Web
+CH-02-00201,Adventure Works Retial 087,D095,Technical support,22/02/2026,03/03/2026,824.90,Phone
+CH-02-00202,Fabrikam Digital 094,D053,Technical support,18/02/2026,28/02/2026,829.80,Email
+CH-02-00203,Contoso Research 101,D060,Warranty claim,28/02/2026,07/03/2026,557.60,Phone
+CH-02-00204,Northwind Logistics 108,D079,Product return,15/02/2026,18/02/2026,428.10,Email
+CH-02-00205,Adventure Works Analytics 115,D089,Delivery enquiry,11/02/2026,21/02/2026,689.40,Email
+CH-02-00206,Fabrikam Srvcs 122,D106,Product return,04/02/2026,13/02/2026,35.30,Email
+CH-02-00207,Contoso Retail 129,D027,Warranty claim,18/02/2026,22/02/2026,428.10,Web
+CH-02-00208,Northwind Digital 136,D055,Technical support,17/02/2026,21/02/2026,459.70,Phone
+CH-02-00209,Adventure Works Research 143,D041,Account access,22/02/2026,28/02/2026,561.20,Phone
+CH-02-00210,Fabrikam Logistics 150,D058,Account access,08/02/2026,,546.00,Phone
+CH-02-00211,Contoso Analytcs 157,D027,Delivery enquiry,21/02/2026,05/03/2026,491.40,Phone
+CH-02-00212,Northwind Services 164,D101,Technical support,04/02/2026,07/02/2026,185.50,Phone
+CH-02-00213,Adventure Works Retail 171,D083,Warranty claim,08/02/2026,12/02/2026,374.90,Email
+CH-02-00214,Fabrikam Digital 178,D070,Product return,24/02/2026,28/02/2026,152.00,Web
+CH-02-00215,Contoso Research 185,D062,Delivery enquiry,12/02/2026,17/02/2026,392.50,Web
+CH-02-00216,Northwind Logistics 192,D026,Technical support,28/02/2026,08/03/2026,163.50,Phone
+CH-02-00217,Adventure Works Analytics 199,D092,Delivery enquiry,12/02/2026,22/02/2026,665.40,Phone
+CH-02-00218,Unregistered Partner 26,D081,Delivery enquiry,22/02/2026,06/03/2026,150.50,Web
+CH-02-00219,Contoso Retail 213,D053,Product return,14/02/2026,26/02/2026,841.10,Phone
+CH-02-00220,Northwind Digital 220,D001,Warranty claim,04/02/2026,12/02/2026,830.70,Phone
+CH-02-00221,Fabrikam Retial Group,D074,Warranty claim,15/02/2026,23/02/2026,839.30,Phone
+CH-02-00222,Fabrikam Services 014,D078,Product return,03/02/2026,14/02/2026,186.30,Email
+CH-02-00223,Contoso Retail 021,D073,Product return,11/02/2026,17/02/2026,827.50,Phone
+CH-02-00224,Northwind Digital 028,D087,Technical support,14/02/2026,22/02/2026,740.40,Email
+CH-02-00225,Adventure Works Research 035,D077,Warranty claim,25/02/2026,05/03/2026,307.30,Email
+CH-02-00226,Fabrikam Logistics 042,D069,Warranty claim,24/02/2026,01/03/2026,739.70,Web
+CH-02-00227,Contoso Analytics 049,D053,Delivery enquiry,25/02/2026,05/03/2026,605.60,Web
+CH-02-00228,Northwind Services 056,D030,Product return,25/02/2026,04/03/2026,520.80,Email
+CH-02-00229,Adventure Works Retail 063,D078,Product return,08/02/2026,,424.20,Email
+CH-02-00230,Fabrikam Digital 070,D102,Delivery enquiry,23/02/2026,03/03/2026,223.30,Email
+CH-02-00231,Contoso Research 077,D063,Product return,15/02/2026,18/02/2026,484.30,Web
+CH-02-00232,Northwind Logistics 084,D044,Delivery enquiry,28/02/2026,02/03/2026,467.10,Phone
+CH-02-00233,Adventure Works Analytics 091,D033,Delivery enquiry,22/02/2026,27/02/2026,368.90,Web
+CH-02-00234,Fabrikam Services 098,D107,Delivery enquiry,20/02/2026,26/02/2026,270.20,Phone
+CH-02-00235,Contoso Retail 105,D069,Technical support,07/02/2026,19/02/2026,833.10,Email
+CH-02-00236,Northwind Digitl 112,D034,Product return,02/02/2026,08/02/2026,536.50,Email
+CH-02-00237,Adventure Works Research 119,D023,Product return,08/02/2026,13/02/2026,523.90,Web
+CH-02-00238,Fabrikam Logistics 126,D074,Warranty claim,23/02/2026,05/03/2026,370.50,Phone
+CH-02-00239,Contoso Analytics 133,D016,Delivery enquiry,17/02/2026,26/02/2026,473.90,Web
+CH-02-00240,Northwind Services 140,D101,Technical support,09/02/2026,14/02/2026,513.60,Phone
+CH-02-00241,Adventure Works Retial 147,D087,Warranty claim,01/02/2026,08/02/2026,214.80,Phone
+CH-02-00242,Fabrikam Digital 154,D102,Technical support,16/02/2026,27/02/2026,73.30,Email
+CH-02-00243,Contoso Research 161,D085,Account access,14/02/2026,23/02/2026,251.70,Email
+CH-02-00244,Northwind Logistics 168,D066,Delivery enquiry,13/02/2026,19/02/2026,131.20,Phone
+CH-02-00245,Adventure Works Analytics 175,D019,Warranty claim,16/02/2026,25/02/2026,645.90,Email
+CH-02-00246,Fabrikam Srvcs 182,D108,Delivery enquiry,23/02/2026,01/03/2026,303.70,Email
+CH-02-00247,Contoso Retail 189,D098,Account access,16/02/2026,27/02/2026,786.20,Web
+CH-02-00248,Northwind Digital 196,D099,Delivery enquiry,04/02/2026,,648.80,Web
+CH-02-00249,Unregistered Partner 23,D063,Warranty claim,27/02/2026,07/03/2026,309.40,Web
+CH-02-00250,Fabrikam Logistics 210,D096,Account access,17/02/2026,27/02/2026,491.10,Web
+CH-02-00251,Contoso Analytcs 217,D045,Delivery enquiry,17/02/2026,22/02/2026,803.80,Phone
+CH-02-00252,Oxford University Press,D101,Product return,07/02/2026,18/02/2026,500.60,Phone
+CH-02-00253,Adventure Works Research 011,D052,Warranty claim,23/02/2026,04/03/2026,640.30,Email
+CH-02-00254,Fabrikam Logistics 018,D013,Product return,03/02/2026,12/02/2026,444.50,Email
+CH-02-00255,Contoso Analytics 025,D031,Warranty claim,22/02/2026,23/02/2026,100.00,Phone
+CH-02-00256,Northwind Srvcs 032,D007,Account access,20/02/2026,25/02/2026,649.80,Phone
+CH-02-00257,Adventure Works Retail 039,D072,Warranty claim,10/02/2026,13/02/2026,846.70,Web
+CH-02-00258,Fabrikam Digital 046,D089,Technical support,26/02/2026,27/02/2026,517.70,Email
+CH-02-00259,Contoso Research 053,D025,Technical support,02/02/2026,05/02/2026,113.80,Email
+CH-02-00260,Northwind Logistics 060,D022,Warranty claim,13/02/2026,24/02/2026,403.80,Web
+CH-02-00261,Adventure Works Analytcs 067,D061,Technical support,16/02/2026,28/02/2026,351.80,Phone
+CH-02-00262,Fabrikam Services 074,D081,Technical support,22/02/2026,02/03/2026,232.90,Phone
+CH-02-00263,Contoso Retail 081,D043,Delivery enquiry,20/02/2026,22/02/2026,89.60,Phone
+CH-02-00264,Northwind Digital 088,D029,Product return,19/02/2026,23/02/2026,191.80,Web
+CH-02-00265,Adventure Works Research 095,D063,Product return,17/02/2026,28/02/2026,19.60,Phone
+CH-02-00266,Fabrikam Logistics 102,D052,Warranty claim,12/02/2026,17/02/2026,652.80,Phone
+CH-02-00267,Contoso Analytics 109,D082,Warranty claim,15/02/2026,,39.10,Phone
+CH-02-00268,Northwind Services 116,D067,Delivery enquiry,23/02/2026,06/03/2026,104.50,Phone
+CH-02-00269,Adventure Works Retail 123,D079,Delivery enquiry,21/02/2026,25/02/2026,89.00,Email
+CH-02-00270,Fabrikam Digital 130,D107,Account access,14/02/2026,21/02/2026,377.60,Web
+CH-02-00271,Contoso Research 137,D072,Product return,03/02/2026,08/02/2026,477.90,Email
+CH-02-00272,Northwind Logistics 144,D081,Warranty claim,03/02/2026,06/02/2026,464.60,Email
+CH-02-00273,Adventure Works Analytics 151,D025,Delivery enquiry,08/02/2026,13/02/2026,200.40,Web
+CH-02-00274,Fabrikam Services 158,D066,Delivery enquiry,26/02/2026,04/03/2026,399.60,Web
+CH-02-00275,Contoso Retail 165,D062,Product return,10/02/2026,21/02/2026,407.60,Email
+CH-02-00276,Northwind Digitl 172,D044,Warranty claim,12/02/2026,18/02/2026,842.10,Email
+CH-02-00277,Adventure Works Research 179,D046,Delivery enquiry,09/02/2026,13/02/2026,843.90,Email
+CH-02-00278,Fabrikam Logistics 186,D078,Account access,28/02/2026,03/03/2026,244.00,Web
+CH-02-00279,Contoso Analytics 193,D031,Account access,06/02/2026,17/02/2026,485.70,Email
+CH-02-00280,Unregistered Partner 20,D039,Technical support,14/02/2026,19/02/2026,150.60,Phone
+CH-02-00281,Adventure Works Retial 207,D105,Delivery enquiry,04/02/2026,06/02/2026,215.00,Web
+CH-02-00282,Fabrikam Digital 214,D007,Delivery enquiry,14/02/2026,15/02/2026,190.50,Phone
+CH-02-00283,University of Oxford,D029,Warranty claim,06/02/2026,07/02/2026,532.90,Web
+CH-02-00284,Adventure Works UK,D053,Warranty claim,17/02/2026,19/02/2026,647.70,Web
+CH-02-00285,Adventure Works Retail 015,D029,Delivery enquiry,28/02/2026,05/03/2026,125.60,Web
+CH-02-00286,Fabrikam Digitl 022,D049,Product return,12/02/2026,,675.30,Phone
+CH-02-00287,Contoso Research 029,D047,Account access,15/02/2026,26/02/2026,138.70,Phone
+CH-02-00288,Northwind Logistics 036,D094,Technical support,14/02/2026,18/02/2026,422.20,Web
+CH-02-00289,Adventure Works Analytics 043,D103,Product return,04/02/2026,07/02/2026,446.90,Email
+CH-02-00290,Fabrikam Services 050,D058,Warranty claim,05/02/2026,14/02/2026,451.90,Phone
+CH-02-00291,Contoso Retial 057,D108,Warranty claim,14/02/2026,19/02/2026,134.00,Phone
+CH-02-00292,Northwind Digital 064,D065,Account access,14/02/2026,19/02/2026,497.50,Email
+CH-02-00293,Adventure Works Research 071,D100,Warranty claim,10/02/2026,22/02/2026,840.80,Phone
+CH-02-00294,Fabrikam Logistics 078,D030,Warranty claim,01/02/2026,04/02/2026,292.30,Web
+CH-02-00295,Contoso Analytics 085,D002,Delivery enquiry,11/02/2026,13/02/2026,336.50,Phone
+CH-02-00296,Northwind Srvcs 092,D091,Product return,20/02/2026,25/02/2026,589.60,Email
+CH-02-00297,Adventure Works Retail 099,D029,Delivery enquiry,13/02/2026,25/02/2026,490.20,Email
+CH-02-00298,Fabrikam Digital 106,D061,Account access,20/02/2026,24/02/2026,151.00,Web
+CH-02-00299,Contoso Research 113,D054,Warranty claim,22/02/2026,01/03/2026,570.10,Phone
+CH-02-00300,Northwind Logistics 120,D071,Delivery enquiry,07/02/2026,16/02/2026,29.70,Web
+CH-02-00301,Adventure Works Analytcs 127,D101,Technical support,14/02/2026,25/02/2026,746.90,Web
+CH-02-00302,Fabrikam Services 134,D066,Account access,22/02/2026,26/02/2026,645.10,Web
+CH-02-00303,Contoso Retail 141,D102,Account access,18/02/2026,28/02/2026,560.60,Web
+CH-02-00304,Northwind Digital 148,D024,Account access,05/02/2026,12/02/2026,37.40,Web
+CH-02-00305,Adventure Works Research 155,D015,Product return,15/02/2026,,192.80,Web
+CH-02-00306,Fabrikam Logistics 162,D077,Technical support,07/02/2026,08/02/2026,78.70,Email
+CH-02-00307,Contoso Analytics 169,D074,Product return,10/02/2026,18/02/2026,652.00,Email
+CH-02-00308,Northwind Services 176,D022,Warranty claim,28/02/2026,03/03/2026,523.70,Email
+CH-02-00309,Adventure Works Retail 183,D100,Account access,12/02/2026,19/02/2026,85.50,Phone
+CH-02-00310,Fabrikam Digital 190,D012,Warranty claim,04/02/2026,07/02/2026,808.20,Phone
+CH-02-00311,Unregistered Partner 17,D040,Account access,20/02/2026,03/03/2026,670.00,Web
+CH-02-00312,Northwind Logistics 204,D060,Product return,04/02/2026,16/02/2026,738.40,Phone
+CH-02-00313,Adventure Works Analytics 211,D060,Product return,04/02/2026,09/02/2026,362.30,Web
+CH-02-00314,Fabrikam Services 218,D083,Technical support,13/02/2026,18/02/2026,193.80,Web
+CH-02-00315,Contoso Oxford Trading,D063,Account access,03/02/2026,10/02/2026,507.50,Phone
+CH-02-00316,Northwind Logistics 012,D091,Product return,19/02/2026,22/02/2026,143.60,Phone
+CH-02-00317,Adventure Works Analytics 019,D083,Product return,11/02/2026,12/02/2026,37.70,Web
+CH-02-00318,Fabrikam Services 026,D110,Account access,10/02/2026,17/02/2026,224.80,Phone
+CH-02-00319,Contoso Retail 033,D047,Delivery enquiry,06/02/2026,12/02/2026,36.30,Phone
+CH-02-00320,Northwind Digital 040,D053,Warranty claim,03/02/2026,15/02/2026,377.80,Web
+CH-02-00321,Adventure Works Research 047,D089,Warranty claim,15/02/2026,21/02/2026,642.70,Email
+CH-02-00322,Fabrikam Logistics 054,D040,Account access,15/02/2026,23/02/2026,802.00,Web
+CH-02-00323,Contoso Analytics 061,D068,Delivery enquiry,14/02/2026,19/02/2026,209.60,Email
+CH-02-00324,Northwind Services 068,D098,Account access,24/02/2026,,563.00,Web
+CH-02-00325,Adventure Works Retail 075,D036,Technical support,25/02/2026,01/03/2026,583.00,Email
+CH-02-00326,Fabrikam Digitl 082,D024,Delivery enquiry,20/02/2026,02/03/2026,56.10,Web
+CH-02-00327,Contoso Research 089,D109,Warranty claim,08/02/2026,11/02/2026,270.90,Phone
+CH-02-00328,Northwind Logistics 096,D056,Warranty claim,19/02/2026,22/02/2026,226.50,Web
+CH-02-00329,Adventure Works Analytics 103,D035,Technical support,25/02/2026,26/02/2026,594.00,Web
+CH-02-00330,Fabrikam Services 110,D102,Warranty claim,26/02/2026,06/03/2026,535.90,Web
+CH-02-00331,Contoso Retial 117,D105,Product return,15/02/2026,27/02/2026,325.70,Email
+CH-02-00332,Northwind Digital 124,D026,Warranty claim,24/02/2026,06/03/2026,740.50,Email
+CH-02-00333,Adventure Works Research 131,D090,Product return,16/02/2026,28/02/2026,237.70,Web
+CH-02-00334,Fabrikam Logistics 138,D045,Technical support,15/02/2026,22/02/2026,29.30,Web
+CH-02-00335,Contoso Analytics 145,D061,Account access,05/02/2026,10/02/2026,332.20,Web
+CH-02-00336,Northwind Srvcs 152,D082,Technical support,05/02/2026,14/02/2026,536.50,Phone
+CH-02-00337,Adventure Works Retail 159,D076,Delivery enquiry,17/02/2026,18/02/2026,417.60,Email
+CH-02-00338,Fabrikam Digital 166,D011,Delivery enquiry,23/02/2026,25/02/2026,830.30,Phone
+CH-02-00339,Contoso Research 173,D041,Warranty claim,18/02/2026,20/02/2026,656.50,Phone
+CH-02-00340,Northwind Logistics 180,D111,Warranty claim,20/02/2026,25/02/2026,470.90,Phone
+CH-02-00341,Adventure Works Analytcs 187,D058,Warranty claim,07/02/2026,09/02/2026,601.00,Web
+CH-02-00342,Unregistered Partner 14,D035,Delivery enquiry,08/02/2026,11/02/2026,818.40,Web
+CH-02-00343,Contoso Retail 201,D100,Warranty claim,22/02/2026,,419.70,Phone
+CH-02-00344,Northwind Digital 208,D053,Delivery enquiry,03/02/2026,15/02/2026,108.40,Email
+CH-02-00345,Adventure Works Research 215,D097,Delivery enquiry,15/02/2026,20/02/2026,374.30,Phone
+CH-02-00346,Cambridge Univ.,D015,Product return,14/02/2026,22/02/2026,132.30,Email
+CH-02-00347,Contoso Retail 009,D112,Warranty claim,09/02/2026,20/02/2026,847.20,Phone
+CH-02-00348,Northwind Digital 016,D111,Product return,26/02/2026,05/03/2026,47.60,Web
+CH-02-00349,Adventure Works Research 023,D044,Warranty claim,01/02/2026,06/02/2026,116.20,Web
+CH-02-00350,Fabrikam Logistics 030,D044,Technical support,14/02/2026,18/02/2026,102.20,Web
+CH-02-00351,Contoso Analytcs 037,D103,Product return,08/02/2026,11/02/2026,106.30,Email
+CH-02-00352,Northwind Services 044,D050,Technical support,24/02/2026,03/03/2026,63.70,Phone
+CH-02-00353,Adventure Works Retail 051,D088,Warranty claim,07/02/2026,18/02/2026,262.60,Email
+CH-02-00354,Fabrikam Digital 058,D050,Technical support,02/02/2026,09/02/2026,524.20,Email
+CH-02-00355,Contoso Research 065,D109,Account access,26/02/2026,28/02/2026,364.40,Phone
+CH-02-00356,Northwind Logistics 072,D108,Technical support,23/02/2026,24/02/2026,169.80,Phone
+CH-02-00357,Adventure Works Analytics 079,D098,Delivery enquiry,19/02/2026,21/02/2026,660.90,Email
+CH-02-00358,Fabrikam Services 086,D088,Product return,04/02/2026,16/02/2026,605.40,Web
+CH-02-00359,Contoso Retail 093,D086,Technical support,17/02/2026,24/02/2026,525.30,Email
+CH-02-00360,Northwind Digital 100,D064,Product return,01/02/2026,11/02/2026,291.20,Email
+CH-02-00361,Adventure Works Research 107,D081,Product return,17/02/2026,25/02/2026,391.10,Phone
+CH-02-00362,Fabrikam Logistics 114,D037,Technical support,04/02/2026,,515.60,Phone
+CH-02-00363,Contoso Analytics 121,D077,Product return,08/02/2026,15/02/2026,436.40,Email
+CH-02-00364,Northwind Services 128,D058,Warranty claim,10/02/2026,21/02/2026,485.70,Phone
+CH-02-00365,Adventure Works Retail 135,D112,Account access,08/02/2026,15/02/2026,760.60,Email
+CH-02-00366,Fabrikam Digitl 142,D027,Warranty claim,02/02/2026,07/02/2026,563.00,Web
+CH-02-00367,Contoso Research 149,D028,Delivery enquiry,11/02/2026,18/02/2026,81.80,Email
+CH-02-00368,Northwind Logistics 156,D031,Product return,20/02/2026,23/02/2026,844.70,Phone
+CH-02-00369,Adventure Works Analytics 163,D029,Warranty claim,16/02/2026,25/02/2026,186.60,Phone
+CH-02-00370,Fabrikam Services 170,D002,Warranty claim,26/02/2026,27/02/2026,287.40,Email
+CH-02-00371,Contoso Retial 177,D074,Technical support,28/02/2026,09/03/2026,774.60,Phone
+CH-02-00372,Northwind Digital 184,D016,Delivery enquiry,24/02/2026,04/03/2026,575.30,Web
+CH-02-00373,Unregistered Partner 11,D029,Account access,03/02/2026,07/02/2026,360.30,Email
+CH-02-00374,Fabrikam Logistics 198,D095,Delivery enquiry,01/02/2026,08/02/2026,350.00,Phone
+CH-02-00375,Contoso Analytics 205,D078,Account access,01/02/2026,02/02/2026,736.20,Phone
+CH-02-00376,Northwind Srvcs 212,D066,Account access,20/02/2026,25/02/2026,163.30,Phone
+CH-02-00377,Adventure Works Retail 219,D056,Warranty claim,25/02/2026,02/03/2026,177.10,Phone
+CH-02-00378,Contoso Oxford Traders,D030,Warranty claim,11/02/2026,20/02/2026,76.10,Phone
+CH-02-00379,Contoso Analytics 013,D078,Technical support,27/02/2026,08/03/2026,260.70,Web
+CH-02-00380,Northwind Services 020,D049,Warranty claim,17/02/2026,01/03/2026,602.30,Phone
+CH-02-00381,Adventure Works Retial 027,D045,Warranty claim,11/02/2026,,346.30,Email
+CH-02-00382,Fabrikam Digital 034,D025,Technical support,19/02/2026,02/03/2026,574.90,Email
+CH-02-00383,Contoso Research 041,D058,Account access,07/02/2026,14/02/2026,618.70,Email
+CH-02-00384,Northwind Logistics 048,D056,Delivery enquiry,15/02/2026,24/02/2026,307.00,Email
+CH-02-00385,Adventure Works Analytics 055,D107,Technical support,12/02/2026,13/02/2026,603.00,Phone
+CH-02-00386,Fabrikam Srvcs 062,D098,Account access,02/02/2026,06/02/2026,403.10,Web
+CH-02-00387,Contoso Retail 069,D035,Technical support,13/02/2026,15/02/2026,700.90,Email
+CH-02-00388,Northwind Digital 076,D008,Account access,18/02/2026,22/02/2026,316.20,Phone
+CH-02-00389,Adventure Works Research 083,D050,Account access,07/02/2026,13/02/2026,510.60,Web
+CH-02-00390,Fabrikam Logistics 090,D030,Warranty claim,14/02/2026,16/02/2026,296.50,Web
+CH-02-00391,Contoso Analytcs 097,D087,Product return,12/02/2026,19/02/2026,450.50,Email
+CH-02-00392,Northwind Services 104,D035,Technical support,15/02/2026,17/02/2026,658.80,Web
+CH-02-00393,Adventure Works Retail 111,D002,Account access,05/02/2026,10/02/2026,280.20,Phone
+CH-02-00394,Fabrikam Digital 118,D013,Account access,12/02/2026,24/02/2026,248.80,Web
+CH-02-00395,Contoso Research 125,D071,Delivery enquiry,25/02/2026,01/03/2026,437.40,Web
+CH-02-00396,Northwind Logistics 132,D094,Warranty claim,10/02/2026,20/02/2026,555.10,Phone
+CH-02-00397,Adventure Works Analytics 139,D047,Technical support,28/02/2026,10/03/2026,559.80,Phone
+CH-02-00398,Fabrikam Services 146,D007,Product return,17/02/2026,19/02/2026,279.70,Phone
+CH-02-00399,Contoso Retail 153,D090,Warranty claim,18/02/2026,23/02/2026,692.80,Email
+CH-02-00400,Northwind Digital 160,D097,Delivery enquiry,06/02/2026,,569.80,Web
+CH-02-00401,Adventure Works Research 167,D038,Technical support,08/02/2026,12/02/2026,287.20,Web
+CH-02-00402,Fabrikam Logistics 174,D057,Delivery enquiry,23/02/2026,02/03/2026,340.00,Email
+CH-02-00403,Contoso Analytics 181,D068,Account access,07/02/2026,18/02/2026,121.40,Phone
+CH-02-00404,Unregistered Partner 08,D024,Technical support,16/02/2026,24/02/2026,123.40,Phone
+CH-02-00405,Adventure Works Retail 195,D094,Warranty claim,20/02/2026,24/02/2026,152.30,Web
+CH-02-00406,Fabrikam Digitl 202,D101,Account access,24/02/2026,28/02/2026,505.40,Web
+CH-02-00407,Contoso Research 209,D019,Product return,18/02/2026,19/02/2026,282.90,Phone
+CH-02-00408,Northwind Logistics 216,D045,Delivery enquiry,25/02/2026,08/03/2026,182.40,Email
+CH-02-00409,Imperial College London,D084,Account access,17/02/2026,19/02/2026,448.90,Email
+CH-02-00410,Fabrikam Digital 010,D068,Technical support,01/02/2026,12/02/2026,119.80,Web
+CH-02-00411,Contoso Research 017,D085,Technical support,18/02/2026,21/02/2026,356.70,Web
+CH-02-00412,Northwind Logistics 024,D052,Account access,23/02/2026,28/02/2026,704.20,Phone
+CH-02-00413,Adventure Works Analytics 031,D006,Technical support,03/02/2026,15/02/2026,741.60,Email
+CH-02-00414,Fabrikam Services 038,D016,Delivery enquiry,15/02/2026,17/02/2026,803.10,Web
+CH-02-00415,Contoso Retail 045,D082,Product return,28/02/2026,01/03/2026,41.60,Web
+CH-02-00416,Northwind Digitl 052,D086,Warranty claim,24/02/2026,01/03/2026,294.50,Web
+CH-02-00417,Adventure Works Research 059,D043,Warranty claim,09/02/2026,11/02/2026,757.60,Phone
+CH-02-00418,Fabrikam Logistics 066,D071,Delivery enquiry,15/02/2026,23/02/2026,276.50,Phone
+CH-02-00419,Contoso Analytics 073,D003,Account access,25/02/2026,,276.40,Phone
+CH-02-00420,Northwind Services 080,D030,Warranty claim,09/02/2026,14/02/2026,82.10,Phone
+CH-02-00421,Adventure Works Retial 087,D045,Warranty claim,23/02/2026,28/02/2026,199.60,Web
+CH-02-00422,Fabrikam Digital 094,D044,Delivery enquiry,12/02/2026,18/02/2026,400.40,Web
+CH-02-00423,Contoso Research 101,D003,Product return,21/02/2026,25/02/2026,220.10,Email
+CH-02-00424,Northwind Logistics 108,D064,Warranty claim,23/02/2026,06/03/2026,758.20,Web
+CH-02-00425,Adventure Works Analytics 115,D069,Product return,09/02/2026,18/02/2026,379.30,Phone
+CH-02-00426,Fabrikam Srvcs 122,D100,Warranty claim,09/02/2026,20/02/2026,558.80,Phone
+CH-02-00427,Contoso Retail 129,D057,Technical support,06/02/2026,12/02/2026,600.40,Phone
+CH-02-00428,Northwind Digital 136,D044,Warranty claim,05/02/2026,16/02/2026,127.80,Web
+CH-02-00429,Adventure Works Research 143,D077,Warranty claim,19/02/2026,21/02/2026,437.90,Phone
+CH-02-00430,Fabrikam Logistics 150,D111,Warranty claim,02/02/2026,12/02/2026,839.00,Phone
+CH-02-00431,Contoso Analytcs 157,D107,Delivery enquiry,21/02/2026,02/03/2026,114.90,Web
+CH-02-00432,Northwind Services 164,D033,Product return,04/02/2026,13/02/2026,167.70,Email
+CH-02-00433,Adventure Works Retail 171,D049,Warranty claim,01/02/2026,02/02/2026,261.50,Phone
+CH-02-00434,Fabrikam Digital 178,D006,Warranty claim,18/02/2026,24/02/2026,613.80,Web
+CH-02-00435,Unregistered Partner 05,D056,Account access,08/02/2026,15/02/2026,498.70,Email
+CH-02-00436,Northwind Logistics 192,D012,Technical support,12/02/2026,22/02/2026,398.40,Phone
+CH-02-00437,Adventure Works Analytics 199,D094,Account access,27/02/2026,09/03/2026,583.70,Email
+CH-02-00438,Fabrikam Services 206,D068,Delivery enquiry,16/02/2026,,645.10,Phone
+CH-02-00439,Contoso Retail 213,D045,Product return,27/02/2026,11/03/2026,218.10,Phone
+CH-02-00440,Northwind Digital 220,D046,Technical support,23/02/2026,01/03/2026,292.80,Web
+CH-02-00441,Fabrikam Retial Group,D027,Technical support,17/02/2026,26/02/2026,57.30,Email
+CH-02-00442,Fabrikam Services 014,D035,Account access,10/02/2026,18/02/2026,586.30,Phone
+CH-02-00443,Contoso Retail 021,D110,Warranty claim,04/02/2026,13/02/2026,289.10,Web
+CH-02-00444,Northwind Digital 028,D052,Account access,11/02/2026,18/02/2026,267.10,Phone
+CH-02-00445,Adventure Works Research 035,D061,Technical support,11/02/2026,14/02/2026,670.70,Phone
+CH-02-00446,Fabrikam Logistics 042,D023,Warranty claim,04/02/2026,05/02/2026,289.20,Phone
+CH-02-00447,Contoso Analytics 049,D085,Warranty claim,16/02/2026,17/02/2026,654.10,Phone
+CH-02-00448,Northwind Services 056,D090,Account access,26/02/2026,07/03/2026,124.80,Phone
+CH-02-00449,Adventure Works Retail 063,D097,Technical support,04/02/2026,15/02/2026,557.10,Web
+CH-02-00450,Fabrikam Digital 070,D028,Account access,03/02/2026,06/02/2026,40.90,Web
+CH-02-00451,Contoso Research 077,D010,Technical support,23/02/2026,24/02/2026,373.70,Email
+CH-02-00452,Northwind Logistics 084,D082,Account access,16/02/2026,28/02/2026,91.40,Email
+CH-02-00453,Adventure Works Analytics 091,D028,Warranty claim,24/02/2026,27/02/2026,519.50,Phone
+CH-02-00454,Fabrikam Services 098,D066,Delivery enquiry,01/02/2026,07/02/2026,221.80,Web
+CH-02-00455,Contoso Retail 105,D017,Warranty claim,09/02/2026,15/02/2026,611.20,Email
+CH-02-00456,Northwind Digitl 112,D098,Product return,05/02/2026,07/02/2026,215.50,Phone
+CH-02-00457,Adventure Works Research 119,D110,Product return,03/02/2026,,515.20,Email
+CH-02-00458,Fabrikam Logistics 126,D045,Technical support,16/02/2026,24/02/2026,236.40,Email
+CH-02-00459,Contoso Analytics 133,D052,Account access,28/02/2026,01/03/2026,35.60,Email
+CH-02-00460,Northwind Services 140,D085,Product return,21/02/2026,01/03/2026,234.70,Email
+CH-02-00461,Adventure Works Retial 147,D003,Product return,04/02/2026,06/02/2026,449.50,Email
+CH-02-00462,Fabrikam Digital 154,D002,Technical support,24/02/2026,02/03/2026,586.60,Web
+CH-02-00463,Contoso Research 161,D097,Technical support,12/02/2026,21/02/2026,806.50,Web
+CH-02-00464,Northwind Logistics 168,D061,Product return,09/02/2026,15/02/2026,638.80,Phone
+CH-02-00465,Adventure Works Analytics 175,D044,Product return,11/02/2026,17/02/2026,642.70,Web
+CH-02-00466,Unregistered Partner 02,D037,Product return,01/02/2026,03/02/2026,755.90,Phone
+CH-02-00467,Contoso Retail 189,D019,Product return,02/02/2026,04/02/2026,596.70,Phone
+CH-02-00468,Northwind Digital 196,D044,Warranty claim,02/02/2026,09/02/2026,295.70,Web
+CH-02-00469,Adventure Works Research 203,D010,Technical support,25/02/2026,04/03/2026,354.60,Email
+CH-02-00470,Fabrikam Logistics 210,D024,Technical support,09/02/2026,18/02/2026,155.10,Email
+CH-02-00471,Contoso Analytcs 217,D007,Product return,07/02/2026,15/02/2026,475.60,Email
+CH-02-00472,Oxford University Press,D044,Warranty claim,07/02/2026,14/02/2026,156.50,Phone
+CH-02-00473,Adventure Works Research 011,D009,Product return,28/02/2026,10/03/2026,575.10,Phone
+CH-02-00474,Fabrikam Logistics 018,D064,Delivery enquiry,13/02/2026,25/02/2026,243.10,Phone
+CH-02-00475,Contoso Analytics 025,D027,Warranty claim,07/02/2026,11/02/2026,836.50,Phone
+CH-02-00476,Northwind Srvcs 032,D013,Warranty claim,14/02/2026,,674.60,Phone
+CH-02-00477,Adventure Works Retail 039,D002,Product return,19/02/2026,26/02/2026,264.70,Web
+CH-02-00478,Fabrikam Digital 046,D109,Delivery enquiry,19/02/2026,02/03/2026,105.90,Email
+CH-02-00479,Contoso Research 053,D034,Product return,13/02/2026,18/02/2026,514.00,Phone
+CH-02-00480,Northwind Logistics 060,D105,Delivery enquiry,16/02/2026,22/02/2026,77.20,Web
+CH-02-00481,Adventure Works Analytcs 067,D028,Delivery enquiry,01/02/2026,13/02/2026,135.60,Email
+CH-02-00482,Fabrikam Services 074,D102,Product return,09/02/2026,19/02/2026,418.40,Phone
+CH-02-00483,Contoso Retail 081,D022,Product return,19/02/2026,27/02/2026,180.10,Phone
+CH-02-00484,Northwind Digital 088,D090,Warranty claim,05/02/2026,17/02/2026,494.00,Phone
+CH-02-00485,Adventure Works Research 095,D061,Technical support,20/02/2026,03/03/2026,504.20,Web
+CH-02-00486,Fabrikam Logistics 102,D087,Delivery enquiry,12/02/2026,20/02/2026,807.40,Phone
+CH-02-00487,Contoso Analytics 109,D017,Product return,25/02/2026,27/02/2026,426.90,Email
+CH-02-00488,Northwind Services 116,D104,Product return,09/02/2026,21/02/2026,710.00,Web
+CH-02-00489,Adventure Works Retail 123,D049,Account access,03/02/2026,09/02/2026,130.70,Email
+CH-02-00490,Fabrikam Digital 130,D061,Warranty claim,04/02/2026,08/02/2026,78.70,Email
+CH-02-00491,Contoso Research 137,D004,Delivery enquiry,09/02/2026,16/02/2026,695.60,Email
+CH-02-00492,Northwind Logistics 144,D100,Delivery enquiry,28/02/2026,11/03/2026,433.80,Email
+CH-02-00493,Adventure Works Analytics 151,D062,Warranty claim,03/02/2026,08/02/2026,22.40,Phone
+CH-02-00494,Fabrikam Services 158,D043,Technical support,25/02/2026,05/03/2026,336.70,Email
+CH-02-00495,Contoso Retail 165,D089,Technical support,10/02/2026,,844.20,Web
+CH-02-00496,Northwind Digitl 172,D034,Warranty claim,26/02/2026,07/03/2026,799.70,Email
+CH-02-00497,Unregistered Partner 89,D096,Warranty claim,28/02/2026,02/03/2026,436.80,Web
+CH-02-00498,Fabrikam Logistics 186,D063,Account access,13/02/2026,23/02/2026,61.10,Web
+CH-02-00499,Contoso Analytics 193,D076,Product return,07/02/2026,12/02/2026,365.50,Web
+CH-02-00500,Northwind Services 200,D094,Product return,09/02/2026,15/02/2026,217.10,Phone
+CH-02-00501,Adventure Works Retial 207,D090,Warranty claim,01/02/2026,02/02/2026,390.40,Email
+CH-02-00502,Fabrikam Digital 214,D015,Warranty claim,07/02/2026,13/02/2026,260.70,Web
+CH-02-00503,University of Oxford,D060,Warranty claim,20/02/2026,25/02/2026,805.10,Phone
+CH-02-00504,Adventure Works UK,D093,Delivery enquiry,04/02/2026,13/02/2026,145.30,Web
+CH-02-00505,Adventure Works Retail 015,D041,Delivery enquiry,25/02/2026,06/03/2026,332.00,Email
+CH-02-00506,Fabrikam Digitl 022,D079,Technical support,23/02/2026,06/03/2026,86.20,Phone
+CH-02-00507,Contoso Research 029,D022,Delivery enquiry,18/02/2026,02/03/2026,463.20,Phone
+CH-02-00508,Northwind Logistics 036,D029,Warranty claim,18/02/2026,01/03/2026,683.30,Phone
+CH-02-00509,Adventure Works Analytics 043,D102,Technical support,03/02/2026,07/02/2026,850.00,Web
+CH-02-00510,Fabrikam Services 050,D084,Warranty claim,11/02/2026,23/02/2026,754.40,Phone
+CH-02-00511,Contoso Retial 057,D070,Technical support,13/02/2026,22/02/2026,796.70,Web
+CH-02-00512,Northwind Digital 064,D075,Delivery enquiry,28/02/2026,03/03/2026,58.50,Web
+CH-02-00513,Adventure Works Research 071,D076,Account access,10/02/2026,21/02/2026,283.60,Web
+CH-02-00514,Fabrikam Logistics 078,D005,Warranty claim,20/02/2026,,826.70,Email
+CH-02-00515,Contoso Analytics 085,D100,Delivery enquiry,09/02/2026,14/02/2026,541.20,Email
+CH-02-00516,Northwind Srvcs 092,D101,Delivery enquiry,03/02/2026,07/02/2026,350.90,Web
+CH-02-00517,Adventure Works Retail 099,D054,Technical support,16/02/2026,20/02/2026,478.00,Phone
+CH-02-00518,Fabrikam Digital 106,D011,Technical support,07/02/2026,15/02/2026,503.10,Email
+CH-02-00519,Contoso Research 113,D062,Account access,14/02/2026,20/02/2026,821.50,Email
+CH-02-00520,Northwind Logistics 120,D011,Product return,25/02/2026,01/03/2026,748.80,Phone
+CH-02-00521,Adventure Works Analytcs 127,D076,Technical support,23/02/2026,05/03/2026,614.20,Web
+CH-02-00522,Fabrikam Services 134,D081,Technical support,13/02/2026,25/02/2026,281.50,Web
+CH-02-00523,Contoso Retail 141,D085,Delivery enquiry,11/02/2026,17/02/2026,439.80,Phone
+CH-02-00524,Northwind Digital 148,D006,Account access,24/02/2026,26/02/2026,510.80,Email
+CH-02-00525,Adventure Works Research 155,D073,Technical support,23/02/2026,26/02/2026,67.20,Email
+CH-02-00526,Fabrikam Logistics 162,D109,Product return,08/02/2026,15/02/2026,774.00,Web
+CH-02-00527,Contoso Analytics 169,D015,Technical support,03/02/2026,13/02/2026,627.90,Web
+CH-02-00528,Unregistered Partner 86,D103,Product return,24/02/2026,01/03/2026,491.40,Phone
+CH-02-00529,Adventure Works Retail 183,D062,Technical support,23/02/2026,03/03/2026,286.90,Email
+CH-02-00530,Fabrikam Digital 190,D024,Account access,04/02/2026,16/02/2026,189.10,Email
+CH-02-00531,Contoso Research 197,D110,Product return,13/02/2026,20/02/2026,300.30,Web
+CH-02-00532,Northwind Logistics 204,D011,Technical support,12/02/2026,17/02/2026,748.50,Email
+CH-02-00533,Adventure Works Analytics 211,D013,Technical support,02/02/2026,,126.70,Web
+CH-02-00534,Fabrikam Services 218,D090,Product return,19/02/2026,22/02/2026,202.80,Phone
+CH-02-00535,Contoso Oxford Trading,D094,Product return,17/02/2026,20/02/2026,154.40,Web
+CH-02-00536,Northwind Logistics 012,D073,Technical support,22/02/2026,05/03/2026,141.30,Phone
+CH-02-00537,Adventure Works Analytics 019,D016,Warranty claim,27/02/2026,10/03/2026,462.40,Web
+CH-02-00538,Fabrikam Services 026,D085,Product return,02/02/2026,05/02/2026,211.30,Phone
+CH-02-00539,Contoso Retail 033,D067,Account access,14/02/2026,20/02/2026,98.80,Email
+CH-02-00540,Northwind Digital 040,D065,Warranty claim,28/02/2026,05/03/2026,599.60,Phone
+CH-02-00541,Adventure Works Research 047,D016,Product return,15/02/2026,17/02/2026,401.00,Phone
+CH-02-00542,Fabrikam Logistics 054,D063,Delivery enquiry,06/02/2026,08/02/2026,558.40,Web
+CH-02-00543,Contoso Analytics 061,D030,Warranty claim,13/02/2026,19/02/2026,127.40,Phone
+CH-02-00544,Northwind Services 068,D033,Delivery enquiry,25/02/2026,05/03/2026,381.70,Phone
+CH-02-00545,Adventure Works Retail 075,D105,Warranty claim,20/02/2026,03/03/2026,322.60,Email
+CH-02-00546,Fabrikam Digitl 082,D055,Technical support,09/02/2026,20/02/2026,86.20,Email
+CH-02-00547,Contoso Research 089,D067,Product return,21/02/2026,05/03/2026,54.50,Phone
+CH-02-00548,Northwind Logistics 096,D018,Technical support,08/02/2026,20/02/2026,825.30,Web
+CH-02-00549,Adventure Works Analytics 103,D041,Account access,17/02/2026,23/02/2026,494.00,Email
+CH-02-00550,Fabrikam Services 110,D047,Technical support,09/02/2026,13/02/2026,145.30,Email
+CH-02-00551,Contoso Retial 117,D062,Delivery enquiry,06/02/2026,12/02/2026,574.50,Phone
+CH-02-00552,Northwind Digital 124,D014,Technical support,18/02/2026,,195.80,Email
+CH-02-00553,Adventure Works Research 131,D011,Technical support,16/02/2026,26/02/2026,63.60,Phone
+CH-02-00554,Fabrikam Logistics 138,D043,Product return,03/02/2026,04/02/2026,615.70,Web
+CH-02-00555,Contoso Analytics 145,D097,Delivery enquiry,06/02/2026,15/02/2026,398.00,Phone
+CH-02-00556,Northwind Srvcs 152,D026,Technical support,20/02/2026,04/03/2026,398.60,Web
+CH-02-00557,Adventure Works Retail 159,D111,Product return,13/02/2026,21/02/2026,460.60,Phone
+CH-02-00558,Fabrikam Digital 166,D054,Account access,21/02/2026,28/02/2026,453.60,Phone
+CH-02-00559,Unregistered Partner 83,D109,Account access,26/02/2026,28/02/2026,255.00,Web
+CH-02-00560,Northwind Logistics 180,D050,Product return,18/02/2026,28/02/2026,230.60,Email
+CH-02-00561,Adventure Works Analytcs 187,D093,Account access,17/02/2026,21/02/2026,794.70,Phone
+CH-02-00562,Fabrikam Services 194,D076,Technical support,21/02/2026,28/02/2026,747.50,Phone
+CH-02-00563,Contoso Retail 201,D053,Warranty claim,12/02/2026,23/02/2026,517.80,Email
+CH-02-00564,Northwind Digital 208,D001,Product return,09/02/2026,18/02/2026,323.30,Phone
+CH-02-00565,Adventure Works Research 215,D097,Account access,11/02/2026,16/02/2026,284.80,Email
+CH-02-00566,Cambridge Univ.,D063,Technical support,22/02/2026,01/03/2026,750.50,Web
+CH-02-00567,Contoso Retail 009,D093,Delivery enquiry,25/02/2026,27/02/2026,353.00,Email
+CH-02-00568,Northwind Digital 016,D106,Delivery enquiry,09/02/2026,21/02/2026,687.10,Email
+CH-02-00569,Adventure Works Research 023,D062,Warranty claim,26/02/2026,01/03/2026,656.90,Email
+CH-02-00570,Fabrikam Logistics 030,D060,Product return,04/02/2026,14/02/2026,301.30,Phone
+CH-02-00571,Contoso Analytcs 037,D039,Product return,01/02/2026,,403.40,Web
+CH-02-00572,Northwind Services 044,D031,Account access,02/02/2026,04/02/2026,195.10,Email
+CH-02-00573,Adventure Works Retail 051,D014,Warranty claim,19/02/2026,24/02/2026,238.30,Web
+CH-02-00574,Fabrikam Digital 058,D047,Delivery enquiry,13/02/2026,21/02/2026,53.10,Email
+CH-02-00575,Contoso Research 065,D086,Delivery enquiry,12/02/2026,18/02/2026,509.10,Web
+CH-02-00576,Northwind Logistics 072,D105,Delivery enquiry,01/02/2026,03/02/2026,360.50,Email
+CH-02-00577,Adventure Works Analytics 079,D059,Warranty claim,11/02/2026,22/02/2026,567.50,Phone
+CH-02-00578,Fabrikam Services 086,D036,Warranty claim,23/02/2026,03/03/2026,195.70,Web
+CH-02-00579,Contoso Retail 093,D004,Delivery enquiry,18/02/2026,28/02/2026,131.60,Email
+CH-02-00580,Northwind Digital 100,D022,Delivery enquiry,23/02/2026,03/03/2026,489.40,Web
+CH-02-00581,Adventure Works Research 107,D100,Warranty claim,25/02/2026,03/03/2026,825.90,Email
+CH-02-00582,Fabrikam Logistics 114,D078,Technical support,28/02/2026,11/03/2026,126.50,Web
+CH-02-00583,Contoso Analytics 121,D074,Product return,01/02/2026,12/02/2026,214.00,Phone
+CH-02-00584,Northwind Services 128,D090,Product return,06/02/2026,07/02/2026,651.60,Email
+CH-02-00585,Adventure Works Retail 135,D098,Product return,18/02/2026,27/02/2026,520.40,Phone
+CH-02-00586,Fabrikam Digitl 142,D093,Warranty claim,02/02/2026,14/02/2026,298.70,Email
+CH-02-00587,Contoso Research 149,D104,Technical support,18/02/2026,26/02/2026,682.60,Phone
+CH-02-00588,Northwind Logistics 156,D050,Account access,11/02/2026,13/02/2026,273.80,Phone
+CH-02-00589,Adventure Works Analytics 163,D079,Technical support,02/02/2026,07/02/2026,230.90,Phone
+CH-02-00590,Unregistered Partner 80,D097,Technical support,27/02/2026,,273.80,Email
+CH-02-00591,Contoso Retial 177,D054,Warranty claim,27/02/2026,06/03/2026,303.10,Email
+CH-02-00592,Northwind Digital 184,D058,Product return,05/02/2026,15/02/2026,749.60,Phone
+CH-02-00593,Adventure Works Research 191,D065,Product return,01/02/2026,13/02/2026,600.70,Email
+CH-02-00594,Fabrikam Logistics 198,D111,Technical support,25/02/2026,27/02/2026,268.50,Phone
+CH-02-00595,Contoso Analytics 205,D108,Delivery enquiry,17/02/2026,19/02/2026,784.90,Web
+CH-02-00596,Northwind Srvcs 212,D051,Delivery enquiry,23/02/2026,01/03/2026,475.50,Phone
+CH-02-00597,Adventure Works Retail 219,D108,Account access,13/02/2026,18/02/2026,512.10,Phone
+CH-02-00598,Contoso Oxford Traders,D022,Product return,20/02/2026,21/02/2026,263.30,Email
+CH-02-00599,Contoso Analytics 013,D007,Delivery enquiry,09/02/2026,17/02/2026,643.50,Web
+CH-02-00600,Northwind Services 020,D028,Delivery enquiry,11/02/2026,12/02/2026,333.40,Email
+CH-02-00601,Adventure Works Retial 027,D069,Warranty claim,13/02/2026,19/02/2026,81.10,Phone
+CH-02-00602,Fabrikam Digital 034,D090,Product return,03/02/2026,08/02/2026,206.90,Phone
+CH-02-00603,Contoso Research 041,D024,Warranty claim,15/02/2026,23/02/2026,38.70,Web
+CH-02-00604,Northwind Logistics 048,D037,Product return,23/02/2026,01/03/2026,693.60,Email
+CH-02-00605,Adventure Works Analytics 055,D093,Product return,05/02/2026,08/02/2026,295.20,Phone
+CH-02-00606,Fabrikam Srvcs 062,D108,Product return,14/02/2026,19/02/2026,674.30,Web
+CH-02-00607,Contoso Retail 069,D029,Product return,26/02/2026,28/02/2026,755.80,Web
+CH-02-00608,Northwind Digital 076,D061,Product return,14/02/2026,22/02/2026,786.30,Phone
+CH-02-00609,Adventure Works Research 083,D033,Account access,17/02/2026,,254.00,Email
+CH-02-00610,Fabrikam Logistics 090,D001,Product return,23/02/2026,02/03/2026,695.40,Web
+CH-02-00611,Contoso Analytcs 097,D053,Delivery enquiry,28/02/2026,07/03/2026,717.20,Phone
+CH-02-00612,Northwind Services 104,D078,Account access,02/02/2026,14/02/2026,268.60,Email
+CH-02-00613,Adventure Works Retail 111,D057,Product return,09/02/2026,11/02/2026,562.40,Email
+CH-02-00614,Fabrikam Digital 118,D080,Product return,19/02/2026,27/02/2026,665.40,Email
+CH-02-00615,Contoso Research 125,D008,Product return,25/02/2026,28/02/2026,733.80,Phone
+CH-02-00616,Northwind Logistics 132,D081,Account access,11/02/2026,23/02/2026,499.70,Phone
+CH-02-00617,Adventure Works Analytics 139,D020,Product return,08/02/2026,15/02/2026,388.20,Email
+CH-02-00618,Fabrikam Services 146,D076,Technical support,23/02/2026,01/03/2026,272.00,Phone
+CH-02-00619,Contoso Retail 153,D040,Warranty claim,01/02/2026,05/02/2026,337.60,Email
+CH-02-00620,Northwind Digital 160,D090,Warranty claim,25/02/2026,06/03/2026,822.80,Email
+CH-02-00621,Unregistered Partner 77,D100,Warranty claim,27/02/2026,11/03/2026,278.00,Web
+CH-02-00622,Fabrikam Logistics 174,D070,Delivery enquiry,05/02/2026,07/02/2026,80.50,Web
+CH-02-00623,Contoso Analytics 181,D039,Delivery enquiry,07/02/2026,19/02/2026,133.40,Web
+CH-02-00624,Northwind Services 188,D031,Warranty claim,02/02/2026,07/02/2026,640.20,Web
+CH-02-00625,Adventure Works Retail 195,D017,Technical support,11/02/2026,20/02/2026,95.10,Email
+CH-02-00626,Fabrikam Digitl 202,D018,Warranty claim,17/02/2026,20/02/2026,592.70,Email
+CH-02-00627,Contoso Research 209,D012,Technical support,16/02/2026,22/02/2026,25.20,Email
+CH-02-00628,Northwind Logistics 216,D039,Account access,02/02/2026,,308.10,Web
+CH-02-00629,Imperial College London,D081,Delivery enquiry,10/02/2026,13/02/2026,161.10,Web
+CH-02-00630,Fabrikam Digital 010,D047,Account access,08/02/2026,19/02/2026,460.40,Email
+CH-02-00631,Contoso Research 017,D004,Product return,17/02/2026,22/02/2026,641.10,Email
+CH-02-00632,Northwind Logistics 024,D021,Product return,10/02/2026,17/02/2026,662.60,Email
+CH-02-00633,Adventure Works Analytics 031,D013,Product return,03/02/2026,14/02/2026,247.90,Web
+CH-02-00634,Fabrikam Services 038,D074,Product return,25/02/2026,02/03/2026,142.90,Email
+CH-02-00635,Contoso Retail 045,D079,Product return,19/02/2026,26/02/2026,448.80,Web
+CH-02-00636,Northwind Digitl 052,D029,Technical support,02/02/2026,03/02/2026,44.90,Email
+CH-02-00637,Adventure Works Research 059,D037,Account access,14/02/2026,20/02/2026,493.60,Email
+CH-02-00638,Fabrikam Logistics 066,D013,Delivery enquiry,16/02/2026,18/02/2026,724.10,Web
+CH-02-00639,Contoso Analytics 073,D091,Delivery enquiry,01/02/2026,06/02/2026,183.00,Phone
+CH-02-00640,Northwind Services 080,D084,Account access,08/02/2026,10/02/2026,322.20,Phone
+CH-02-00641,Adventure Works Retial 087,D006,Product return,14/02/2026,16/02/2026,781.90,Web
+CH-02-00642,Fabrikam Digital 094,D078,Product return,14/02/2026,26/02/2026,381.20,Phone
+CH-02-00643,Contoso Research 101,D073,Product return,01/02/2026,03/02/2026,707.80,Email
+CH-02-00644,Northwind Logistics 108,D068,Warranty claim,06/02/2026,14/02/2026,106.40,Email
+CH-02-00645,Adventure Works Analytics 115,D023,Account access,27/02/2026,03/03/2026,469.20,Web
+CH-02-00646,Fabrikam Srvcs 122,D012,Account access,01/02/2026,05/02/2026,585.10,Email
+CH-02-00647,Contoso Retail 129,D002,Warranty claim,07/02/2026,,195.70,Phone
+CH-02-00648,Northwind Digital 136,D007,Product return,13/02/2026,20/02/2026,810.90,Email
+CH-02-00649,Adventure Works Research 143,D101,Product return,28/02/2026,06/03/2026,403.30,Web
+CH-02-00650,Fabrikam Logistics 150,D064,Account access,17/02/2026,23/02/2026,587.90,Email
+CH-02-00651,Contoso Analytcs 157,D091,Warranty claim,22/02/2026,24/02/2026,156.30,Phone
+CH-02-00652,Unregistered Partner 74,D030,Product return,08/02/2026,16/02/2026,520.90,Web
+CH-02-00653,Adventure Works Retail 171,D098,Warranty claim,23/02/2026,24/02/2026,544.70,Phone
+CH-02-00654,Fabrikam Digital 178,D042,Warranty claim,16/02/2026,21/02/2026,370.10,Email
+CH-02-00655,Contoso Research 185,D014,Product return,06/02/2026,15/02/2026,371.10,Email
+CH-02-00656,Northwind Logistics 192,D059,Technical support,27/02/2026,11/03/2026,42.30,Email
+CH-02-00657,Adventure Works Analytics 199,D065,Delivery enquiry,13/02/2026,24/02/2026,744.90,Email
+CH-02-00658,Fabrikam Services 206,D068,Technical support,27/02/2026,09/03/2026,827.10,Email
+CH-02-00659,Contoso Retail 213,D089,Account access,27/02/2026,02/03/2026,187.30,Phone
+CH-02-00660,Northwind Digital 220,D042,Product return,18/02/2026,20/02/2026,549.30,Web
+CH-02-00661,Fabrikam Retial Group,D021,Technical support,19/02/2026,01/03/2026,553.10,Web
+CH-02-00662,Fabrikam Services 014,D105,Product return,06/02/2026,08/02/2026,110.40,Phone
+CH-02-00663,Contoso Retail 021,D076,Technical support,21/02/2026,05/03/2026,601.00,Web
+CH-02-00664,Northwind Digital 028,D013,Technical support,02/02/2026,05/02/2026,453.80,Email
+CH-02-00665,Adventure Works Research 035,D053,Product return,27/02/2026,02/03/2026,460.70,Web
+CH-02-00666,Fabrikam Logistics 042,D070,Delivery enquiry,11/02/2026,,755.00,Email
+CH-02-00667,Contoso Analytics 049,D043,Technical support,21/02/2026,24/02/2026,73.30,Email
+CH-02-00668,Northwind Services 056,D095,Warranty claim,16/02/2026,26/02/2026,562.60,Email
+CH-02-00669,Adventure Works Retail 063,D050,Delivery enquiry,25/02/2026,01/03/2026,248.20,Phone
+CH-02-00670,Fabrikam Digital 070,D018,Account access,20/02/2026,01/03/2026,617.40,Email
+CH-02-00671,Contoso Research 077,D049,Delivery enquiry,20/02/2026,22/02/2026,292.00,Web
+CH-02-00672,Northwind Logistics 084,D062,Warranty claim,16/02/2026,17/02/2026,101.00,Web
+CH-02-00673,Adventure Works Analytics 091,D027,Technical support,19/02/2026,22/02/2026,646.50,Web
+CH-02-00674,Fabrikam Services 098,D049,Account access,24/02/2026,06/03/2026,698.00,Email
+CH-02-00675,Contoso Retail 105,D073,Delivery enquiry,04/02/2026,09/02/2026,86.40,Web
+CH-02-00676,Northwind Digitl 112,D061,Product return,25/02/2026,05/03/2026,511.10,Web
+CH-02-00677,Adventure Works Research 119,D087,Account access,05/02/2026,08/02/2026,135.20,Web
+CH-02-00678,Fabrikam Logistics 126,D098,Technical support,14/02/2026,24/02/2026,22.70,Web
+CH-02-00679,Contoso Analytics 133,D070,Delivery enquiry,03/02/2026,07/02/2026,704.00,Phone
+CH-02-00680,Northwind Services 140,D032,Warranty claim,05/02/2026,10/02/2026,139.80,Web
+CH-02-00681,Adventure Works Retial 147,D099,Product return,06/02/2026,10/02/2026,696.00,Phone
+CH-02-00682,Fabrikam Digital 154,D110,Product return,14/02/2026,22/02/2026,288.60,Web
+CH-02-00683,Unregistered Partner 71,D007,Product return,11/02/2026,20/02/2026,728.60,Phone
+CH-02-00684,Northwind Logistics 168,D028,Delivery enquiry,27/02/2026,28/02/2026,536.20,Web
+CH-02-00685,Adventure Works Analytics 175,D053,Warranty claim,03/02/2026,,319.90,Phone
+CH-02-00686,Fabrikam Srvcs 182,D085,Technical support,01/02/2026,09/02/2026,471.00,Email
+CH-02-00687,Contoso Retail 189,D057,Account access,15/02/2026,26/02/2026,456.30,Phone
+CH-02-00688,Northwind Digital 196,D089,Technical support,16/02/2026,27/02/2026,243.60,Phone
+CH-02-00689,Adventure Works Research 203,D034,Warranty claim,04/02/2026,16/02/2026,701.90,Email
+CH-02-00690,Fabrikam Logistics 210,D013,Technical support,18/02/2026,20/02/2026,79.90,Phone
+CH-02-00691,Contoso Analytcs 217,D077,Warranty claim,07/02/2026,17/02/2026,710.90,Email
+CH-02-00692,Oxford University Press,D051,Warranty claim,13/02/2026,21/02/2026,426.50,Web
+CH-02-00693,Adventure Works Research 011,D076,Account access,12/02/2026,23/02/2026,692.70,Web
+CH-02-00694,Fabrikam Logistics 018,D105,Account access,11/02/2026,20/02/2026,721.60,Email
+CH-02-00695,Contoso Analytics 025,D001,Technical support,09/02/2026,18/02/2026,709.10,Web
+CH-02-00696,Northwind Srvcs 032,D085,Delivery enquiry,11/02/2026,20/02/2026,35.90,Email
+CH-02-00697,Adventure Works Retail 039,D022,Product return,02/02/2026,10/02/2026,701.50,Email
+CH-02-00698,Fabrikam Digital 046,D058,Product return,08/02/2026,14/02/2026,327.90,Phone
+CH-02-00699,Contoso Research 053,D046,Product return,07/02/2026,12/02/2026,446.10,Email
+CH-02-00700,Northwind Logistics 060,D001,Delivery enquiry,15/02/2026,18/02/2026,274.40,Phone
